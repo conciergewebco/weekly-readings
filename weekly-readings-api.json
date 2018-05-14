@@ -1,84 +1,86 @@
 {
-    "2018": {
-        "05":{
-            "13":{
-                "title":            "The Ascension of the Lord",
-                "day_of_week":      "Sunday",
-                "lectionary_num":   "58",
-                "lit_season":       "Easter",
-                "readings": {
-                    "reading_1":        "ACTS 1:1-11",
-                    "psalm":            "PS 47:2-3, 6-7, 8-9",
-                    "reading_2":        "EPH 1:17-23",
-                    "gospel":           "MK 16:15-20"
-                }
-            },
-            "14":{
-                "title":            "Feast of Saint Matthias, Apostle",
-                "day_of_week":      "Monday",
-                "lectionary_num":   "564",
-                "lit_season":       "Easter",
-                "readings": {
-                    "reading_1":        "ACTS 1:15-17, 20-26",
-                    "psalm":            "PS 113:1-2, 3-4, 5-6, 7-8",
-                    "gospel":           "JN 15:9-17"
-                }
-            },
-            "15":{
-                "title":            "Tuesday of the Seventh Week of Easter",
-                "day_of_week":      "Tuesday",
-                "lectionary_num":   "298",
-                "lit_season":       "Easter",
-                "readings": {
-                    "reading_1":        "ACTS 20:17-27",
-                    "psalm":            "PS 68:10-11, 20-21",
-                    "gospel":           "JN 17:1-11A"
-                }
-            },
-            "16":{
-                "title":            "Wednesday of the Seventh Week of Easter",
-                "day_of_week":      "Wednesday",
-                "lectionary_num":   "299",
-                "lit_season":       "Easter",
-                "readings": {
-                    "reading_1":        "ACTS 20:28-38",
-                    "psalm":            "PS 68:29-30, 33-35A, 35BC-36AB",
-                    "gospel":           "JN 17:11B-19"
-                }
-            },
-            "17":{
-                "title":            "Thursday of the Seventh Week of Easter",
-                "day_of_week":      "Thursday",
-                "lectionary_num":   "300",
-                "lit_season":       "Easter",
-                "readings": {
-                    "reading_1":        "ACTS 22:30; 23:6-11",
-                    "psalm":            "PS 16:1-2A AND 5, 7-8, 9-10, 11",
-                    "gospel":           "JN 17:20-26"
-                }
-            },
-            "18":{
-                "title":            "Friday of the Seventh Week of Easter",
-                "day_of_week":      "Friday",
-                "lectionary_num":   "301",
-                "lit_season":       "Easter",
-                "readings": {
-                    "reading_1":        "ACTS 25:13B-21",
-                    "psalm":            "PS 103:1-2, 11-12, 19-20AB",
-                    "gospel":           "JN 21:15-19"
-                }
-            },
-            "19":{
-                "title":            "Saturday of the Seventh Week of Easter",
-                "day_of_week":      "Saturday",
-                "lectionary_num":   "302",
-                "lit_season":       "Easter",
-                "readings": {
-                    "reading_1":        "ACTS 28:16-20, 30-31",
-                    "psalm":            "PS 11:4, 5 AND 7",
-                    "gospel":           "JN 21:20-25"
-                }
-            },
+    "dates": {
+        "2018": {
+            "05":{
+                "13":{
+                    "title":            "The Ascension of the Lord",
+                    "day_of_week":      "Sunday",
+                    "lectionary_num":   "58",
+                    "lit_season":       "Easter",
+                    "readings": {
+                        "reading_1":        "ACTS 1:1-11",
+                        "psalm":            "PS 47:2-3, 6-7, 8-9",
+                        "reading_2":        "EPH 1:17-23",
+                        "gospel":           "MK 16:15-20"
+                    }
+                },
+                "14":{
+                    "title":            "Feast of Saint Matthias, Apostle",
+                    "day_of_week":      "Monday",
+                    "lectionary_num":   "564",
+                    "lit_season":       "Easter",
+                    "readings": {
+                        "reading_1":        "ACTS 1:15-17, 20-26",
+                        "psalm":            "PS 113:1-2, 3-4, 5-6, 7-8",
+                        "gospel":           "JN 15:9-17"
+                    }
+                },
+                "15":{
+                    "title":            "Tuesday of the Seventh Week of Easter",
+                    "day_of_week":      "Tuesday",
+                    "lectionary_num":   "298",
+                    "lit_season":       "Easter",
+                    "readings": {
+                        "reading_1":        "ACTS 20:17-27",
+                        "psalm":            "PS 68:10-11, 20-21",
+                        "gospel":           "JN 17:1-11A"
+                    }
+                },
+                "16":{
+                    "title":            "Wednesday of the Seventh Week of Easter",
+                    "day_of_week":      "Wednesday",
+                    "lectionary_num":   "299",
+                    "lit_season":       "Easter",
+                    "readings": {
+                        "reading_1":        "ACTS 20:28-38",
+                        "psalm":            "PS 68:29-30, 33-35A, 35BC-36AB",
+                        "gospel":           "JN 17:11B-19"
+                    }
+                },
+                "17":{
+                    "title":            "Thursday of the Seventh Week of Easter",
+                    "day_of_week":      "Thursday",
+                    "lectionary_num":   "300",
+                    "lit_season":       "Easter",
+                    "readings": {
+                        "reading_1":        "ACTS 22:30; 23:6-11",
+                        "psalm":            "PS 16:1-2A AND 5, 7-8, 9-10, 11",
+                        "gospel":           "JN 17:20-26"
+                    }
+                },
+                "18":{
+                    "title":            "Friday of the Seventh Week of Easter",
+                    "day_of_week":      "Friday",
+                    "lectionary_num":   "301",
+                    "lit_season":       "Easter",
+                    "readings": {
+                        "reading_1":        "ACTS 25:13B-21",
+                        "psalm":            "PS 103:1-2, 11-12, 19-20AB",
+                        "gospel":           "JN 21:15-19"
+                    }
+                },
+                "19":{
+                    "title":            "Saturday of the Seventh Week of Easter",
+                    "day_of_week":      "Saturday",
+                    "lectionary_num":   "302",
+                    "lit_season":       "Easter",
+                    "readings": {
+                        "reading_1":        "ACTS 28:16-20, 30-31",
+                        "psalm":            "PS 11:4, 5 AND 7",
+                        "gospel":           "JN 21:20-25"
+                    }
+                },
+            }
         }
     }
 }
