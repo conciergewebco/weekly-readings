@@ -79,6 +79,84 @@
                         "psalm":            "PS 11:4, 5 AND 7",
                         "gospel":           "JN 21:20-25"
                     }
+                },
+                "20":{
+                    "title":            "Pentecost Sunday",
+                    "day_of_week":      "Sunday",
+                    "lectionary_num":   "63",
+                    "lit_season":       "Pentecost",
+                    "readings": {
+                        "reading_1":        "ACTS 2:1-11",
+                        "psalm":            "PS 104:1, 24, 29-30, 31, 34",
+                        "reading_2":        "1 COR 12:3B-7, 12-13",
+                        "gospel":           "JN 20:19-23"
+                    }
+                },
+                "21":{
+                    "title":            "Memorial of the Blessed Virgin Mary, Mother of the Church",
+                    "day_of_week":      "Monday",
+                    "lectionary_num":   "572A",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "GN 3:9-15, 20",
+                        "psalm":            "PS 87:1-2, 3 AND 5, 6-7",
+                        "gospel":           "JN 19:25-34"
+                    }
+                },
+                "22":{
+                    "title":            "Tuesday of the Seventh Week in Ordinary Time",
+                    "day_of_week":      "Tuesday",
+                    "lectionary_num":   "342",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "JAS 4:1-10",
+                        "psalm":            "PS 55:7-8, 9-10A, 10B-11A, 23",
+                        "gospel":           "MK 9:30-37"
+                    }
+                },
+                "23":{
+                    "title":            "Wednesday of the Seventh Week in Ordinary Time",
+                    "day_of_week":      "Wednesday",
+                    "lectionary_num":   "343",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "JAS 4:13-17",
+                        "psalm":            "PS 49:2-3, 6-7, 8-10, 11",
+                        "gospel":           "MK 9:38-40"
+                    }
+                },
+                "24":{
+                    "title":            "Thursday of the Seventh Week in Ordinary Time",
+                    "day_of_week":      "Thursday",
+                    "lectionary_num":   "344",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "JAS 5:1-6",
+                        "psalm":            "PS 49:14-15AB, 15CD-16, 17-18, 19-20",
+                        "gospel":           "MK 9:41-50"
+                    }
+                },
+                "25":{
+                    "title":            "Friday of the Seventh Week in Ordinary Time",
+                    "day_of_week":      "Friday",
+                    "lectionary_num":   "345",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "JAS 5:9-12",
+                        "psalm":            "PS 103:1-2, 3-4, 8-9, 11-12",
+                        "gospel":           "MK 10:1-12"
+                    }
+                },
+                "26":{
+                    "title":            "Memorial of Saint Philip Neri, Priest",
+                    "day_of_week":      "Saturday",
+                    "lectionary_num":   "346",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "JAS 5:13-20",
+                        "psalm":            "PS 141:1-2, 3 AND 8",
+                        "gospel":           "MK 10:13-16"
+                    }
                 }
             }
         }
