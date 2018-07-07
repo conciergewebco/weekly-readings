@@ -395,6 +395,84 @@
                         "psalm":            "Salmo 84, 9. 11-12. 13-14",
                         "gospel":           "Mt 9, 14-17"
                     }
+                },
+                "08":{
+                    "title":            "XIV Domingo Ordinario",
+                    "day_of_week":      "Domingo",
+                    "lectionary_num":   "101",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Ez 2, 2-5",
+                        "psalm":            "Salmo 122, 1-2a. 2bcd. 3-4",
+                        "reading_2":        "1 Cor 12, 7b-10",
+                        "gospel":           "Mc 6, 1-6"
+                    }
+                },
+                "09":{
+                    "title":            "Lunes de la XIV semana del Tiempo ordinario",
+                    "day_of_week":      "Lunes",
+                    "lectionary_num":   "383",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Os 2, 16. 17-18. 21-22",
+                        "psalm":            "Salmo 144, 2-3. 4-5. 6-7. 8-9",
+                        "gospel":           "Mt 9, 18-26"
+                    }
+                },
+                "10":{
+                    "title":            "Martes de la XIV semana del Tiempo ordinario",
+                    "day_of_week":      "Martes",
+                    "lectionary_num":   "384",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Os 8, 4-7. 11-13",
+                        "psalm":            "Salmo 113B, 3-4. 5-6. 7ab-8. 9-10",
+                        "gospel":           "Mt 9, 32-38"
+                    }
+                },
+                "11":{
+                    "title":            "Memoria de San Benito, abad",
+                    "day_of_week":      "Miércoles",
+                    "lectionary_num":   "385",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Os 10, 1-3. 7-8. 12",
+                        "psalm":            "Salmo 104, 2-3. 4-5. 6-7",
+                        "gospel":           "Mt 10, 1-7"
+                    }
+                },
+                "12":{
+                    "title":            "Jueves de la XIV semana del Tiempo ordinario",
+                    "day_of_week":      "Jueves",
+                    "lectionary_num":   "386",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Os 11, 1-4. 8-9",
+                        "psalm":            "Salmo 79, 2ac y3b. 15-16",
+                        "gospel":           "Mt 10, 7-15"
+                    }
+                },
+                "13":{
+                    "title":            "Viernes de la XIV semana del Tiempo ordinario",
+                    "day_of_week":      "Viernes",
+                    "lectionary_num":   "387",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Os 14, 2-10",
+                        "psalm":            "Salmo 50, 3-4. 8-9. 12-13. 14 y 17",
+                        "gospel":           "Mt 10, 16-23"
+                    }
+                },
+                "14":{
+                    "title":            "Memoria de Santa Kateri Tekakwitha, virgen",
+                    "day_of_week":      "Sábado",
+                    "lectionary_num":   "388",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Is 6, 1-8",
+                        "psalm":            "Salmo 92, 1ab. 1c-2. 5",
+                        "gospel":           "Mt 10, 24-33"
+                    }
                 }
             }
         }

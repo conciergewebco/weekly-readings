@@ -631,6 +631,84 @@
                         "psalm":            "PS 85:9AB AND 10, 11-12, 13-14",
                         "gospel":           "MT 9:14-17"
                     }
+                },
+                "08":{
+                    "title":            "Fourteenth Sunday in Ordinary Time",
+                    "day_of_week":      "Sunday",
+                    "lectionary_num":   "101",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "EZ 2:2-5",
+                        "psalm":            "PS 123:1-2, 2, 3-4",
+                        "reading_2":        "2 COR 12:7-10",
+                        "gospel":           "MK 6:1-6"
+                    }
+                },
+                "09":{
+                    "title":            "Monday of the Fourteenth Week in Ordinary Time",
+                    "day_of_week":      "Monday",
+                    "lectionary_num":   "383",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "HOS 2:16, 17C-18, 21-22",
+                        "psalm":            "PS 145:2-3, 4-5, 6-7, 8-9",
+                        "gospel":           "MT 9:18-26"
+                    }
+                },
+                "10":{
+                    "title":            "Tuesday of the Fourteenth Week in Ordinary Time",
+                    "day_of_week":      "Tuesday",
+                    "lectionary_num":   "384",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "HOS 8:4-7, 11-13",
+                        "psalm":            "PS 115:3-4, 5-6, 7AB-8, 9-10",
+                        "gospel":           "MT 9:32-38"
+                    }
+                },
+                "11":{
+                    "title":            "Memorial of Saint Benedict, Abbot",
+                    "day_of_week":      "Wednesday",
+                    "lectionary_num":   "385",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "HOS 10:1-3, 7-8, 12",
+                        "psalm":            "PS 105:2-3, 4-5, 6-7",
+                        "gospel":           "MT 10:1-7"
+                    }
+                },
+                "12":{
+                    "title":            "Thursday of the Fourteenth Week in Ordinary Time",
+                    "day_of_week":      "Thursday",
+                    "lectionary_num":   "386",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "HOS 11:1-4, 8E-9",
+                        "psalm":            "PS 80:2AC AND 3B, 15-16",
+                        "gospel":           "MT 10:7-15"
+                    }
+                },
+                "13":{
+                    "title":            "Friday of the Fourteenth Week in Ordinary Time",
+                    "day_of_week":      "Friday",
+                    "lectionary_num":   "387",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "HOS 14:2-10",
+                        "psalm":            "PS 51:3-4, 8-9, 12-13, 14 AND 17",
+                        "gospel":           "MT 10:16-23"
+                    }
+                },
+                "14":{
+                    "title":            "Saturday of the Fourteenth Week in Ordinary Time",
+                    "day_of_week":      "Saturday",
+                    "lectionary_num":   "388",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "IS 6:1-8",
+                        "psalm":            "PS 93:1AB, 1CD-2, 5",
+                        "gospel":           "MT 10:24-33"
+                    }
                 }
             }
         }
