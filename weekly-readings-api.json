@@ -865,6 +865,86 @@
                         "psalm":            "PS 84:3, 4, 5-6A AND 8A, 11",
                         "gospel":           "MT 13:24-30"
                     }
+                },
+                "29":{
+                    "title":            "Seventeenth Sunday in Ordinary Time",
+                    "day_of_week":      "Sunday",
+                    "lectionary_num":   "110",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "2 KGS 4:42-44",
+                        "psalm":            "PS 145:10-11, 15-16, 17-18",
+                        "reading_2":        "EPH 4:1-6",
+                        "gospel":           "JN 6:1-15"
+                    }
+                },
+                "30":{
+                    "title":            "Monday of the Seventeenth Week in Ordinary Time",
+                    "day_of_week":      "Monday",
+                    "lectionary_num":   "401",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "JER 13:1-11",
+                        "psalm":            "DT 32:18-19, 20, 21",
+                        "gospel":           "MT 13:31-35"
+                    }
+                },
+                "31":{
+                    "title":            "Memorial of Saint Ignatius of Loyola, Priest",
+                    "day_of_week":      "Tuesday",
+                    "lectionary_num":   "402",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "JER 14:17-22",
+                        "psalm":            "PS 79:8, 9, 11 AND 13",
+                        "gospel":           "MT 13:36-43"
+                    }
+                }
+            },
+            "08":{
+                "01":{
+                    "title":            "Saint Alphonsus Liguouri, Bishop and Doctor of the Church",
+                    "day_of_week":      "Wednesday",
+                    "lectionary_num":   "403",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "JER 15:10, 16-21",
+                        "psalm":            "PS 59:2-3, 4, 10-11, 17, 18",
+                        "gospel":           "MT 13:44-46"
+                    }
+                },
+                "02":{
+                    "title":            "Thursday of the Seventeenth Week in Ordinary Time",
+                    "day_of_week":      "Thursday",
+                    "lectionary_num":   "404",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "JER 18:1-6",
+                        "psalm":            "PS 146:1B-2, 3-4, 5-6AB",
+                        "gospel":           "MT 13:47-53"
+                    }
+                },
+                "03":{
+                    "title":            "Friday of the Seventeenth Week in Ordinary Time",
+                    "day_of_week":      "Friday",
+                    "lectionary_num":   "405",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "JER 26:1-9",
+                        "psalm":            "PS 69:5, 8-10, 14",
+                        "gospel":           "MT 13:54-58"
+                    }
+                },
+                "04":{
+                    "title":            "Memorial of Saint John Vianney, Priest",
+                    "day_of_week":      "Saturday",
+                    "lectionary_num":   "406",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "JER 26:11-16, 24",
+                        "psalm":            "PS 69:15-16, 30-31, 33-34",
+                        "gospel":           "MT 14:1-12"
+                    }
                 }
             }
         }
