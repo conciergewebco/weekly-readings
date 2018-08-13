@@ -788,6 +788,85 @@
                         "psalm":            "Salmo 9, 8-9. 10-11. 12-13 ",
                         "gospel":           "Mt 17, 14-20"
                     }
+                },
+                "12":{
+                    "title":            "XIX Domingo Ordinario",
+                    "day_of_week":      "Domingo",
+                    "lectionary_num":   "116",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "1 Reyes 19, 4-8",
+                        "psalm":            "Salmo 33, 2-3. 4-5. 6-7. 8-9",
+                        "reading_2":        "Ef 4, 30–5, 2",
+                        "gospel":           "Jn 6, 41-51"
+                    }
+                },
+                "13":{
+                    "title":            "Lunes de la XIX semana del Tiempo ordinario",
+                    "day_of_week":      "Lunes",
+                    "lectionary_num":   "413",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Ez 1, 2-5. 24-28",
+                        "psalm":            "Salmo 148, 1-2. 11-12ab. 12c-14a. 14bcd",
+                        "gospel":           "Mt 17, 22-27"
+                    }
+                },
+                "14":{
+                    "title":            "Memoria de San Maximiliano María Kolbe, presbítero y mártir",
+                    "day_of_week":      "Martes",
+                    "lectionary_num":   "414",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "EZ 2, 8-3, 4",
+                        "psalm":            "Salmo 118, 14. 24. 72 103. 111. 131",
+                        "gospel":           "Mt 18, 1-5. 10. 12-14"
+                    }
+                },
+                "15":{
+                    "title":            "Solemnidad de Asunción de la Santísima Virgen María",
+                    "day_of_week":      "Miércoles",
+                    "lectionary_num":   "622",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Apoc 11, 19; 12, 1-6. 10",
+                        "psalm":            "Salmo 44, 10bc. 11. 12ab. 16",
+                        "reading_2":        "1 Co 15, 20-27",
+                        "gospel":           "Lc 1, 39-56"
+                    }
+                },
+                "16":{
+                    "title":            "Jueves de la XIX semana del Tiempo ordinario",
+                    "day_of_week":      "Jueves",
+                    "lectionary_num":   "416",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Ez 12, 1-12",
+                        "psalm":            "Salmo 77, 56-57. 58-59. 61-62",
+                        "gospel":           "Mt 18, 21–19, 1"
+                    }
+                },
+                "17":{
+                    "title":            "Viernes de la XIX semana del Tiempo ordinario",
+                    "day_of_week":      "Viernes",
+                    "lectionary_num":   "417",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Ez 16, 1-15. 60. 63",
+                        "psalm":            "Isaías 12, 2-3. 4bcd. 5-6",
+                        "gospel":           "Mt 19, 3-12"
+                    }
+                },
+                "18":{
+                    "title":            "Sábado del XIX semana del Tiempo ordinario",
+                    "day_of_week":      "Sábado",
+                    "lectionary_num":   "418",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Ez 18, 1-10. 13. 30-32",
+                        "psalm":            "Salmo 50, 12-13. 14-15. 18-19",
+                        "gospel":           "Mt 19, 13-15"
+                    }
                 }
             }
         }

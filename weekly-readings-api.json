@@ -1024,6 +1024,85 @@
                         "psalm":            "PS 9:8-9, 10-11, 12-13",
                         "gospel":           "MT 17:14-20"
                     }
+                },
+                "12":{
+                    "title":            "Nineteenth Sunday in Ordinary Time",
+                    "day_of_week":      "Sunday",
+                    "lectionary_num":   "116",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "1 KGS 19:4-8",
+                        "psalm":            "PS 34:2-3, 4-5, 6-7, 8-9",
+                        "reading_2":        "EPH 4:30—5:2",
+                        "gospel":           "JN 6:41-51"
+                    }
+                },
+                "13":{
+                    "title":            "Monday of the Nineteenth Week in Ordinary Time",
+                    "day_of_week":      "Monday",
+                    "lectionary_num":   "413",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "EZ 1:2-5, 24-28C",
+                        "psalm":            "PS 148:1-2, 11-12, 13, 14",
+                        "gospel":           "MT 17:22-27"
+                    }
+                },
+                "14":{
+                    "title":            "Memorial of Saint Maximilian Kolbe, Priest and Martyr",
+                    "day_of_week":      "Tuesday",
+                    "lectionary_num":   "414",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "EZ 2:8—3:4",
+                        "psalm":            "PS 119:14, 24, 72, 103, 111, 131",
+                        "gospel":           "MT 18:1-5, 10, 12-14"
+                    }
+                },
+                "15":{
+                    "title":            "Solemnity of the Assumption of the Blessed Virgin Mary",
+                    "day_of_week":      "Wednesday",
+                    "lectionary_num":   "622",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "RV 11:19A; 12:1-6A, 10AB",
+                        "psalm":            "PS 45:10, 11, 12, 16",
+                        "reading_2":        "1 COR 15:20-27",
+                        "gospel":           "LK 1:39-56"
+                    }
+                },
+                "16":{
+                    "title":            "Thursday of the Nineteenth Week in Ordinary Time",
+                    "day_of_week":      "Thursday",
+                    "lectionary_num":   "416",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "EZ 12:1-12",
+                        "psalm":            "PS 78:56-57, 58-59, 61-62",
+                        "gospel":           "MT 18:21–19:1"
+                    }
+                },
+                "17":{
+                    "title":            "Friday of the Nineteenth Week in Ordinary Time",
+                    "day_of_week":      "Friday",
+                    "lectionary_num":   "417",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "EZ 16:1-15, 60, 63",
+                        "psalm":            "IS 12:2-3, 4BCD, 5-6",
+                        "gospel":           "MT 19:3-12"
+                    }
+                },
+                "18":{
+                    "title":            "Saturday of the Nineteenth Week in Ordinary Time",
+                    "day_of_week":      "Saturday",
+                    "lectionary_num":   "418",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "EZ 18:1-10, 13B, 30-32",
+                        "psalm":            "PS 51:12-13, 14-15, 18-19",
+                        "gospel":           "MT 19:13-15"
+                    }
                 }
             }
         }
