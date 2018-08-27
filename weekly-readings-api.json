@@ -1181,6 +1181,86 @@
                         "psalm":            "PS 85:9AB AND 10, 11-12, 13-14",
                         "gospel":           "MT 23:1-12"
                     }
+                },
+                "26":{
+                    "title":            "Twenty-first Sunday in Ordinary Time",
+                    "day_of_week":      "Sunday",
+                    "lectionary_num":   "122",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "JOS 24:1-2A, 15-17, 18B",
+                        "psalm":            "PS 34:2-3, 16-17, 18-19, 20-21",
+                        "reading_2":        "EPH 5:21-32 OR 5:2A, 25-32",
+                        "gospel":           "JN 6:60-69"
+                    }
+                },
+                "27":{
+                    "title":            "Memorial of Saint Monica",
+                    "day_of_week":      "Monday",
+                    "lectionary_num":   "425",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "2 THES1:1-5, 11-12",
+                        "psalm":            "PS 96:1-2A, 2B-3, 4-5",
+                        "gospel":           "MT 23:13-22"
+                    }
+                },
+                "28":{
+                    "title":            "Memorial of Saint Augustine, Bishop and Doctor of the Church",
+                    "day_of_week":      "Tuesday",
+                    "lectionary_num":   "426",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "2 THES 2:1-3A, 14-17",
+                        "psalm":            "PS 96:10, 11-12, 13",
+                        "gospel":           "MT 23:23-26"
+                    }
+                },
+                "29":{
+                    "title":            "Memorial of the Passion of Saint John the Baptist",
+                    "day_of_week":      "Wednesday",
+                    "lectionary_num":   "427/634",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "2 THES 3:6-10, 16-18",
+                        "psalm":            "PS 128:1-2, 4-5",
+                        "gospel":           "MK 6:17-29"
+                    }
+                },
+                "30":{
+                    "title":            "Thursday of the Twenty-first Week in Ordinary Time",
+                    "day_of_week":      "Thursday",
+                    "lectionary_num":   "428",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "1 COR 1:1-9",
+                        "psalm":            "PS 145:2-3, 4-5, 6-7",
+                        "gospel":           "MT 24:42-51"
+                    }
+                },
+                "31":{
+                    "title":            "Friday of the Twenty-first Week in Ordinary Time",
+                    "day_of_week":      "Friday",
+                    "lectionary_num":   "429",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "1 COR 1:17-25",
+                        "psalm":            "PS 33:1-2, 4-5, 10-11",
+                        "gospel":           "MT 25:1-13"
+                    }
+                }
+            },
+            "09": {
+                "01":{
+                    "title":            "Saturday of the Twenty-first Week in Ordinary Time",
+                    "day_of_week":      "Saturday",
+                    "lectionary_num":   "430",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "1 COR 1:26-31",
+                        "psalm":            "PS 33:12-13, 18-19, 20-21",
+                        "gospel":           "MT 25:14-30"
+                    }
                 }
             }
         }
