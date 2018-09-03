@@ -1025,6 +1025,84 @@
                         "psalm":            "Salmo 32, 12-13. 18-19. 20-21",
                         "gospel":           "Mt 25, 14-30"
                     }
+                },
+                "02":{
+                    "title":            "XXII Domingo ordinario",
+                    "day_of_week":      "Domingo",
+                    "lectionary_num":   "125",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Dt 4, 1-2. 6-8",
+                        "psalm":            "Salmo 14, 2-3a. 3bc-4ab. 5",
+                        "reading_2":        "Sant1, 17-18. 21b-22. 27",
+                        "gospel":           "Mc 7, 1-8. 14-15. 21-23"
+                    }
+                },
+                "03":{
+                    "title":            "Memoria de San Gregorio Magno, papa y doctor de la Iglesia",
+                    "day_of_week":      "Lunes",
+                    "lectionary_num":   "431",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "1 Cor 2, 1-5",
+                        "psalm":            "Salmo 118, 97. 98. 99. 100. 101. 102",
+                        "gospel":           "Lc 4, 16-30"
+                    }
+                },
+                "04":{
+                    "title":            "Martes de la XXII semana del Tiempo ordinario",
+                    "day_of_week":      "Martes",
+                    "lectionary_num":   "432",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "1 Cor 2, 10-16",
+                        "psalm":            "Salmo 144, 8-9. 10-11. 12-13ab. 13cd-14",
+                        "gospel":           "Lk 4, 31-37"
+                    }
+                },
+                "05":{
+                    "title":            "Miércoles de la XXII semana del Tiempo ordinario",
+                    "day_of_week":      "Miércoles",
+                    "lectionary_num":   "433",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "1 Cor 3, 1-9",
+                        "psalm":            "Salmo 32, 12-13. 14-15. 20-21",
+                        "gospel":           "Lc 4, 38-44"
+                    }
+                },
+                "06":{
+                    "title":            "Jueves de la XXII semana del Tiempo ordinario",
+                    "day_of_week":      "Jueves",
+                    "lectionary_num":   "434",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "1 Cor 3, 18-23",
+                        "psalm":            "Salmo 23, 1-2. 3-4ab. 5-6",
+                        "gospel":           "Lc 5, 1-11"
+                    }
+                },
+                "07":{
+                    "title":            "Viernes de la XXII semana del Tiempo ordinario",
+                    "day_of_week":      "Viernes",
+                    "lectionary_num":   "435",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "1 Cor 4, 1-5",
+                        "psalm":            "Salmo 36, 3-4. 5-6. 27-28. 39-40",
+                        "gospel":           "Lc 5, 33-39"
+                    }
+                },
+                "08":{
+                    "title":            "Fiesta de Natividad de la Santísima Virgen María",
+                    "day_of_week":      "Sábado",
+                    "lectionary_num":   "636",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Miq 5, 1-4",
+                        "psalm":            "Salmo 12, 6ab. 6cd",
+                        "gospel":           "Mt 1, 1-16. 18-23"
+                    }
                 }
             }
         }
