@@ -1103,6 +1103,85 @@
                         "psalm":            "Salmo 12, 6ab. 6cd",
                         "gospel":           "Mt 1, 1-16. 18-23"
                     }
+                },
+                "09":{
+                    "title":            "XXIII Domingo ordinario",
+                    "day_of_week":      "Domingo",
+                    "lectionary_num":   "128",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Is 35, 4-7a",
+                        "psalm":            "Salmo 145, 7. 8-9a. 9bc-10",
+                        "reading_2":        "Sant 2, 1-5",
+                        "gospel":           "Mc 7, 31-37"
+                    }
+                },
+                "10":{
+                    "title":            "Lunes de la XXIII semana del Tiempo ordinario",
+                    "day_of_week":      "Lunes",
+                    "lectionary_num":   "437",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "1 Cor 5, 1-8",
+                        "psalm":            "Salmo 5, 5-6. 7. 12",
+                        "gospel":           "Lc 6, 6-11"
+                    }
+                },
+                "11":{
+                    "title":            "Martes de la XXIII semana del Tiempo ordinario",
+                    "day_of_week":      "Martes",
+                    "lectionary_num":   "438",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "1 Cor 6, 1-11",
+                        "psalm":            "Salmo 149, 1-2. 3-4. 5-6a y 9b",
+                        "gospel":           "Lc 6, 12-19"
+                    }
+                },
+                "12":{
+                    "title":            "Miércoles del la XXIII semana del Tiempo ordinario",
+                    "day_of_week":      "Miércoles",
+                    "lectionary_num":   "439",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "1 Cor 7, 25-31",
+                        "psalm":            "Salmo 44, 11-12. 14-15. 16-17",
+                        "gospel":           "Lc 6, 20-26"
+                    }
+                },
+                "13":{
+                    "title":            "Memoria de San Juan Crisostomo, obispo y doctor de la Iglesia",
+                    "day_of_week":      "Jueves",
+                    "lectionary_num":   "440",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "1 Cor 8, 1-13",
+                        "psalm":            "Salmo 138, 1b-3. 13-14ab. 23-24",
+                        "gospel":           "Lc 6, 27-38"
+                    }
+                },
+                "14":{
+                    "title":            "Fiesta de la Exaltación de la santa Cruz",
+                    "day_of_week":      "Viernes",
+                    "lectionary_num":   "638",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Num 21, 4-9",
+                        "psalm":            "Salmo 77, 1-2. 34-35. 36-37. 38",
+                        "reading_2":        "Flp 2, 6-11",
+                        "gospel":           "Jn 3, 13-17"
+                    }
+                },
+                "15":{
+                    "title":            "Memoria de Nuestra Señora de los Dolores",
+                    "day_of_week":      "Sábado",
+                    "lectionary_num":   "442/639",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "1 Cor 10, 14-22",
+                        "psalm":            "Salmo 115, 12-13. 17-18",
+                        "gospel":           "Jn 19, 25-27"
+                    }
                 }
             }
         }

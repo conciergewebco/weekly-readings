@@ -1339,6 +1339,85 @@
                         "psalm":            "PS 13:6AB, 6C",
                         "gospel":           "MT 1:1-16, 18-23 OR 1:18-23"
                     }
+                },
+                "09":{
+                    "title":            "Twenty-third Sunday in Ordinary Time",
+                    "day_of_week":      "Sunday",
+                    "lectionary_num":   "128",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "IS 35:4-7A",
+                        "psalm":            "PS 146:6-7, 8-9, 9-10",
+                        "reading_2":        "JAS 2:1-5",
+                        "gospel":           "MK 7:31-37"
+                    }
+                },
+                "10":{
+                    "title":            "Monday of the Twenty-third Week in Ordinary Time",
+                    "day_of_week":      "Monday",
+                    "lectionary_num":   "437",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "1 COR 5:1-8",
+                        "psalm":            "PS 5:5-6, 7, 12",
+                        "gospel":           "LK 6:6-11"
+                    }
+                },
+                "11":{
+                    "title":            "Tuesday of the Twenty-third Week in Ordinary Time",
+                    "day_of_week":      "Tuesday",
+                    "lectionary_num":   "438",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "1 COR 6:1-11",
+                        "psalm":            "PS 149:1B-2, 3-4, 5-6A AND 9B",
+                        "gospel":           "LK 6:12-19"
+                    }
+                },
+                "12":{
+                    "title":            "Wednesday of the Twenty-third Week in Ordinary Time",
+                    "day_of_week":      "Wednesday",
+                    "lectionary_num":   "439",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "1 COR 7:25-31",
+                        "psalm":            "PS 45:11-12, 14-15, 16-17",
+                        "gospel":           "LK 6:20-26"
+                    }
+                },
+                "13":{
+                    "title":            "Thursday of the Twenty-third Week in Ordinary Time",
+                    "day_of_week":      "Thursday",
+                    "lectionary_num":   "440",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "1 COR 8:1B-7, 11-13",
+                        "psalm":            "PS 139:1B-3, 13-14AB, 23-24",
+                        "gospel":           "LK 6:27-38"
+                    }
+                },
+                "14":{
+                    "title":            "Feast of the Exaltation of the Holy Cross",
+                    "day_of_week":      "Friday",
+                    "lectionary_num":   "638",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "NM 21:4B-9",
+                        "psalm":            "PS 78:1BC-2, 34-35, 36-37, 38",
+                        "reading_2":        "PHIL 2:6-11",
+                        "gospel":           "JN 3:13-17"
+                    }
+                },
+                "15":{
+                    "title":            "Memorial of Our Lady of Sorrows",
+                    "day_of_week":      "Saturday",
+                    "lectionary_num":   "442/639",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "1 COR 10:14-22",
+                        "psalm":            "PS 116:12-13, 17-18",
+                        "gospel":           "JN 19:25-27"
+                    }
                 }
             }
         }
