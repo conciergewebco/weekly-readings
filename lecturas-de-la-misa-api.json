@@ -1182,6 +1182,84 @@
                         "psalm":            "Salmo 115, 12-13. 17-18",
                         "gospel":           "Jn 19, 25-27"
                     }
+                },
+                "16":{
+                    "title":            "XXIV Domingo ordinario",
+                    "day_of_week":      "Domingo",
+                    "lectionary_num":   "131",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Is 50, 5-9",
+                        "psalm":            "Salmo 114, 1-2. 3-4. 5-6. 8-9",
+                        "reading_2":        "Sant 2, 14-18",
+                        "gospel":           "Mc 8, 27-35"
+                    }
+                },
+                "17":{
+                    "title":            "Lunes de la XXIV semana del Tiempo ordinario",
+                    "day_of_week":      "Lunes",
+                    "lectionary_num":   "443",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "1 Cor 11, 17-26",
+                        "psalm":            "Salmo 39, 7-8a. 8b-9. 10. 17",
+                        "gospel":           "Lc 7, 1-10"
+                    }
+                },
+                "18":{
+                    "title":            "Martes de la XXIV semana del Tiempo ordinario",
+                    "day_of_week":      "Martes",
+                    "lectionary_num":   "444",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "1 Cor 12, 12-14. 27-31",
+                        "psalm":            "Salmo 99, 2. 3. 4. 5",
+                        "gospel":           "Lc 7, 11-17"
+                    }
+                },
+                "19":{
+                    "title":            "Miércoles del la XXIV semana del Tiempo ordinario",
+                    "day_of_week":      "Miércoles",
+                    "lectionary_num":   "445",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "1 Cor 12, 31–13, 13",
+                        "psalm":            "Salmo 32, 2-3. 4-5. 12 y 22",
+                        "gospel":           "Lc 7, 31-35"
+                    }
+                },
+                "20":{
+                    "title":            "Memoria de San Andrés Kim Taegon, presbítero y san Pablo Chong Hasang y compañeros, mártires",
+                    "day_of_week":      "Jueves",
+                    "lectionary_num":   "446",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "1 Cor 15, 1-11",
+                        "psalm":            "Salmo 117, 1-2. 16ab-17. 28",
+                        "gospel":           "Lc 7, 36-50"
+                    }
+                },
+                "21":{
+                    "title":            "Fiesta de san Mateo, Apóstol y evangelista",
+                    "day_of_week":      "Viernes",
+                    "lectionary_num":   "643",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Ef 4, 1-7. 11-13",
+                        "psalm":            "Salmo 18, 2-3. 4-5",
+                        "gospel":           "Mt 9, 9-13"
+                    }
+                },
+                "22":{
+                    "title":            "Sábado de la XXIV semana del Tiempo ordinario",
+                    "day_of_week":      "Sábado",
+                    "lectionary_num":   "448",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "1 Cor 15, 35-37. 42-49",
+                        "psalm":            "Salmo 55, 10. 11-12. 13-14",
+                        "gospel":           "Lc 8, 4-15"
+                    }
                 }
             }
         }

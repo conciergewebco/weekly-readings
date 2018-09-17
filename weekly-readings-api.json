@@ -1418,6 +1418,84 @@
                         "psalm":            "PS 116:12-13, 17-18",
                         "gospel":           "JN 19:25-27"
                     }
+                },
+                "16":{
+                    "title":            "Twenty-fourth Sunday in Ordinary Time",
+                    "day_of_week":      "Sunday",
+                    "lectionary_num":   "131",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "IS 50:5-9A",
+                        "psalm":            "PS 116:1-2, 3-4, 5-6, 8-9",
+                        "reading_2":        "JAS 2:14-18",
+                        "gospel":           "MK 8:27-35"
+                    }
+                },
+                "17":{
+                    "title":            "Monday of the Twenty-fourth Week in Ordinary Time",
+                    "day_of_week":      "Monday",
+                    "lectionary_num":   "443",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "1 COR 11:17-26, 33",
+                        "psalm":            "PS 40:7-8A, 8B-9, 10, 17",
+                        "gospel":           "LK 7:1-10"
+                    }
+                },
+                "18":{
+                    "title":            "Tuesday of the Twenty-fourth Week in Ordinary Time",
+                    "day_of_week":      "Tuesday",
+                    "lectionary_num":   "444",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "1 COR 12:12-14, 27-31A",
+                        "psalm":            "PS 100:1B-2, 3, 4, 5",
+                        "gospel":           "LK 7:11-17"
+                    }
+                },
+                "19":{
+                    "title":            "Wednesday of the Twenty-fourth Week in Ordinary Time",
+                    "day_of_week":      "Wednesday",
+                    "lectionary_num":   "445",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "1 COR 12:31-13:13",
+                        "psalm":            "PS 33:2-3, 4-5, 12 AND 22",
+                        "gospel":           "LK 7:31-35"
+                    }
+                },
+                "20":{
+                    "title":            "Memorial of Saints Andrew Kim Tae-gon, Priest, and Paul Chong Ha-sang, and Companions, Martyrs",
+                    "day_of_week":      "Thursday",
+                    "lectionary_num":   "446",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "1 COR 15:1-11",
+                        "psalm":            "PS 118:1B-2, 16AB-17, 28",
+                        "gospel":           "LK 7:36-50"
+                    }
+                },
+                "21":{
+                    "title":            "Feast of Saint Matthew, Apostle and evangelist",
+                    "day_of_week":      "Friday",
+                    "lectionary_num":   "643",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "EPH 4:1-7, 11-13",
+                        "psalm":            "PS 19:2-3, 4-5",
+                        "gospel":           "MT 9:9-13"
+                    }
+                },
+                "22":{
+                    "title":            "Saturday of the Twenty-fourth Week in Ordinary Time",
+                    "day_of_week":      "Saturday",
+                    "lectionary_num":   "448",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "1 COR 15:35-37, 42-49",
+                        "psalm":            "PS 56:10C-12, 13-14",
+                        "gospel":           "LK 8:4-15"
+                    }
                 }
             }
         }
