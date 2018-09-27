@@ -1496,6 +1496,84 @@
                         "psalm":            "PS 56:10C-12, 13-14",
                         "gospel":           "LK 8:4-15"
                     }
+                },
+                "23":{
+                    "title":            "Twenty-fifth Sunday in Ordinary Time",
+                    "day_of_week":      "Sunday",
+                    "lectionary_num":   "134",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "WIS 2:12, 17-20",
+                        "psalm":            "PS 54:3-4, 5, 6 AND 8",
+                        "reading_2":        "JAS 3:16—4:3",
+                        "gospel":           "MK 9:30-37"
+                    }
+                },
+                "24":{
+                    "title":            "Monday of the Twenty-fifth Week in Ordinary Time",
+                    "day_of_week":      "Monday",
+                    "lectionary_num":   "449",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "PRV 3:27-34",
+                        "psalm":            "PS 15:2-3A, 3BC-4AB, 5",
+                        "gospel":           "LK 8:16-18"
+                    }
+                },
+                "25":{
+                    "title":            "Tuesday of the Twenty-fourth Week in Ordinary Time",
+                    "day_of_week":      "Tuesday",
+                    "lectionary_num":   "450",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "PRV 21:1-6, 10-13",
+                        "psalm":            "PS 119:1, 27, 30, 34, 35, 44",
+                        "gospel":           "LK 8:19-21"
+                    }
+                },
+                "26":{
+                    "title":            "Wednesday of the Twenty-fifth Week in Ordinary Time",
+                    "day_of_week":      "Wednesday",
+                    "lectionary_num":   "451",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "PRV 30:5-9",
+                        "psalm":            "PS 119:29, 72, 89, 101, 104, 163",
+                        "gospel":           "LK 9:1-6"
+                    }
+                },
+                "27":{
+                    "title":            "Memorial of Saint Vincent de Paul, Priest",
+                    "day_of_week":      "Thursday",
+                    "lectionary_num":   "452",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "ECCL 1:2-11",
+                        "psalm":            "PS 90:3-4, 5-6, 12-13, 14 AND 17BC",
+                        "gospel":           "LK 9:7-9"
+                    }
+                },
+                "28":{
+                    "title":            "Friday of the Twenty-fifth Week in Ordinary Time",
+                    "day_of_week":      "Friday",
+                    "lectionary_num":   "453",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "ECCL 3:1-11",
+                        "psalm":            "PS 144:1B AND 2ABC, 3-4",
+                        "gospel":           "LK 9:18-22"
+                    }
+                },
+                "29":{
+                    "title":            "Feast of Saints Michael, Gabriel, and Raphael, archangels",
+                    "day_of_week":      "Saturday",
+                    "lectionary_num":   "647",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "DN 7:9-10, 13-14",
+                        "psalm":            "PS 138:1-2AB, 2CDE-3, 4-5",
+                        "gospel":           "JN 1:47-51"
+                    }
                 }
             }
         }

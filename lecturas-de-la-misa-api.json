@@ -1260,6 +1260,84 @@
                         "psalm":            "Salmo 55, 10. 11-12. 13-14",
                         "gospel":           "Lc 8, 4-15"
                     }
+                },
+                "23":{
+                    "title":            "XXV Domingo ordinario",
+                    "day_of_week":      "Domingo",
+                    "lectionary_num":   "134",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Sab 2, 12. 17-20",
+                        "psalm":            "Salmo 53, 3-4. 5. 6 y 8",
+                        "reading_2":        "Sant 3, 16–4, 3",
+                        "gospel":           "Mc 9, 30-37"
+                    }
+                },
+                "24":{
+                    "title":            "Lunes de la XXV semana del Tiempo ordinario",
+                    "day_of_week":      "Lunes",
+                    "lectionary_num":   "449",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Prv 3, 27-34",
+                        "psalm":            "Salmo 14, 2-3ab. 3cd-4ab. 5",
+                        "gospel":           "Lc 8, 16-18"
+                    }
+                },
+                "25":{
+                    "title":            "Martes de la XXV semana del Tiempo ordinario",
+                    "day_of_week":      "Martes",
+                    "lectionary_num":   "450",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Prv 21, 1-6. 10-13",
+                        "psalm":            "Salmo 118, 1. 27. 30. 34-35. 44",
+                        "gospel":           "Lc 8, 19-21"
+                    }
+                },
+                "26":{
+                    "title":            "Miércoles del la XXV semana del Tiempo ordinario",
+                    "day_of_week":      "Miércoles",
+                    "lectionary_num":   "451",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Prv 30, 5-9",
+                        "psalm":            "Salmo 118, 29. 43. 79. 80. 95. 102",
+                        "gospel":           "Lc 9, 1-6"
+                    }
+                },
+                "27":{
+                    "title":            "Memoria de San Vicente de Paul, presbítero",
+                    "day_of_week":      "Jueves",
+                    "lectionary_num":   "452",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Eclesiastés (Cohélet) 1, 2-11",
+                        "psalm":            "Salmo 89, 3-4. 5-6. 12-13. 14 y 17",
+                        "gospel":           "Lc 9, 7-9"
+                    }
+                },
+                "28":{
+                    "title":            "Viernes de la XXV semana del Tiempo ordinario",
+                    "day_of_week":      "Viernes",
+                    "lectionary_num":   "453",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Eclesiastés (Cohélet) 3, 1-11",
+                        "psalm":            "Salmo 143, 1a y 2abc. 3-4",
+                        "gospel":           "Lc 9, 18-22"
+                    }
+                },
+                "29":{
+                    "title":            "Fiesta de los santos Arcángeles Miguel, Gabriel y Rafael",
+                    "day_of_week":      "Sábado",
+                    "lectionary_num":   "647",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Dn 7, 9-10. 13-14",
+                        "psalm":            "Salmo 137, 1-2a. 2bc-3. 4-5",
+                        "gospel":           "Jn 1, 47-51"
+                    }
                 }
             }
         }
