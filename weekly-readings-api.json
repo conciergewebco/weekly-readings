@@ -1574,6 +1574,86 @@
                         "psalm":            "PS 138:1-2AB, 2CDE-3, 4-5",
                         "gospel":           "JN 1:47-51"
                     }
+                },
+                "30":{
+                    "title":            "Twenty-sixth Sunday in Ordinary Time",
+                    "day_of_week":      "Sunday",
+                    "lectionary_num":   "137",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "NM 11:25-29",
+                        "psalm":            "PS 19:8, 10, 12-13, 14",
+                        "reading_2":        "JAS 5:1-6",
+                        "gospel":           "MK 9:38-43, 45, 47-48"
+                    }
+                }
+            },
+            "10": {
+                "01":{
+                    "title":            "Memorial of Saint Thérèse of the Child Jesus, Virgin and Doctor of the Church",
+                    "day_of_week":      "Monday",
+                    "lectionary_num":   "455",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "JB 1:6-22",
+                        "psalm":            "PS 17:1BCD, 2-3, 6-7",
+                        "gospel":           "LK 9:46-50"
+                    }
+                },
+                "02":{
+                    "title":            "Memorial of the Guardian Angels",
+                    "day_of_week":      "Tuesday",
+                    "lectionary_num":   "456/650",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "JB 3:1-3, 11-17, 20-23",
+                        "psalm":            "PS 88:2-3, 4-5, 6, 7-8",
+                        "gospel":           "MT 18:1-5, 10"
+                    }
+                },
+                "03":{
+                    "title":            "Wednesday of the Twenty-sixth Week in Ordinary Time",
+                    "day_of_week":      "Wednesday",
+                    "lectionary_num":   "457",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "JB 9:1-12, 14-16",
+                        "psalm":            "PS 88:10BC-11, 12-13, 14-15",
+                        "gospel":           "LK 9:57-62"
+                    }
+                },
+                "04":{
+                    "title":            "Memorial of Saint Francis of Assisi",
+                    "day_of_week":      "Thursday",
+                    "lectionary_num":   "458",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "JB 19:21-27",
+                        "psalm":            "PS 27:7-8A, 8B-9ABC, 13-14",
+                        "gospel":           "LK 10:1-12"
+                    }
+                },
+                "05":{
+                    "title":            "Friday of the Twenty-sixth Week in Ordinary Time",
+                    "day_of_week":      "Friday",
+                    "lectionary_num":   "459",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "JB 38:1, 12-21; 40:3-5",
+                        "psalm":            "PS 139:1-3, 7-8, 9-10, 13-14AB",
+                        "gospel":           "LK 10:13-16"
+                    }
+                },
+                "06":{
+                    "title":            "Saturday of the Twenty-sixth Week in Ordinary Time",
+                    "day_of_week":      "Saturday",
+                    "lectionary_num":   "460",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "JB 42:1-3, 5-6, 12-17",
+                        "psalm":            "PS 119:66, 71, 75, 91, 125, 130",
+                        "gospel":           "LK 10:17-24"
+                    }
                 }
             }
         }
