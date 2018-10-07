@@ -1654,6 +1654,84 @@
                         "psalm":            "PS 119:66, 71, 75, 91, 125, 130",
                         "gospel":           "LK 10:17-24"
                     }
+                },
+                "07":{
+                    "title":            "Twenty-Seventh Sunday in Ordinary Time",
+                    "day_of_week":      "Sunday",
+                    "lectionary_num":   "140",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "GN 2:18-24",
+                        "psalm":            "PS 128:1-2, 3, 4-5, 6",
+                        "reading_2":        "HEB 2:9-11",
+                        "gospel":           "MK 10:2-16"
+                    }
+                },
+                "08":{
+                    "title":            "Monday of the Twenty-seventh Week in Ordinary Time",
+                    "day_of_week":      "Monday",
+                    "lectionary_num":   "461",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "GAL 1:6-12",
+                        "psalm":            "PS 111:1B-2, 7-8, 9 AND 10C",
+                        "gospel":           "LK 10:25-37"
+                    }
+                },
+                "09":{
+                    "title":            "Tuesday of the Twenty-seventh Week in Ordinary Time",
+                    "day_of_week":      "Tuesday",
+                    "lectionary_num":   "462",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "GAL 1:13-24",
+                        "psalm":            "PS 139:1B-3, 13-14AB, 14C-15",
+                        "gospel":           "LK 10:38-42"
+                    }
+                },
+                "10":{
+                    "title":            "Wednesday of the Twenty-seventh Week in Ordinary Time",
+                    "day_of_week":      "Wednesday",
+                    "lectionary_num":   "463",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "GAL 2:1-2, 7-14",
+                        "psalm":            "PS 117:1BC, 2",
+                        "gospel":           "LK 11:1-4"
+                    }
+                },
+                "11":{
+                    "title":            "Thursday of the Twenty-seventh Week in Ordinary Time",
+                    "day_of_week":      "Thursday",
+                    "lectionary_num":   "464",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "GAL 3:1-5",
+                        "psalm":            "LUKE 1:69-70, 71-72, 73-75",
+                        "gospel":           "LK 11:5-13"
+                    }
+                },
+                "12":{
+                    "title":            "Friday of the Twenty-seventh Week in Ordinary Time",
+                    "day_of_week":      "Friday",
+                    "lectionary_num":   "465",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "GAL 3:7-14",
+                        "psalm":            "PS 111:1B-2, 3-4, 5-6",
+                        "gospel":           "LK 11:15-26"
+                    }
+                },
+                "13":{
+                    "title":            "Saturday of the Twenty-seventh Week in Ordinary Time",
+                    "day_of_week":      "Saturday",
+                    "lectionary_num":   "466",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "GAL 3:22-29",
+                        "psalm":            "PS 105:2-3, 4-5, 6-7",
+                        "gospel":           "LK 11:27-28"
+                    }
                 }
             }
         }
