@@ -1574,6 +1574,84 @@
                         "psalm":            "Salmo 8, 2-3a. 4-5. 6-7",
                         "gospel":           "Lc 12, 8-12"
                     }
+                },
+                "21":{
+                    "title":            "XXIX Domingo ordinario",
+                    "day_of_week":      "Domingo",
+                    "lectionary_num":   "146",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Is 53, 10-11",
+                        "psalm":            "Salmo 32, 4-5. 18-19 20 y 22",
+                        "reading_2":        "Heb 4, 14-16",
+                        "gospel":           "Mc 10, 35-45"
+                    }
+                },
+                "22":{
+                    "title":            "Lunes de la XXIX semana del Tiempo ordinario",
+                    "day_of_week":      "Lunes",
+                    "lectionary_num":   "473",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Ef 2, 1-10",
+                        "psalm":            "Salmo 99, 2. 3. 4. 5",
+                        "gospel":           "Lc 12, 13-21"
+                    }
+                },
+                "23":{
+                    "title":            "Martes de la XXIX semana del Tiempo ordinario",
+                    "day_of_week":      "Martes",
+                    "lectionary_num":   "474",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Ef 2, 12-22",
+                        "psalm":            "Salmo 84, 9ab-10. 11-12. 13-14",
+                        "gospel":           "Lc 12, 35-38"
+                    }
+                },
+                "24":{
+                    "title":            "Miércoles de la XXIX semana del Tiempo ordinario",
+                    "day_of_week":      "Miércoles",
+                    "lectionary_num":   "475",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Ef 3, 2-12",
+                        "psalm":            "Is 12, 2-3, 4bcd. 5-6",
+                        "gospel":           "Lc 12, 39-48"
+                    }
+                },
+                "25":{
+                    "title":            "Jueves de la XXIX semana del Tiempo ordinario",
+                    "day_of_week":      "Jueves",
+                    "lectionary_num":   "476",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Ef 3, 14-21",
+                        "psalm":            "Salmo 32, 1-2. 4-5. 10ab y 11",
+                        "gospel":           "Lc 12, 49-53"
+                    }
+                },
+                "26":{
+                    "title":            "Viernes de la XXIX semana del Tiempo ordinario",
+                    "day_of_week":      "Viernes",
+                    "lectionary_num":   "477",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Ef 4, 1-6",
+                        "psalm":            "Salmo 23, 1-2. 3-4ab. 5-6",
+                        "gospel":           "Lc 12, 54-59"
+                    }
+                },
+                "27":{
+                    "title":            "Sábado de la XXIX semana del Tiempo ordinario",
+                    "day_of_week":      "Sábado",
+                    "lectionary_num":   "478",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Ef 4, 7. 11-16",
+                        "psalm":            "Salmo 121, 1-2. 3-4ab. 4cd-5",
+                        "gospel":           "Lc 13, 1-9"
+                    }
                 }
             }
         }

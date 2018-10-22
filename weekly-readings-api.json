@@ -1810,6 +1810,84 @@
                         "psalm":            "PS 8:2-3AB, 4-5, 6-7",
                         "gospel":           "LK 12:8-12"
                     }
+                },
+                "21":{
+                    "title":            "Twenty-ninth Sunday in Ordinary Time",
+                    "day_of_week":      "Sunday",
+                    "lectionary_num":   "146",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "IS 53:10-11",
+                        "psalm":            "PS 33:4-5, 18-19, 20, 22",
+                        "reading_2":        "HEB 4:14-16",
+                        "gospel":           "MK 10:35-45"
+                    }
+                },
+                "22":{
+                    "title":            "Monday of the Twenty-ninth Week in Ordinary Time",
+                    "day_of_week":      "Monday",
+                    "lectionary_num":   "473",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "EPH 2:1-10",
+                        "psalm":            "PS 100:1B-2, 3, 4AB, 4C-5",
+                        "gospel":           "LK 12:13-21"
+                    }
+                },
+                "23":{
+                    "title":            "Tuesday of the Twenty-ninth Week in Ordinary Time",
+                    "day_of_week":      "Tuesday",
+                    "lectionary_num":   "474",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "EPH 2:12-22",
+                        "psalm":            "PS 85:9AB-10, 11-12, 13-14",
+                        "gospel":           "LK 12:35-38"
+                    }
+                },
+                "24":{
+                    "title":            "Wednesday of the Twenty-ninth Week in Ordinary Time",
+                    "day_of_week":      "Wednesday",
+                    "lectionary_num":   "475",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "EPH 3:2-12",
+                        "psalm":            "ISAIAH 12:2-3, 4BCD, 5-6",
+                        "gospel":           "LK 12:39-48"
+                    }
+                },
+                "25":{
+                    "title":            "Thursday of the Twenty-ninth Week in Ordinary Time",
+                    "day_of_week":      "Thursday",
+                    "lectionary_num":   "476",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "EPH 3:14-21",
+                        "psalm":            "PS 33:1-2, 4-5, 11-12, 18-19",
+                        "gospel":           "LK 12:49-53"
+                    }
+                },
+                "26":{
+                    "title":            "Friday of the Twenty-ninth Week in Ordinary Time",
+                    "day_of_week":      "Friday",
+                    "lectionary_num":   "477",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "EPH 4:1-6",
+                        "psalm":            "PS 24:1-2, 3-4AB, 5-6",
+                        "gospel":           "LK 12:54-59"
+                    }
+                },
+                "27":{
+                    "title":            "Saturday of the Twenty-ninth Week in Ordinary Time",
+                    "day_of_week":      "Saturday",
+                    "lectionary_num":   "478",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "EPH 4:7-16",
+                        "psalm":            "PS 122:1-2, 3-4AB, 4CD-5",
+                        "gospel":           "LK 13:1-9"
+                    }
                 }
             }
         }
