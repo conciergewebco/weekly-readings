@@ -1496,6 +1496,84 @@
                         "psalm":            "Salmo 104, 2-3. 4-5. 6-7",
                         "gospel":           "Lc 11, 27-28"
                     }
+                },
+                "14":{
+                    "title":            "XXVIII Domingo ordinario",
+                    "day_of_week":      "Domingo",
+                    "lectionary_num":   "143",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Sab 7, 7-11",
+                        "psalm":            "Salmo 89, 12-13. 14-15. 16-17",
+                        "reading_2":        "Heb 4, 12-13",
+                        "gospel":           "Mc 10, 17-30"
+                    }
+                },
+                "15":{
+                    "title":            "Memoria de Santa Teresa de Jesús, virgen y doctora de la Iglesia",
+                    "day_of_week":      "Lunes",
+                    "lectionary_num":   "467",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Gal 4, 22-24. 26-27. 31–5, 1",
+                        "psalm":            "Salmo 112, 1-2. 3-4. 5a y 6- 7",
+                        "gospel":           "Lc 11, 29-32"
+                    }
+                },
+                "16":{
+                    "title":            "Martes de la XXVIII semana del Tiempo ordinario",
+                    "day_of_week":      "Martes",
+                    "lectionary_num":   "468",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Gal 5, 1-6",
+                        "psalm":            "Salmo 118, 41. 43. 44. 45. 47. 48",
+                        "gospel":           "Lc 11, 37-41"
+                    }
+                },
+                "17":{
+                    "title":            "Memoria e San Ignacio de Antioquía, obispo y doctor de la Iglesia",
+                    "day_of_week":      "Miércoles",
+                    "lectionary_num":   "469",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Gal 5, 18-25",
+                        "psalm":            "Salmo 1, 1-2. 3. 4 y 6",
+                        "gospel":           "Lc 11, 42-46"
+                    }
+                },
+                "18":{
+                    "title":            "Fiesta de San Lucas, evangelista",
+                    "day_of_week":      "Jueves",
+                    "lectionary_num":   "661",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "2 Tm 4, 9-17",
+                        "psalm":            "Salmo 144, 10-11. 12-13. 17-18",
+                        "gospel":           "Lc 10, 1-9"
+                    }
+                },
+                "19":{
+                    "title":            "Memoria de los Santos Juan de Brébeuf e Isaac Jogues, presbíteros, y compañeros, mártires",
+                    "day_of_week":      "Viernes",
+                    "lectionary_num":   "471",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Ef 1, 11-14",
+                        "psalm":            "Salmo 32, 1-2. 4-5. 12-13",
+                        "gospel":           "Lc 12, 1-7"
+                    }
+                },
+                "20":{
+                    "title":            "Sábado de la XXVIII semana del Tiempo ordinario",
+                    "day_of_week":      "Sábado",
+                    "lectionary_num":   "472",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Ef 1, 15-23",
+                        "psalm":            "Salmo 8, 2-3a. 4-5. 6-7",
+                        "gospel":           "Lc 12, 8-12"
+                    }
                 }
             }
         }

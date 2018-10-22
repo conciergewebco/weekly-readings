@@ -1732,6 +1732,84 @@
                         "psalm":            "PS 105:2-3, 4-5, 6-7",
                         "gospel":           "LK 11:27-28"
                     }
+                },
+                "14":{
+                    "title":            "Twenty-eighth Sunday in Ordinary Time",
+                    "day_of_week":      "Sunday",
+                    "lectionary_num":   "143",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "WIS 7:7-11",
+                        "psalm":            "PS 90:12-13, 14-15, 16-17",
+                        "reading_2":        "HEB 4:12-13",
+                        "gospel":           "MK 10:17-30"
+                    }
+                },
+                "15":{
+                    "title":            "Memorial of Saint Teresa of Jesus, Virgin and Doctor of the Church",
+                    "day_of_week":      "Monday",
+                    "lectionary_num":   "467",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "GAL 4:22-24, 26-27, 31–5:1",
+                        "psalm":            "PS 113:1B-2, 3-4, 5A AND 6-7",
+                        "gospel":           "LK 11:29-32"
+                    }
+                },
+                "16":{
+                    "title":            "Tuesday of the Twenty-eighth Week in Ordinary Time",
+                    "day_of_week":      "Tuesday",
+                    "lectionary_num":   "468",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "GAL 5:1-6",
+                        "psalm":            "PS 119:41, 43, 44, 45, 47, 48",
+                        "gospel":           "LK 11:37-41"
+                    }
+                },
+                "17":{
+                    "title":            "Memorial of Saint Ignatius of Antioch, Bishop and Martyr",
+                    "day_of_week":      "Wednesday",
+                    "lectionary_num":   "469",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "GAL 5:18-25",
+                        "psalm":            "PS 1:1-2, 3, 4 AND 6",
+                        "gospel":           "LK 11:42-46"
+                    }
+                },
+                "18":{
+                    "title":            "Feast of Saint Luke, evangelist",
+                    "day_of_week":      "Thursday",
+                    "lectionary_num":   "661",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "2 TM 4:10-17B",
+                        "psalm":            "PS 145:10-11, 12-13, 17-18",
+                        "gospel":           "LK 10:1-9"
+                    }
+                },
+                "19":{
+                    "title":            "Memorial of Saints John de Brébeuf and Isaac Jogues, Priests, and Companions, Martyrs",
+                    "day_of_week":      "Friday",
+                    "lectionary_num":   "471",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "EPH 1:11-14",
+                        "psalm":            "PS 33:1-2, 4-5, 12-13",
+                        "gospel":           "LK 12:1-7"
+                    }
+                },
+                "20":{
+                    "title":            "Saturday of the Twenty-eighth Week in Ordinary Time",
+                    "day_of_week":      "Saturday",
+                    "lectionary_num":   "472",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "EPH 1:15-23",
+                        "psalm":            "PS 8:2-3AB, 4-5, 6-7",
+                        "gospel":           "LK 12:8-12"
+                    }
                 }
             }
         }
