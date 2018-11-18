@@ -1891,6 +1891,85 @@
                         "psalm":            "Salmo 111, 1-2. 3-4. 5-6",
                         "gospel":           "Lc 18, 1-8"
                     }
+                },
+                "18":{
+                    "title":            "XXXIII Domingo ordinario",
+                    "day_of_week":      "Domingo",
+                    "lectionary_num":   "158",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Dn 12, 1-3",
+                        "psalm":            "Salmo 15, 5 y 8. 9-10. 11",
+                        "reading_2":        "Heb 10, 11-14. 18",
+                        "gospel":           "Mc 13, 24-32"
+                    }
+                },
+                "19":{
+                    "title":            "Lunes de la XXXIII semana del Tiempo ordinario",
+                    "day_of_week":      "Lunes",
+                    "lectionary_num":   "497",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Apoc 1, 1-4; 2, 1-5",
+                        "psalm":            "Salmo 1, 1-2. 3. 4 y 6",
+                        "gospel":           "Lc 18, 35-43"
+                    }
+                },
+                "20":{
+                    "title":            "Martes de la XXXIII semana del Tiempo ordinario",
+                    "day_of_week":      "Martes",
+                    "lectionary_num":   "498",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Apoc 3, 1-6. 14-22",
+                        "psalm":            "Salmo 14, 2-3ab. 3cd-4ab. 5",
+                        "gospel":           "Lc 19, 1-10"
+                    }
+                },
+                "21":{
+                    "title":            "Memoria de la Presentación de la Santísima Virgen María",
+                    "day_of_week":      "Miércoles",
+                    "lectionary_num":   "499",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Apoc 4, 1-11",
+                        "psalm":            "Salmo 150, 1-2. 3-4. 5-6",
+                        "gospel":           "Lc 19, 11-28"
+                    }
+                },
+                "22":{
+                    "title":            "Día de Acción de Gracias",
+                    "day_of_week":      "Jueves",
+                    "lectionary_num":   "943-947",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Sir 50, 24-26",
+                        "psalm":            "Salmo 144, 2-3. 4-5. 6-7. 8-9. 10-11",
+                        "reading_2":        "1 Cor 1, 3-9",
+                        "gospel":           "Lc 17, 11-19"
+                    }
+                },
+                "23":{
+                    "title":            "Viernes de la XXXIII semana del Tiempo ordinario",
+                    "day_of_week":      "Viernes",
+                    "lectionary_num":   "501",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Apoc 10, 8-11",
+                        "psalm":            "Salmo 118, 14. 24. 72 103. 111. 131",
+                        "gospel":           "Lc 19, 45-48"
+                    }
+                },
+                "24":{
+                    "title":            "Memoria de San Andres Dung-Lac, presbítero, y compañeros, mártire",
+                    "day_of_week":      "Sábado",
+                    "lectionary_num":   "502",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Apoc 11, 4-12",
+                        "psalm":            "Salmo 143, 1. 2. 9-10",
+                        "gospel":           "Lc 20, 27-40"
+                    }
                 }
             }
         }
