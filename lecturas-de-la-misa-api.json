@@ -2129,6 +2129,85 @@
                         "reading_2":        "Ef 1, 3-6. 11-12",
                         "gospel":           "Lc 1, 26-38"
                     }
+                },
+                "23":{
+                    "title":            "IV Domingo de Adviento",
+                    "day_of_week":      "Domingo",
+                    "lectionary_num":   "12",
+                    "lit_season":       "Adviento",
+                    "readings": {
+                        "reading_1":        "Miq 5, 1-4a",
+                        "psalm":            "Salmo 79, 2ac y 3b. 15-16. 18-19",
+                        "reading_2":        "Heb 10, 5-10",
+                        "gospel":           "Lc 1, 39-45"
+                    }
+                },
+                "24":{
+                    "title":            "Lunes de la cuarta semana de Adviento",
+                    "day_of_week":      "Lunes",
+                    "lectionary_num":   "200",
+                    "lit_season":       "Adviento",
+                    "readings": {
+                        "reading_1":        "2 S 7, 1-5. 8-12. 14. 16",
+                        "psalm":            "Sal 88, 2-3. 4-5. 27 y 29",
+                        "gospel":           "Lc 1, 67-79"
+                    }
+                },
+                "25":{
+                    "title":            "La Natividad del Señor (Navidad)",
+                    "day_of_week":      "Martes",
+                    "lectionary_num":   "16",
+                    "lit_season":       "Navidad",
+                    "readings": {
+                        "reading_1":        "Is 52, 7-10",
+                        "psalm":            "Sal 97, 1. 2-3ab. 3cd-4. 5-6",
+                        "reading_2":        "Hb 1, 1-6",
+                        "gospel":           "Jn 1, 1-18"
+                    }
+                },
+                "26":{
+                    "title":            "Fiesta de san Esteban, protomártir",
+                    "day_of_week":      "Miércoles",
+                    "lectionary_num":   "696",
+                    "lit_season":       "Navidad",
+                    "readings": {
+                        "reading_1":        "Hch 6, 8-10; 7, 54-60",
+                        "psalm":            "Sal 30, 3cd-4. 6 y 8ab. 16bc y 17",
+                        "gospel":           "Mt 10, 17-22"
+                    }
+                },
+                "27":{
+                    "title":            "Fiesta de San Juan, Apóstol y evangelista",
+                    "day_of_week":      "Jueves",
+                    "lectionary_num":   "697",
+                    "lit_season":       "Navidad",
+                    "readings": {
+                        "reading_1":        "1 Jn 1, 1-4",
+                        "psalm":            "Salmo 96, 1-2. 5-6. 11-12",
+                        "gospel":           "Jn 20, 2-9"
+                    }
+                },
+                "28":{
+                    "title":            "Fiesta de los Santo Inocentes, mártires",
+                    "day_of_week":      "Viernes",
+                    "lectionary_num":   "698",
+                    "lit_season":       "Navidad",
+                    "readings": {
+                        "reading_1":        "1 Jn 1, 5–2, 2",
+                        "psalm":            "Salmo 123, 2-3. 4-5. 7b-8",
+                        "gospel":           "Mt 2, 13-18"
+                    }
+                },
+                "29":{
+                    "title":            "Quinto día dentro de la octava de Navidad",
+                    "day_of_week":      "Sábado",
+                    "lectionary_num":   "202",
+                    "lit_season":       "Navidad",
+                    "readings": {
+                        "reading_1":        "1 Jn 2, 3-11",
+                        "psalm":            "Sal 95, 1-2a. 2b-3. 5b-6",
+                        "gospel":           "Lc 2, 22-35"
+                    }
                 }
             }
         }

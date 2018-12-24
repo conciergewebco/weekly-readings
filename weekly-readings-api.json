@@ -2365,6 +2365,85 @@
                         "reading_2":        "EPH 1:3-6, 11-12",
                         "gospel":           "LK 1:26-38"
                     }
+                },
+                "23":{
+                    "title":            "Fourth Sunday of Advent",
+                    "day_of_week":      "Sunday",
+                    "lectionary_num":   "12",
+                    "lit_season":       "Advent",
+                    "readings": {
+                        "reading_1":        "MI 5:1-4A",
+                        "psalm":            "PS 80:2-3, 15-16, 18-19",
+                        "reading_2":        "HEB 10:5-10",
+                        "gospel":           "LK 1:39-45"
+                    }
+                },
+                "24":{
+                    "title":            "Monday in Fourth Week of Advent",
+                    "day_of_week":      "Monday",
+                    "lectionary_num":   "200",
+                    "lit_season":       "Advent",
+                    "readings": {
+                        "reading_1":        "2 SM 7:1-5, 8B-12, 14A, 16",
+                        "psalm":            "PS 89:2-3, 4-5, 27 AND 29",
+                        "gospel":           "LK 1:67-79"
+                    }
+                },
+                "25":{
+                    "title":            "The Nativity of the Lord – Christmas",
+                    "day_of_week":      "Tuesday",
+                    "lectionary_num":   "16",
+                    "lit_season":       "Christmas",
+                    "readings": {
+                        "reading_1":        "IS 52:7-10",
+                        "psalm":            "PS 98:1, 2-3, 3-4, 5-6",
+                        "reading_2":        "HEB 1:1-6",
+                        "gospel":           "JN 1:1-18"
+                    }
+                },
+                "26":{
+                    "title":            "Feast of Saint Stephen, first martyr",
+                    "day_of_week":      "Wednesday",
+                    "lectionary_num":   "696",
+                    "lit_season":       "Christmas",
+                    "readings": {
+                        "reading_1":        "ACTS 6:8-10; 7:54-59",
+                        "psalm":            "PS 31:3CD-4, 6 AND 8AB, 16BC AND 17",
+                        "gospel":           "MT 10:17-22"
+                    }
+                },
+                "27":{
+                    "title":            "Feast of Saint John, Apostle and evangelist",
+                    "day_of_week":      "Thursday",
+                    "lectionary_num":   "697",
+                    "lit_season":       "Christmas",
+                    "readings": {
+                        "reading_1":        "1 JN 1:1-4",
+                        "psalm":            "PS 97:1-2, 5-6, 11-12",
+                        "gospel":           "JN 20:1A AND 2-8"
+                    }
+                },
+                "28":{
+                    "title":            "Feast of the Holy Innocents, martyrs",
+                    "day_of_week":      "Friday",
+                    "lectionary_num":   "698",
+                    "lit_season":       "Christmas",
+                    "readings": {
+                        "reading_1":        "1 JN 1:5—2:2",
+                        "psalm":            "PS 124:2-3, 4-5, 7CD-8",
+                        "gospel":           "MT 2:13-18"
+                    }
+                },
+                "29":{
+                    "title":            "The Fifth Day in the Octave of Christmas",
+                    "day_of_week":      "Saturday",
+                    "lectionary_num":   "202",
+                    "lit_season":       "Christmas",
+                    "readings": {
+                        "reading_1":        "1 JN 2:3-11",
+                        "psalm":            "PS 96:1-2A, 2B-3, 5B-6",
+                        "gospel":           "LK 2:22-35"
+                    }
                 }
             }
         }
