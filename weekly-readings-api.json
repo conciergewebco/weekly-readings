@@ -2444,6 +2444,89 @@
                         "psalm":            "PS 96:1-2A, 2B-3, 5B-6",
                         "gospel":           "LK 2:22-35"
                     }
+                },
+                "30":{
+                    "title":            "Feast of the Holy Family of Jesus, Mary and Joseph",
+                    "day_of_week":      "Sunday",
+                    "lectionary_num":   "17",
+                    "lit_season":       "Christmas",
+                    "readings": {
+                        "reading_1":        "SIR 3:2-6, 12-14",
+                        "psalm":            "PS 128:1-2, 3, 4-5",
+                        "reading_2":        "COL 3:12-21",
+                        "gospel":           "LK 2:41-52"
+                    }
+                },
+                "31":{
+                    "title":            "The Seventh Day in the Octave of Christmas",
+                    "day_of_week":      "Monday",
+                    "lectionary_num":   "204",
+                    "lit_season":       "Christmas",
+                    "readings": {
+                        "reading_1":        "1 JN 2:18-21",
+                        "psalm":            "PS 96:1-2, 11-12, 13",
+                        "gospel":           "JN 1:1-18"
+                    }
+                }
+            }
+        },
+        "2019":{
+            "01":{
+                "01":{
+                    "title":            "The Octave Day of Christmas, Solemnity of the Blessed Virgin Mary, the Mother of God",
+                    "day_of_week":      "Tuesday",
+                    "lectionary_num":   "18",
+                    "lit_season":       "Christmas",
+                    "readings": {
+                        "reading_1":        "NM 6:22-27",
+                        "psalm":            "PS 67:2-3, 5, 6, 8",
+                        "reading_2":        "GAL 4:4-7",
+                        "gospel":           "LK 2:16-21"
+                    }
+                },
+                "02":{
+                    "title":            "Memorial of Saints Basil the Great and Gregory Nazianzen, Bishops and Doctors of the Church",
+                    "day_of_week":      "Wednesday",
+                    "lectionary_num":   "205",
+                    "lit_season":       "Christmas",
+                    "readings": {
+                        "reading_1":        "1 JN 2:22-28",
+                        "psalm":            "PS 98:1, 2-3AB, 3CD-4",
+                        "gospel":           "JN 1:19-28"
+                    }
+                },
+                "03":{
+                    "title":            "Christmas Weekday",
+                    "day_of_week":      "Thursday",
+                    "lectionary_num":   "206",
+                    "lit_season":       "Christmas",
+                    "readings": {
+                        "reading_1":        "1 JN 2:29–3:6",
+                        "psalm":            "PS 98:1, 3CD-4, 5-6",
+                        "gospel":           "JN 1:29-34"
+                    }
+                },
+                "04":{
+                    "title":            "Memorial of Saint Elizabeth Ann Seton, Religious",
+                    "day_of_week":      "Friday",
+                    "lectionary_num":   "207",
+                    "lit_season":       "Christmas",
+                    "readings": {
+                        "reading_1":        "1 JN 3:7-10",
+                        "psalm":            "PS 98:1, 7-8, 9",
+                        "gospel":           "JN 1:35-42"
+                    }
+                },
+                "05":{
+                    "title":            "Memorial of Saint John Neumann, Bishop",
+                    "day_of_week":      "Saturday",
+                    "lectionary_num":   "208",
+                    "lit_season":       "Christmas",
+                    "readings": {
+                        "reading_1":        "1 JN 3:11-21",
+                        "psalm":            "PS 100:1B-2, 3, 4, 5",
+                        "gospel":           "JN 1:43-51"
+                    }
                 }
             }
         }
