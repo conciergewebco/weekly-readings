@@ -2291,6 +2291,162 @@
                         "psalm":            "Sal 95, 1-2a. 2b-3. 5b-6",
                         "gospel":           "Lc 2, 22-35"
                     }
+                },
+                "06":{
+                    "title":            "Solemnidad de la Epifanía del Señor",
+                    "day_of_week":      "Domingo",
+                    "lectionary_num":   "20",
+                    "lit_season":       "Navidad",
+                    "readings": {
+                        "reading_1":        "Is 60, 1-6",
+                        "psalm":            "Salmo 71, 1-2. 7-8. 10-11. 12-13",
+                        "reading_2":        "Ef 3, 2-3a. 5-6",
+                        "gospel":           "Mt 2, 1-12"
+                    }
+                },
+                "07":{
+                    "title":            "Lunes después de Epifania",
+                    "day_of_week":      "Lunes",
+                    "lectionary_num":   "212",
+                    "lit_season":       "Navidad",
+                    "readings": {
+                        "reading_1":        "1 Jn 3, 22–4, 6",
+                        "psalm":            "Salmo 2, 7-8. 10-11",
+                        "gospel":           "Mt 4, 12-17. 23-25"
+                    }
+                },
+                "08":{
+                    "title":            "Martes después de Epifania",
+                    "day_of_week":      "Martes",
+                    "lectionary_num":   "213",
+                    "lit_season":       "Navidad",
+                    "readings": {
+                        "reading_1":        "1 Jn 4, 7-10",
+                        "psalm":            "Salmo 71, 2. 3-4ab. 7-8",
+                        "gospel":           "Mc 6, 34-44"
+                    }
+                },
+                "09":{
+                    "title":            "Miércoles después de Epifanía",
+                    "day_of_week":      "Miércoles",
+                    "lectionary_num":   "214",
+                    "lit_season":       "Navidad",
+                    "readings": {
+                        "reading_1":        "1 Jn 4, 11-18",
+                        "psalm":            "Salmo 71, 2. 10-11. 12-13",
+                        "gospel":           "Mc 6, 45-52"
+                    }
+                },
+                "10":{
+                    "title":            "Jueves después de Epifanía",
+                    "day_of_week":      "Jueves",
+                    "lectionary_num":   "215",
+                    "lit_season":       "Navidad",
+                    "readings": {
+                        "reading_1":        "1 Jn 4, 19–5, 4",
+                        "psalm":            "Salmo 71, 2. 14 y 15bc. 17",
+                        "gospel":           "Lc 4, 14-22"
+                    }
+                },
+                "11":{
+                    "title":            "Viernes después de Epifanía",
+                    "day_of_week":      "Viernes",
+                    "lectionary_num":   "216",
+                    "lit_season":       "Navidad",
+                    "readings": {
+                        "reading_1":        "1 Jn 5, 5-13",
+                        "psalm":            "Salmo 147, 12-13. 14-15. 19-20",
+                        "gospel":           "Lc 5, 12-16"
+                    }
+                },
+                "12":{
+                    "title":            "Sábado después de Epifanía",
+                    "day_of_week":      "Sábado",
+                    "lectionary_num":   "217",
+                    "lit_season":       "Navidad",
+                    "readings": {
+                        "reading_1":        "1 Jn 5, 14-21",
+                        "psalm":            "Salmo 149, 1-2. 3-4. 5 y 6a y 9b",
+                        "gospel":           "Jn 3, 22-30"
+                    }
+                },
+                "13":{
+                    "title":            "Fiesta del Bautismo del Señor",
+                    "day_of_week":      "Domingo",
+                    "lectionary_num":   "21",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Is 42, 1-4. 6-7",
+                        "psalm":            "Salmo 28, 1a y 2. 3ac-4.  3b y 9b-10",
+                        "reading_2":        "Hch 10, 34-38",
+                        "gospel":           "Lc 3, 15-16. 21-22"
+                    }
+                },
+                "14":{
+                    "title":            "Lunes de la I semana del tiempo ordinario",
+                    "day_of_week":      "Lunes",
+                    "lectionary_num":   "305",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Heb 1, 1-6 ",
+                        "psalm":            "Salmo 96 1 y 2b. 6 y 7c. 9",
+                        "gospel":           "Mc 1, 14-20 "
+                    }
+                },
+                "15":{
+                    "title":            "Martes de la I semana del tiempo ordinario",
+                    "day_of_week":      "Martes",
+                    "lectionary_num":   "306",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Heb 2, 5-12 ",
+                        "psalm":            "Salmo 8, 2ab y 5. 6-7. 8-9",
+                        "gospel":           "Mc 1, 21-28"
+                    }
+                },
+                "16":{
+                    "title":            "Miércoles de la I semana del tiempo ordinario",
+                    "day_of_week":      "Miércoles",
+                    "lectionary_num":   "307",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Heb 2, 14-18",
+                        "psalm":            "Salmo 104, 1-2. 3-4. 6-7. 8-9",
+                        "gospel":           "Mc 1,29-39"
+                    }
+                },
+                "17":{
+                    "title":            "Memoria de San Antonio, abad",
+                    "day_of_week":      "Jueves",
+                    "lectionary_num":   "308",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Heb 3, 7-14",
+                        "psalm":            "Salmo 94, 6-7c. 8-9. 10-11",
+                        "gospel":           "Mc 1, 40-45"
+                    }
+                },
+                "18":{
+                    "title":            "Viernes de la I semana del tiempo ordinario",
+                    "day_of_week":      "Viernes",
+                    "lectionary_num":   "309",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Heb 4, 1-5. 11",
+                        "psalm":            "Salmo 77, 3 y 4bc. 6c-7. 8",
+                        "gospel":           "Mc 2, 1-12"
+                    }
+                },
+                "19":{
+                    "title":            "Sábado de la I semana del Tiempo ordinario",
+                    "day_of_week":      "Sábado",
+                    "lectionary_num":   "310",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Heb 4, 12-16",
+                        "psalm":            "Salmo 18, 8. 9. 10. 15",
+                        "gospel":           "Mc 2, 13-17"
+                    }
                 }
             }
         }
