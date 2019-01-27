@@ -2525,6 +2525,87 @@
                         "psalm":            "Salmo 95, 1-2a. 2b-3. 7-8a. 10",
                         "gospel":           "Mc 3, 20-21"
                     }
+                },
+                "27":{
+                    "title":            "III Domingo Ordinario",
+                    "day_of_week":      "Domingo",
+                    "lectionary_num":   "69",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Neh 8, 2-4a. 5-6. 8-10",
+                        "psalm":            "Salmo 18, 8. 9. 10. 15",
+                        "reading_2":        "1 Cor 12:12-30",
+                        "gospel":           "Lc 1, 1-4. 4, 14-21"
+                    }
+                },
+                "28":{
+                    "title":            "Memoria de San Tomas, presbítero y doctor de la Iglesia",
+                    "day_of_week":      "Lunes",
+                    "lectionary_num":   "317",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Heb 9, 15. 24-28",
+                        "psalm":            "Salmo 97, 1. 2-3ab. 3cd-4. 5-6 ",
+                        "gospel":           "Mc 3, 22-30 "
+                    }
+                },
+                "29":{
+                    "title":            "Martes de la III Semana de Tiempo ordinario",
+                    "day_of_week":      "Martes",
+                    "lectionary_num":   "319",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Heb 10, 1-10",
+                        "psalm":            "Salmo 39, 2 y 4ab. 7-8a. 10. 11",
+                        "gospel":           "Mc 3, 31-35"
+                    }
+                },
+                "30":{
+                    "title":            "Miércoles de la III Semana del Tiempo ordinario",
+                    "day_of_week":      "Miércoles",
+                    "lectionary_num":   "319",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Heb 10, 11-18",
+                        "psalm":            "Salmo 109, 1.2. 3. 4",
+                        "gospel":           "Mc 4, 1-20"
+                    }
+                },
+                "31":{
+                    "title":            "Memoria de San Juan Bosco, presbítero",
+                    "day_of_week":      "Jueves",
+                    "lectionary_num":   "320",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Heb 10, 19-25",
+                        "psalm":            "Salmo 23, 1-2. 3-4ab. 5-6",
+                        "gospel":           "Mc 4, 21-25"
+                    }
+                }
+            },
+            "02":{
+                "01":{
+                    "title":            "Viernes de la III semana del tiempo ordinario",
+                    "day_of_week":      "Viernes",
+                    "lectionary_num":   "321",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Heb 10, 32-39",
+                        "psalm":            "Salmo 36, 3-4. 5-6. 23-24. 39-40",
+                        "gospel":           "Mc 4, 26-34"
+                    }
+                },
+                "02":{
+                    "title":            "Fiesta de la Presentación del Señor",
+                    "day_of_week":      "Sábado",
+                    "lectionary_num":   "524",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Mal 3, 1-4",
+                        "psalm":            "Salmo 23, 7. 8. 9. 10",
+                        "reading_2":        "Heb 2, 14-18",
+                        "gospel":           "Lc 2, 22-40"
+                    }
                 }
             }
         }
