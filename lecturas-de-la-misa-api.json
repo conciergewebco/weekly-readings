@@ -2606,6 +2606,73 @@
                         "reading_2":        "Heb 2, 14-18",
                         "gospel":           "Lc 2, 22-40"
                     }
+                },
+                "03":{
+                    "title":            "IV Domingo Ordinario",
+                    "day_of_week":      "Domingo",
+                    "lectionary_num":   "72",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Jer 1, 4-5. 17-19",
+                        "psalm":            "Salmo 70, 1-2. 3-4a. 5-6ab. 15ab y 17",
+                        "reading_2":        "1 Cor 12, 31–13, 13",
+                        "gospel":           "Lc 4, 21-30"
+                    }
+                },
+                "04":{
+                    "title":            "Lunes de la IV semana del Tiempo ordinario ",
+                    "day_of_week":      "Lunes",
+                    "lectionary_num":   "323",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Heb 11, 32-40",
+                        "psalm":            "Salmo 30, 20. 21.22. 23. 24 ",
+                        "gospel":           "Mc 5, 1-20"
+                    }
+                },
+                "05":{
+                    "title":            "Memoria de Santa Agueda, virgen y mártir",
+                    "day_of_week":      "Martes",
+                    "lectionary_num":   "324",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Heb 12, 1-4",
+                        "psalm":            "Salmo 21, 26b-27. 28 y 30. 31-32",
+                        "gospel":           "Mc 5, 21-43"
+                    }
+                },
+                "06":{
+                    "title":            "Memoria de San Pablo Miki y compañeros, mártires",
+                    "day_of_week":      "Miércoles",
+                    "lectionary_num":   "325",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Heb 12, 4-7. 11-15",
+                        "psalm":            "Salmo 102, 1-2. 13-14. 17-18a",
+                        "gospel":           "Mc 6, 1-6"
+                    }
+                },
+                "07":{
+                    "title":            "Jueves de la IV semana del Tiempo ordinario",
+                    "day_of_week":      "Jueves",
+                    "lectionary_num":   "326",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Heb 12, 18-19. 21-24",
+                        "psalm":            "Salmo 47, 2-3a. 3b-4. 9. 10-11",
+                        "gospel":           "Mc 6, 7-13"
+                    }
+                },
+                "08":{
+                    "title":            "Viernes de la IV semana del Tiempo ordinario",
+                    "day_of_week":      "Viernes",
+                    "lectionary_num":   "327",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Heb 13, 1-8",
+                        "psalm":            "Salmo 26, 1. 3. 5. 8b-9abc",
+                        "gospel":           "Mc 6, 14-29"
+                    }
                 }
             }
         }
