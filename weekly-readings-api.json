@@ -2920,6 +2920,84 @@
                         "psalm":            "PS 23:1-3A, 3B-4, 5, 6",
                         "gospel":           "MK 6:30-34"
                     }
+                },
+                "10":{
+                    "title":            "Fifth Sunday in Ordinary Time",
+                    "day_of_week":      "Sunday",
+                    "lectionary_num":   "75",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "IS 6:1-2A, 3-8",
+                        "psalm":            "PS 138:1-2, 2-3, 4-5, 7-8",
+                        "reading_2":        "1 COR 15:1-11",
+                        "gospel":           "LK 5:1-11"
+                    }
+                },
+                "11":{
+                    "title":            "Monday of the Fifth Week in Ordinary Time",
+                    "day_of_week":      "Monday",
+                    "lectionary_num":   "329",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "GN1:1-19",
+                        "psalm":            "PS 104:1-2A, 5-6, 10 AND 12, 24 AND 35C",
+                        "gospel":           "MK 6:53-56"
+                    }
+                },
+                "12":{
+                    "title":            "Tuesday of the Fifth Week in Ordinary Time",
+                    "day_of_week":      "Tuesday",
+                    "lectionary_num":   "330",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "GN 1:20—2:4A",
+                        "psalm":            "PS 8:4-5, 6-7, 8-9",
+                        "gospel":           "MK 7:1-13"
+                    }
+                },
+                "13":{
+                    "title":            "Wednesday of the Fifth Week in Ordinary Time",
+                    "day_of_week":      "Wednesday",
+                    "lectionary_num":   "331",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "GN 2:4B-9, 15-17",
+                        "psalm":            "PS 104:1-2A, 27-28, 29BC-30",
+                        "gospel":           "MK 7:14-23"
+                    }
+                },
+                "14":{
+                    "title":            "Memorial of Saints Cyril, Monk, and Methodius, Bishop",
+                    "day_of_week":      "Thursday",
+                    "lectionary_num":   "332",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "GN 2:18-25",
+                        "psalm":            "PS 128:1-2, 3, 4-5",
+                        "gospel":           "MK 7:24-30"
+                    }
+                },
+                "15":{
+                    "title":            "Friday of the Fifth Week in Ordinary Time",
+                    "day_of_week":      "Friday",
+                    "lectionary_num":   "333",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "GN 3:1-8",
+                        "psalm":            "PS 32:1-2, 5, 6, 7",
+                        "gospel":           "MK 7:31-37"
+                    }
+                },
+                "16":{
+                    "title":            "Saturday of the Fifth Week in Ordinary Time",
+                    "day_of_week":      "Saturday",
+                    "lectionary_num":   "334",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "GN 3:9-24",
+                        "psalm":            "PS 90:2, 3-4ABC, 5-6, 12-13",
+                        "gospel":           "MK 8:1-10"
+                    }
                 }
             }
         }
