@@ -2763,6 +2763,84 @@
                         "psalm":            "Salmo 89, 2. 3-4. 5-6. 12-13",
                         "gospel":           "Mc 8, 1-10"
                     }
+                },
+                "17":{
+                    "title":            "VI Domingo Ordinario",
+                    "day_of_week":      "Domingo",
+                    "lectionary_num":   "78",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Jer 17, 5-8",
+                        "psalm":            "Del Salmo 1",
+                        "reading_2":        "1 Cor 15, 12. 16-20",
+                        "gospel":           "Lc 6, 17. 20-26"
+                    }
+                },
+                "18":{
+                    "title":            "Lunes de la VI semana del tiempo ordinario",
+                    "day_of_week":      "Lunes",
+                    "lectionary_num":   "335",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Gn 4, 1-15. 25",
+                        "psalm":            "Salmo 49, 1 y 8. 16bc-17. 20-21",
+                        "gospel":           "Mc 8, 11-13"
+                    }
+                },
+                "19":{
+                    "title":            "Lunes de la VI semana del Tiempo ordinario",
+                    "day_of_week":      "Martes",
+                    "lectionary_num":   "336",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Gn 6, 5-8; 7, 1-5. 10",
+                        "psalm":            "Salmo 28, 1a y 2. 3ac-4. 3b y 9b-10",
+                        "gospel":           "Mc 8, 14-21"
+                    }
+                },
+                "20":{
+                    "title":            "Miércoles de la VI semana del tiempo ordinario",
+                    "day_of_week":      "Miércoles",
+                    "lectionary_num":   "337",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Gn 8, 6-13. 20-22 ",
+                        "psalm":            "Salmo 115, 12-13. 14-15. 18-19",
+                        "gospel":           "Mc 8, 22-26"
+                    }
+                },
+                "21":{
+                    "title":            "Jueves de la VI semana del Tiempo Ordinario",
+                    "day_of_week":      "Jueves",
+                    "lectionary_num":   "338",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Gn 9, 1-13",
+                        "psalm":            "Salmo 101, 16-18. 19-21. 29 y 22-23",
+                        "gospel":           "Mc 8, 27-33"
+                    }
+                },
+                "22":{
+                    "title":            "Fiesta de la Cátedra de San Pedro, Apóstol",
+                    "day_of_week":      "Viernes",
+                    "lectionary_num":   "535",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "1 Ped 5, 1-4",
+                        "psalm":            "Salmo 22, 1-3a. 3b-4. 5. 6",
+                        "gospel":           "Mt 16, 13-19 "
+                    }
+                },
+                "23":{
+                    "title":            "Memoria de San Policarpo, obispo y mártir",
+                    "day_of_week":      "Sábado",
+                    "lectionary_num":   "340",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Heb 11, 1-7",
+                        "psalm":            "Salmo 144, 2-3. 4-5. 10-11",
+                        "gospel":           "Mc 9, 2-13"
+                    }
                 }
             }
         }
