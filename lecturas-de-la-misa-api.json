@@ -2841,6 +2841,86 @@
                         "psalm":            "Salmo 144, 2-3. 4-5. 10-11",
                         "gospel":           "Mc 9, 2-13"
                     }
+                },
+                "24":{
+                    "title":            "VII Domingo Ordinario",
+                    "day_of_week":      "Domingo",
+                    "lectionary_num":   "81",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "1 Sam 26, 2. 7-9. 12-13. 22-23",
+                        "psalm":            "Del Salmo 102",
+                        "reading_2":        "1 Cor 15, 45-49",
+                        "gospel":           "Lc 6, 27-38"
+                    }
+                },
+                "25":{
+                    "title":            "Lunes de la VII semana del Tiempo ordinario",
+                    "day_of_week":      "Lunes",
+                    "lectionary_num":   "341",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Sir 1, 1-10",
+                        "psalm":            "Salmo 92, 1ab. 1c-2. 5",
+                        "gospel":           "Mc 9, 14-29"
+                    }
+                },
+                "26":{
+                    "title":            "Martes de la VII semana del Tiempo ordinario",
+                    "day_of_week":      "Martes",
+                    "lectionary_num":   "342",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Sir 2, 1-13",
+                        "psalm":            "Salmo 36, 3-4. 18-19. 27-28. 39-40",
+                        "gospel":           "Mc 9, 30-37"
+                    }
+                },
+                "27":{
+                    "title":            "Miércoles de la VII semana del Tiempo ordinario",
+                    "day_of_week":      "Miércoles",
+                    "lectionary_num":   "343",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Sir 4, 12-22",
+                        "psalm":            "Del Salmo 118",
+                        "gospel":           "Mc 9, 38-40"
+                    }
+                },
+                "28":{
+                    "title":            "Jueves de la VII semana del Tiempo ordinario",
+                    "day_of_week":      "Jueves",
+                    "lectionary_num":   "344",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Sir 5, 1-10",
+                        "psalm":            "Salmo 1, 1-2. 3. 4 y 6",
+                        "gospel":           "Mc 9, 41-50"
+                    }
+                }
+            },
+            "03":{
+                "01":{
+                    "title":            "Viernes de la VII semana del Tiempo ordinario",
+                    "day_of_week":      "Viernes",
+                    "lectionary_num":   "345",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Sir 6, 5-17 ",
+                        "psalm":            "Salmo 118, 12. 16. 18. 27. 34. 35",
+                        "gospel":           "Mc 10, 1-12"
+                    }
+                },
+                "02":{
+                    "title":            "Sábado de la VII semana del Tiempo ordinario",
+                    "day_of_week":      "Sábado",
+                    "lectionary_num":   "346",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Sir 17, 1-13",
+                        "psalm":            "Salmo 102, 13-14. 15-16. 17-18",
+                        "gospel":           "Mc 10, 13-16"
+                    }
                 }
             }
         }
