@@ -3135,7 +3135,7 @@
                 }
             },
             "03":{
-                "29":{
+                "01":{
                     "title":            "Friday of the Seventh Week in Ordinary Time",
                     "day_of_week":      "Friday",
                     "lectionary_num":   "345",
@@ -3146,7 +3146,7 @@
                         "gospel":           "MK10:1-12"
                     }
                 },
-                "30":{
+                "02":{
                     "title":            "Saturday of the Seventh Week in Ordinary Time",
                     "day_of_week":      "Saturday",
                     "lectionary_num":   "346",
@@ -3155,6 +3155,85 @@
                         "reading_1":        "SIR 17:1-15",
                         "psalm":            "PS 103:13-14, 15-16, 17-18",
                         "gospel":           "MK 10:13-16"
+                    }
+                },
+                "03":{
+                    "title":            "Eighth Sunday in Ordinary Time",
+                    "day_of_week":      "Sunday",
+                    "lectionary_num":   "84",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "SIR 27:4-7",
+                        "psalm":            "PS 92:2-3, 13-14, 15-16",
+                        "reading_2":        "1 COR 15:54-58",
+                        "gospel":           "LK 6:39-45"
+                    }
+                },
+                "04":{
+                    "title":            "Monday of the Eighth Week in Ordinary Time",
+                    "day_of_week":      "Monday",
+                    "lectionary_num":   "347",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "SIR 17:20-24",
+                        "psalm":            "PS 32:1-2, 5, 6, 7",
+                        "gospel":           "MK 10:17-27"
+                    }
+                },
+                "05":{
+                    "title":            "Tuesday of the Eighth Week in Ordinary Time",
+                    "day_of_week":      "Tuesday",
+                    "lectionary_num":   "348",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "SIR 35:1-12",
+                        "psalm":            "PS 50:5-6, 7-8, 14 And 23",
+                        "gospel":           "MK 10:28-31"
+                    }
+                },
+                "06":{
+                    "title":            "Ash Wednesday",
+                    "day_of_week":      "Wednesday",
+                    "lectionary_num":   "219",
+                    "lit_season":       "Lent",
+                    "readings": {
+                        "reading_1":        "JL 2:12-18",
+                        "psalm":            "PS 51:3-4, 5-6AB, 12-13, 14 AND 17",
+                        "reading_2":        "2 COR 5:20—6:2",
+                        "gospel":           "MT 6:1-6, 16-18"
+                    }
+                },
+                "07":{
+                    "title":            "Thursday after Ash Wednesday",
+                    "day_of_week":      "Thursday",
+                    "lectionary_num":   "220",
+                    "lit_season":       "Lent",
+                    "readings": {
+                        "reading_1":        "DT 30:15-20",
+                        "psalm":            "PS 1:1-2, 3, 4 AND 6",
+                        "gospel":           "LK 9:22-25"
+                    }
+                },
+                "08":{
+                    "title":            "Friday after Ash Wednesday",
+                    "day_of_week":      "Friday",
+                    "lectionary_num":   "221",
+                    "lit_season":       "Lent",
+                    "readings": {
+                        "reading_1":        "IS 58:1-9A",
+                        "psalm":            "PS 51:3-4, 5-6AB, 18-19",
+                        "gospel":           "MT 9:14-15"
+                    }
+                },
+                "09":{
+                    "title":            "Saturday after Ash Wednesday",
+                    "day_of_week":      "Saturday",
+                    "lectionary_num":   "222",
+                    "lit_season":       "Lent",
+                    "readings": {
+                        "reading_1":        "IS 58:9B-14",
+                        "psalm":            "PS 86:1-2, 3-4, 5-6",
+                        "gospel":           "LK 5:27-32"
                     }
                 }
             }

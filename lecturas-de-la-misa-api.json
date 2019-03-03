@@ -2921,6 +2921,85 @@
                         "psalm":            "Salmo 102, 13-14. 15-16. 17-18",
                         "gospel":           "Mc 10, 13-16"
                     }
+                },
+                "03":{
+                    "title":            "VIII Domingo Ordinario",
+                    "day_of_week":      "Domingo",
+                    "lectionary_num":   "84",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Sir 27, 5-8",
+                        "psalm":            "Del Salmo 91",
+                        "reading_2":        "1 Cor 15, 54-58",
+                        "gospel":           "Lc 6, 39-45"
+                    }
+                },
+                "04":{
+                    "title":            "Lunes de la VIII semana del Tiempo ordinario",
+                    "day_of_week":      "Lunes",
+                    "lectionary_num":   "347",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Sir 17, 20-28",
+                        "psalm":            "Salmo 31, 1-2. 5. 6. 7",
+                        "gospel":           "Mc 10, 17-27"
+                    }
+                },
+                "05":{
+                    "title":            "Martes de la VII semana del Tiempo ordinario",
+                    "day_of_week":      "Martes",
+                    "lectionary_num":   "342",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Sir 35, 1-12",
+                        "psalm":            "Salmo 50, 5-6, 7-8, 14 y 23",
+                        "gospel":           "Mc 10, 28-31"
+                    }
+                },
+                "06":{
+                    "title":            "Miércoles de Ceniza",
+                    "day_of_week":      "Miércoles",
+                    "lectionary_num":   "219",
+                    "lit_season":       "Cuaresma",
+                    "readings": {
+                        "reading_1":        "Jl 2, 12-18",
+                        "psalm":            "Salmo 50, 3-4. 5-6a. 12-13. 14 y 17",
+                        "reading_2":        "2 Cor 5, 20–6, 2",
+                        "gospel":           "Mt 6, 1-6. 16-18"
+                    }
+                },
+                "07":{
+                    "title":            "Jueves después de ceniza",
+                    "day_of_week":      "Jueves",
+                    "lectionary_num":   "220",
+                    "lit_season":       "Cuaresma",
+                    "readings": {
+                        "reading_1":        "Dt 30, 15-20",
+                        "psalm":            "Salmo 1, 1-2. 3. 4 y 6",
+                        "gospel":           "Lc 9, 22-25"
+                    }
+                },
+                "08":{
+                    "title":            "Viernes después de ceniza",
+                    "day_of_week":      "Viernes",
+                    "lectionary_num":   "221",
+                    "lit_season":       "Cuaresma",
+                    "readings": {
+                        "reading_1":        "Is 58, 1-9",
+                        "psalm":            "Salmo 50, 3-4. 5-6a. 18-19",
+                        "gospel":           "Mt 9, 14-15"
+                    }
+                },
+                "09":{
+                    "title":            "Sábado después de ceniza",
+                    "day_of_week":      "Sábado",
+                    "lectionary_num":   "222",
+                    "lit_season":       "Cuaresma",
+                    "readings": {
+                        "reading_1":        "Is 58, 9-14",
+                        "psalm":            "Salmo 85, 1-2. 3-4. 5-6",
+                        "gospel":           "Lc 5, 27-32"
+                    }
                 }
             }
         }
