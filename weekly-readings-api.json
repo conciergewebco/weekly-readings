@@ -3235,6 +3235,84 @@
                         "psalm":            "PS 86:1-2, 3-4, 5-6",
                         "gospel":           "LK 5:27-32"
                     }
+                },
+                "10":{
+                    "title":            "First Sunday of Lent",
+                    "day_of_week":      "Sunday",
+                    "lectionary_num":   "24",
+                    "lit_season":       "Lent",
+                    "readings": {
+                        "reading_1":        "DT 26:4-10",
+                        "psalm":            "PS 91:1-2, 10-11, 12-13, 14-15",
+                        "reading_2":        "ROM 10:8-13",
+                        "gospel":           "LK 4:1-13"
+                    }
+                },
+                "11":{
+                    "title":            "Monday of the First Week of Lent",
+                    "day_of_week":      "Monday",
+                    "lectionary_num":   "244",
+                    "lit_season":       "Lent",
+                    "readings": {
+                        "reading_1":        "LV 19:1-2, 11-18",
+                        "psalm":            "PS 19:8, 9, 10, 15",
+                        "gospel":           "MT 25:31-46"
+                    }
+                },
+                "12":{
+                    "title":            "Tuesday of the First Week of Lent",
+                    "day_of_week":      "Tuesday",
+                    "lectionary_num":   "225",
+                    "lit_season":       "Lent",
+                    "readings": {
+                        "reading_1":        "IS 55:10-11",
+                        "psalm":            "PS 34:4-5, 6-7, 16-17, 18-19",
+                        "gospel":           "MT 6:7-15"
+                    }
+                },
+                "13":{
+                    "title":            "Wednesday of the First Week in Lent",
+                    "day_of_week":      "Wednesday",
+                    "lectionary_num":   "226",
+                    "lit_season":       "Lent",
+                    "readings": {
+                        "reading_1":        "JON 3:1-10",
+                        "psalm":            "PS 51:3-4, 12-13, 18-19",
+                        "gospel":           "LK 11:29-32"
+                    }
+                },
+                "14":{
+                    "title":            "Thursday of the First Week in Lent",
+                    "day_of_week":      "Thursday",
+                    "lectionary_num":   "227",
+                    "lit_season":       "Lent",
+                    "readings": {
+                        "reading_1":        "EST C:12, 14-16, 23-25",
+                        "psalm":            "PS 138:1-2AB, 2CDE-3, 7C-8",
+                        "gospel":           "MT 7:7-12"
+                    }
+                },
+                "15":{
+                    "title":            "Friday of the First Week of Lent",
+                    "day_of_week":      "Friday",
+                    "lectionary_num":   "228",
+                    "lit_season":       "Lent",
+                    "readings": {
+                        "reading_1":        "EZ 18:21-28",
+                        "psalm":            "PS 130:1-2, 3-4, 5-7A, 7BC-8",
+                        "gospel":           "MT 5:20-26"
+                    }
+                },
+                "16":{
+                    "title":            "Saturday of the First Week of Lent",
+                    "day_of_week":      "Saturday",
+                    "lectionary_num":   "229",
+                    "lit_season":       "Lent",
+                    "readings": {
+                        "reading_1":        "DT 26:16-19",
+                        "psalm":            "PS 119:1-2, 4-5, 7-8",
+                        "gospel":           "MT 5:43-48"
+                    }
                 }
             }
         }
