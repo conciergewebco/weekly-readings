@@ -3710,6 +3710,167 @@
                         "reading_2":        "ROM 6:3-11",
                         "gospel":           "LK 24:1-12"
                     }
+                },
+                "21":{
+                    "title":            "Palm Sunday of the Lord's Passion",
+                    "day_of_week":      "Sunday",
+                    "lectionary_num":   "37/38",
+                    "lit_season":       "Lent",
+                    "readings": {
+                        "reading_1":        "IS 50:4-7",
+                        "psalm":            "PS 22:8-9, 17-18, 19-20, 23-24",
+                        "reading_2":        "PHIL 2:6-11",
+                        "gospel":           "LK 22:14—23:56"
+                    }
+                },
+                "22":{
+                    "title":            "Monday of Holy Week",
+                    "day_of_week":      "Monday",
+                    "lectionary_num":   "257",
+                    "lit_season":       "Lent",
+                    "readings": {
+                        "reading_1":        "IS 42:1-7",
+                        "psalm":            "PS 27:1, 2, 3, 13-14",
+                        "gospel":           "JN 12:1-11"
+                    }
+                },
+                "23":{
+                    "title":            "Tuesday of Holy Week",
+                    "day_of_week":      "Tuesday",
+                    "lectionary_num":   "258",
+                    "lit_season":       "Lent",
+                    "readings": {
+                        "reading_1":        "IS 49:1-6",
+                        "psalm":            "PS 71:1-2, 3-4A, 5AB-6AB, 15 AND 17",
+                        "gospel":           "JN 13:21-33, 36-38"
+                    }
+                },
+                "24":{
+                    "title":            "Wednesday of Holy Week",
+                    "day_of_week":      "Wednesday",
+                    "lectionary_num":   "259",
+                    "lit_season":       "Lent",
+                    "readings": {
+                        "reading_1":        "IS 50:4-9A",
+                        "psalm":            "PS 69:8-10, 21-22, 31 AND 33-34",
+                        "gospel":           "MT 26:14-25"
+                    }
+                },
+                "25":{
+                    "title":            "Holy Thursday – Evening Mass of the Lord's Supper",
+                    "day_of_week":      "Thursday",
+                    "lectionary_num":   "39",
+                    "lit_season":       "Triduum",
+                    "readings": {
+                        "reading_1":        "EX 12:1-8, 11-14",
+                        "psalm":            "PS 116:12-13, 15-16BC, 17-18",
+                        "reading_2":        "1 COR 11:23-26",
+                        "gospel":           "JN 13:1-15"
+                    }
+                },
+                "26":{
+                    "title":            "Good Friday of the Lord's Passion",
+                    "day_of_week":      "Friday",
+                    "lectionary_num":   "40",
+                    "lit_season":       "Triduum",
+                    "readings": {
+                        "reading_1":        "IS 52:13—53:12",
+                        "psalm":            "PS 31:2, 6, 12-13, 15-16, 17, 25",
+                        "reading_2":        "HEB 4:14-16; 5:7-9",
+                        "gospel":           "JN 18:1—19:42"
+                    }
+                },
+                "27":{
+                    "title":            "Easter Vigil in the Holy Night of Easter",
+                    "day_of_week":      "Saturday",
+                    "lectionary_num":   "41",
+                    "lit_season":       "'Triduum'",
+                    "readings": {
+                        "reading_1":        "GN 1:1—2:2; PS 104:1-2, 5-6, 10, 12, 13-14, 24, 35; GN 22:1-18; PS 16:5, 8, 9-10, 11; EX 14:15—15:1; EX 15:1-2, 3-4, 5-6, 17-18; IS 54:5-14; PS 30:2, 4, 5-6, 11-12, 13; IS 55:1-11; IS 12:2-3, 4, 5-6; BAR 3:9-15, 32C4:4; PS 19:8, 9, 10, 11; EZ 36:16-17A, 18-28",
+                        "psalm":            "PS 42:3, 5; 43:3, 4",
+                        "reading_2":        "ROM 6:3-11",
+                        "gospel":           "LK 24:1-12"
+                    }
+                },
+                "28":{
+                    "title":            "Second Sunday of Easter (Or Sunday of Divine Mercy)",
+                    "day_of_week":      "Sunday",
+                    "lectionary_num":   "45",
+                    "lit_season":       "Easter",
+                    "readings": {
+                        "reading_1":        "ACTS 5:12-16",
+                        "psalm":            "PS 118:2-4, 13-15, 22-2",
+                        "reading_2":        "REV 1:9-11A, 12-13, 17-19",
+                        "gospel":           "JN 20:19-31"
+                    }
+                },
+                "29":{
+                    "title":            "Memorial of Saint Catherine of Siena, Virgin and Doctor of the Church",
+                    "day_of_week":      "Monday",
+                    "lectionary_num":   "267",
+                    "lit_season":       "Easter",
+                    "readings": {
+                        "reading_1":        "ACTS 4:23-31",
+                        "psalm":            "PS 2:1-3, 4-7A, 7B-9",
+                        "gospel":           "JN 3:1-8"
+                    }
+                },
+                "30":{
+                    "title":            "Tuesday of the Second Week of Easter",
+                    "day_of_week":      "Tuesday",
+                    "lectionary_num":   "268",
+                    "lit_season":       "Easter",
+                    "readings": {
+                        "reading_1":        "ACTS 4:32-37",
+                        "psalm":            "PS 93:1AB, 1CD-2, 5",
+                        "gospel":           "JN 3:7B-15"
+                    }
+                }
+            },
+            "05":{
+                "01":{
+                    "title":            "Wednesday of the Second Week of Easter",
+                    "day_of_week":      "Wednesday",
+                    "lectionary_num":   "269",
+                    "lit_season":       "Easter",
+                    "readings": {
+                        "reading_1":        "ACTS 5:17-26",
+                        "psalm":            "PS 34:2-3, 4-5, 6-7, 8-9",
+                        "gospel":           "JN 3:16-21"
+                    }
+                },
+                "02":{
+                    "title":            "Memorial of Saint Athanasius, Bishop and Doctor of the Church",
+                    "day_of_week":      "Thursday",
+                    "lectionary_num":   "270",
+                    "lit_season":       "Easter",
+                    "readings": {
+                        "reading_1":        "ACTS 5:27-33",
+                        "psalm":            "PS 34:2 AND 9, 17-18, 19-20",
+                        "gospel":           "JN 3:31-36"
+                    }
+                },
+                "03":{
+                    "title":            "Feast of Saints Philip and James, Apostles",
+                    "day_of_week":      "Friday",
+                    "lectionary_num":   "561",
+                    "lit_season":       "Easter",
+                    "readings": {
+                        "reading_1":        "1 COR 15:1-8",
+                        "psalm":            "PS 19:2-3, 4-5",
+                        "gospel":           "JN 14:6-14"
+                    }
+                },
+                "04":{
+                    "title":            "Saturday of the Second Week of Easter",
+                    "day_of_week":      "Saturday",
+                    "lectionary_num":   "272",
+                    "lit_season":       "'Easter'",
+                    "readings": {
+                        "reading_1":        "ACTS 6:1-7",
+                        "psalm":            "PS 33:1-2, 4-5, 18-19",
+                        "gospel":           "JN 6:16-21"
+                    }
                 }
             }
         }
