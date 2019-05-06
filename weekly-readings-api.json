@@ -3871,6 +3871,84 @@
                         "psalm":            "PS 33:1-2, 4-5, 18-19",
                         "gospel":           "JN 6:16-21"
                     }
+                },
+                "05":{
+                    "title":            "Third Sunday of Easter",
+                    "day_of_week":      "Sunday",
+                    "lectionary_num":   "48",
+                    "lit_season":       "Easter",
+                    "readings": {
+                        "reading_1":        "ACTS 5:27-32, 40B-41",
+                        "psalm":            "PS 30:2, 4, 5-6, 11-12, 13",
+                        "reading_2":        "REV 5:11-14",
+                        "gospel":           "JN 21:1-19"
+                    }
+                },
+                "06":{
+                    "title":            "Monday of the Third Week of Easter",
+                    "day_of_week":      "Monday",
+                    "lectionary_num":   "273",
+                    "lit_season":       "Easter",
+                    "readings": {
+                        "reading_1":        "ACTS 6:8-15",
+                        "psalm":            "PS 119:23-24, 26-27, 29-30",
+                        "gospel":           "JN 6:22-29"
+                    }
+                },
+                "07":{
+                    "title":            "Tuesday of the Third Week of Easter",
+                    "day_of_week":      "Tuesday",
+                    "lectionary_num":   "274",
+                    "lit_season":       "Easter",
+                    "readings": {
+                        "reading_1":        "ACTS 7:51—8:1A",
+                        "psalm":            "PS 31:3CD-4, 6 AND 7B AND 8A, 17 AND 21AB",
+                        "gospel":           "JN 6:30-35"
+                    }
+                },
+                "08":{
+                    "title":            "Wednesday of the Third Week of Easter",
+                    "day_of_week":      "Wednesday",
+                    "lectionary_num":   "275",
+                    "lit_season":       "Easter",
+                    "readings": {
+                        "reading_1":        "ACTS 8:1B-8",
+                        "psalm":            "PS 66:1-3A, 4-5, 6-7A",
+                        "gospel":           "JN 6:35-40"
+                    }
+                },
+                "09":{
+                    "title":            "Thursday of the Third Week of Easter",
+                    "day_of_week":      "Thursday",
+                    "lectionary_num":   "276",
+                    "lit_season":       "Easter",
+                    "readings": {
+                        "reading_1":        "ACTS 8:26-40",
+                        "psalm":            "PS 66:8-9, 16-17, 20",
+                        "gospel":           "JN 6:44-51"
+                    }
+                },
+                "10":{
+                    "title":            "Friday of the Third Week of Easter",
+                    "day_of_week":      "Friday",
+                    "lectionary_num":   "277",
+                    "lit_season":       "Easter",
+                    "readings": {
+                        "reading_1":        "ACTS 9:1-20",
+                        "psalm":            "PS 117:1BC, 2",
+                        "gospel":           "JN 6:52-59"
+                    }
+                },
+                "11":{
+                    "title":            "Saturday of the Third Week of Easter",
+                    "day_of_week":      "Saturday",
+                    "lectionary_num":   "278",
+                    "lit_season":       "'Easter'",
+                    "readings": {
+                        "reading_1":        "ACTS 9:31-42",
+                        "psalm":            "PS 116:12-13, 14-15, 16-17",
+                        "gospel":           "JN 6:60-69"
+                    }
                 }
             }
         }

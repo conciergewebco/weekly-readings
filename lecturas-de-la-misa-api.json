@@ -3638,6 +3638,84 @@
                         "psalm":            "Salmo 32, 1-2. 4-5. 18-19",
                         "gospel":           "Jn 6, 16-21"
                     }
+                },
+                "05":{
+                    "title":            "III Domingo de Pascua",
+                    "day_of_week":      "Domingo",
+                    "lectionary_num":   "48",
+                    "lit_season":       "Pascua",
+                    "readings": {
+                        "reading_1":        "Hch 5, 27b-32. 40b-41",
+                        "psalm":            "Salmo 29, 2 y 4. 5 y 6. 11 y 12a y 13b",
+                        "reading_2":        "Apoc 5, 11-14",
+                        "gospel":           "Jn 21, 1-19"
+                    }
+                },   
+                "06":{
+                    "title":            "Lunes de la III semana de Pascua",
+                    "day_of_week":      "Lunes",
+                    "lectionary_num":   "273",
+                    "lit_season":       "Pascua",
+                    "readings": {
+                        "reading_1":        "Hch 6, 8-15",
+                        "psalm":            "Salmo 118, 23-24. 26-27. 29-30",
+                        "gospel":           "Jn 6, 22-29"
+                    }
+                },
+                "07":{
+                    "title":            "Martes de la III semana de Pascua",
+                    "day_of_week":      "Martes",
+                    "lectionary_num":   "274",
+                    "lit_season":       "Pascua",
+                    "readings": {
+                        "reading_1":        "Hch 7, 51–8, 1",
+                        "psalm":            "Salmo 30, 3cd-4. 6ab y 7b y 8a. 17 y 21ab",
+                        "gospel":           "Jn 6, 30-35"
+                    }
+                },
+                "08":{
+                    "title":            "Miércoles de la III semana de Pascua",
+                    "day_of_week":      "Miércoles",
+                    "lectionary_num":   "275",
+                    "lit_season":       "Pascua",
+                    "readings": {
+                        "reading_1":        "Hch 8, 1-8",
+                        "psalm":            "Salmo 65, 1-3a. 4-5. 6-7a",
+                        "gospel":           "Jn 6, 35-40"
+                    }
+                },
+                "09":{
+                    "title":            "Jueves de la III semana de Pascua",
+                    "day_of_week":      "Jueves",
+                    "lectionary_num":   "276",
+                    "lit_season":       "Pascua",
+                    "readings": {
+                        "reading_1":        "Hch 8, 26-40",
+                        "psalm":            "Salmo 65, 8-9. 16-17. 20",
+                        "gospel":           "Jn 6, 44-51"
+                    }
+                },
+                "10":{
+                    "title":            "Viernes de la III semana de Pascua",
+                    "day_of_week":      "Viernes",
+                    "lectionary_num":   "277",
+                    "lit_season":       "Pascua",
+                    "readings": {
+                        "reading_1":        "Hch 9, 1-20",
+                        "psalm":            "Salmo 116, 1. 2",
+                        "gospel":           "Jn 6, 52-59"
+                    }
+                },
+                "11":{
+                    "title":            "Sábado de la III semana de Pascua",
+                    "day_of_week":      "Sábado",
+                    "lectionary_num":   "278",
+                    "lit_season":       "Pascua",
+                    "readings": {
+                        "reading_1":        "Hch 9, 31-42",
+                        "psalm":            "Salmo 115, 12-13. 14-15. 16-17",
+                        "gospel":           "Jn 6, 60-69"
+                    }
                 }
             }
         }
