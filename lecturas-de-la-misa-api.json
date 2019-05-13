@@ -3716,6 +3716,84 @@
                         "psalm":            "Salmo 115, 12-13. 14-15. 16-17",
                         "gospel":           "Jn 6, 60-69"
                     }
+                },
+                "12":{
+                    "title":            "IV Domingo de Pascua",
+                    "day_of_week":      "Domingo",
+                    "lectionary_num":   "51",
+                    "lit_season":       "Pascua",
+                    "readings": {
+                        "reading_1":        "Hch 13, 14. 43-52",
+                        "psalm":            "Salmo 99, 2. 3. 5",
+                        "reading_2":        "Apoc 7, 9. 14b-17",
+                        "gospel":           "Jn 10, 27-30"
+                    }
+                },   
+                "13":{
+                    "title":            "Lunes de la IV semana de Pascua",
+                    "day_of_week":      "Lunes",
+                    "lectionary_num":   "279",
+                    "lit_season":       "Pascua",
+                    "readings": {
+                        "reading_1":        "Hch 11, 1-18",
+                        "psalm":            "Salmos 41, 2-3; 42, 3.4",
+                        "gospel":           "Jn 10, 1-10"
+                    }
+                },
+                "14":{
+                    "title":            "Fiesta de san Matías, Apóstol",
+                    "day_of_week":      "Martes",
+                    "lectionary_num":   "564",
+                    "lit_season":       "Pascua",
+                    "readings": {
+                        "reading_1":        "Hch 1, 15-17. 20-26",
+                        "psalm":            "Salmo 112, 1-2. 3-4. 5-6. 7-8",
+                        "gospel":           "Jn 15, 9-17"
+                    }
+                },
+                "15":{
+                    "title":            "Miércoles de la IV Semana de Pascua",
+                    "day_of_week":      "Miércoles",
+                    "lectionary_num":   "281",
+                    "lit_season":       "Pascua",
+                    "readings": {
+                        "reading_1":        "Hch 12, 24–13, 5",
+                        "psalm":            "Salmo 66, 2-3. 5. 6 y 8",
+                        "gospel":           "Jn 12, 44-50"
+                    }
+                },
+                "16":{
+                    "title":            "Jueves de la IV semana de Pascua",
+                    "day_of_week":      "Jueves",
+                    "lectionary_num":   "282",
+                    "lit_season":       "Pascua",
+                    "readings": {
+                        "reading_1":        "Hch 13, 13-25",
+                        "psalm":            "Salmo 88, 2-3. 21-22. 25 y 27",
+                        "gospel":           "Jn 13, 16-20"
+                    }
+                },
+                "17":{
+                    "title":            "Viernes de la IV semana de Pascua",
+                    "day_of_week":      "Viernes",
+                    "lectionary_num":   "283",
+                    "lit_season":       "Pascua",
+                    "readings": {
+                        "reading_1":        "Hch 13, 26-33",
+                        "psalm":            "Salmo 2, 6-7. 8-9. 10-11",
+                        "gospel":           "Jn 14, 1-6"
+                    }
+                },
+                "18":{
+                    "title":            "Sábado de la IV semana de Pascua",
+                    "day_of_week":      "Sábado",
+                    "lectionary_num":   "284",
+                    "lit_season":       "Pascua",
+                    "readings": {
+                        "reading_1":        "Hch 13, 44-52",
+                        "psalm":            "Salmo 97, 1. 2-3ab. 3cd-4",
+                        "gospel":           "Jn 14, 7-14"
+                    }
                 }
             }
         }

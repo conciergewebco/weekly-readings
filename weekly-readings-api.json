@@ -3949,6 +3949,84 @@
                         "psalm":            "PS 116:12-13, 14-15, 16-17",
                         "gospel":           "JN 6:60-69"
                     }
+                },
+                "12":{
+                    "title":            "Fourth Sunday of Easter",
+                    "day_of_week":      "Sunday",
+                    "lectionary_num":   "51",
+                    "lit_season":       "Easter",
+                    "readings": {
+                        "reading_1":        "ACTS 13:14, 43-52",
+                        "psalm":            "PS 100:1-2, 3, 5",
+                        "reading_2":        "REV 7:9, 14B-17",
+                        "gospel":           "JN 10:27-30"
+                    }
+                },
+                "13":{
+                    "title":            "Monday of the Fourth Week of Easter",
+                    "day_of_week":      "Monday",
+                    "lectionary_num":   "279",
+                    "lit_season":       "Easter",
+                    "readings": {
+                        "reading_1":        "ACTS 11:1-18",
+                        "psalm":            "PS 42:2-3; 43:3, 4",
+                        "gospel":           "JN 10:1-10"
+                    }
+                },
+                "14":{
+                    "title":            "Feast of Saint Matthias, Apostle",
+                    "day_of_week":      "Tuesday",
+                    "lectionary_num":   "564",
+                    "lit_season":       "Easter",
+                    "readings": {
+                        "reading_1":        "ACTS 1:15-17, 20-26",
+                        "psalm":            "PS 113:1-2, 3-4, 5-6, 7-8",
+                        "gospel":           "JN 15:9-17"
+                    }
+                },
+                "15":{
+                    "title":            "Wednesday of the Fourth Week of Easter",
+                    "day_of_week":      "Wednesday",
+                    "lectionary_num":   "281",
+                    "lit_season":       "Easter",
+                    "readings": {
+                        "reading_1":        "ACTS 12:24—13:5A",
+                        "psalm":            "PS 67:2-3, 5, 6 AND 8",
+                        "gospel":           "JN 12:44-50"
+                    }
+                },
+                "16":{
+                    "title":            "Thursday of the Fourth Week of Easter",
+                    "day_of_week":      "Thursday",
+                    "lectionary_num":   "282",
+                    "lit_season":       "Easter",
+                    "readings": {
+                        "reading_1":        "ACTS 13:13-25",
+                        "psalm":            "PS 89:2-3, 21-22, 25 AND 27",
+                        "gospel":           "JN 13:16-20"
+                    }
+                },
+                "17":{
+                    "title":            "Friday of the Fourth Week of Easter",
+                    "day_of_week":      "Friday",
+                    "lectionary_num":   "283",
+                    "lit_season":       "Easter",
+                    "readings": {
+                        "reading_1":        "ACTS 13:26-33",
+                        "psalm":            "PS 2:6-7, 8-9, 10-11A",
+                        "gospel":           "JN 14:1-6"
+                    }
+                },
+                "18":{
+                    "title":            "Saturday of the Fourth Week of Easter",
+                    "day_of_week":      "Saturday",
+                    "lectionary_num":   "284",
+                    "lit_season":       "'Easter'",
+                    "readings": {
+                        "reading_1":        "ACTS 13:44-52",
+                        "psalm":            "PS 98:1, 2-3AB, 3CD-4",
+                        "gospel":           "JN 14:7-14"
+                    }
                 }
             }
         }
