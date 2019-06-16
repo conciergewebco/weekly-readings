@@ -4108,6 +4108,84 @@
                         "psalm":            "Salmo 102, 1-2. 3-4. 9-10. 11-12",
                         "gospel":           "Mt 5, 33-37"
                     }
+                },
+                "16":{
+                    "title":            "Solemnidad de la Santísima Trinidad",
+                    "day_of_week":      "Domingo",
+                    "lectionary_num":   "166",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Prov 8, 22-31",
+                        "psalm":            "Salmo 8, 4-5. 6-7. 8-9",
+                        "reading_2":        "Rom 5, 1-5",
+                        "gospel":           "Jn 16, 12-15"
+                    }
+                },   
+                "17":{
+                    "title":            "Lunes de la XI semana del Tiempo ordinario",
+                    "day_of_week":      "Lunes",
+                    "lectionary_num":   "365",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "2 Cor 6, 1-10",
+                        "psalm":            "Salmo 97, 1. 2-3ab. 3cd-4",
+                        "gospel":           "Mt 5, 38-42"
+                    }
+                },
+                "18":{
+                    "title":            "Martes de la XI semana del Tiempo ordinario",
+                    "day_of_week":      "Martes",
+                    "lectionary_num":   "366",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "2 Cor 8, 1-9",
+                        "psalm":            "Salmo 145, 2. 5-6ab. 6c-7. 8-9a",
+                        "gospel":           "Mt 5, 43-48"
+                    }
+                },
+                "19":{
+                    "title":            "Miércoles de la XI semana del Tiempo ordinario",
+                    "day_of_week":      "Miércoles",
+                    "lectionary_num":   "367",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "2 Cor 9, 6-11",
+                        "psalm":            "Salmo 111, 1-2. 3-4. 9",
+                        "gospel":           "Mt 6, 1-6. 16-18"
+                    }
+                },
+                "20":{
+                    "title":            "Jueves de la XI semana del Tiempo ordinario",
+                    "day_of_week":      "Jueves",
+                    "lectionary_num":   "368",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "2 Cor 11, 1-11",
+                        "psalm":            "Salmo 110, 1-2. 3-4. 7-8",
+                        "gospel":           "Mt 6, 7-15"
+                    }
+                },
+                "21":{
+                    "title":            "Memoria de San Luis Gonzaga, religioso",
+                    "day_of_week":      "Viernes",
+                    "lectionary_num":   "369",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "2 Cor 11, 18. 21-30",
+                        "psalm":            "Salmo 33, 2-3. 4-5. 6-7",
+                        "gospel":           "Mt 6, 19-23"
+                    }
+                },
+                "22":{
+                    "title":            "Sábado de la XI semana del Tiempo ordinario",
+                    "day_of_week":      "Sábado",
+                    "lectionary_num":   "370",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "2 Cor 12, 1-10",
+                        "psalm":            "Salmo 33, 8-9. 10-11. 12-13",
+                        "gospel":           "Mt 6, 24-34"
+                    }
                 }
             }
         }

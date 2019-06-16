@@ -4341,6 +4341,84 @@
                         "psalm":            "PS 103:1-2, 3-4, 9-10, 11-12",
                         "gospel":           "MT 5:33-37"
                     }
+                },
+                "16":{
+                    "title":            "The Solemnity of the Most Holy Trinity",
+                    "day_of_week":      "Sunday",
+                    "lectionary_num":   "166",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "PRV 8:22-31",
+                        "psalm":            "PS 8:4-5, 6-7, 8-9",
+                        "reading_2":        "ROM 5:1-5",
+                        "gospel":           "JN 16:12-15"
+                    }
+                },
+                "17":{
+                    "title":            "Monday of the Eleventh Week in Ordinary Time",
+                    "day_of_week":      "Monday",
+                    "lectionary_num":   "365",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "2 COR 6:1-10",
+                        "psalm":            "PS 98:1, 2B, 3AB, 3CD-4",
+                        "gospel":           "MT 5:38-42"
+                    }
+                },
+                "18":{
+                    "title":            "Tuesday of the Eleventh Week in Ordinary Time",
+                    "day_of_week":      "Tuesday",
+                    "lectionary_num":   "366",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "2 COR 8:1-9",
+                        "psalm":            "PS 146:2, 5-6AB, 6C- 7, 8-9A",
+                        "gospel":           "MT 5:43-48"
+                    }
+                },
+                "19":{
+                    "title":            "Wednesday of the Eleventh Week in Ordinary Time",
+                    "day_of_week":      "Wednesday",
+                    "lectionary_num":   "367",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "2 COR 9:6-11",
+                        "psalm":            "PS 112:1BC-2, 3-4, 9",
+                        "gospel":           "MT 6:1-6, 16-18"
+                    }
+                },
+                "20":{
+                    "title":            "Thursday of the Eleventh Week in Ordinary Time",
+                    "day_of_week":      "Thursday",
+                    "lectionary_num":   "368",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "2 COR 11:1-11",
+                        "psalm":            "PS 111:1B-2, 3-4, 7-8",
+                        "gospel":           "MT 6:7-15"
+                    }
+                },
+                "21":{
+                    "title":            "Memorial of Saint Aloysius Gonzaga, Religious",
+                    "day_of_week":      "Friday",
+                    "lectionary_num":   "369",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "2 COR 11:18, 21-30",
+                        "psalm":            "PS 34:2-3, 4-5, 6-7",
+                        "gospel":           "MT 6:19-23"
+                    }
+                },
+                "22":{
+                    "title":            "Saturday of the Eleventh Week in Ordinary Time",
+                    "day_of_week":      "Saturday",
+                    "lectionary_num":   "370",
+                    "lit_season":       "'Ordinary Time'",
+                    "readings": {
+                        "reading_1":        "2 COR 12:1-10",
+                        "psalm":            "PS 34:8-9, 10-11, 12-13",
+                        "gospel":           "MT 6:24-34"
+                    }
                 }
             }
         }
