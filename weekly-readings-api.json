@@ -4419,6 +4419,87 @@
                         "psalm":            "PS 34:8-9, 10-11, 12-13",
                         "gospel":           "MT 6:24-34"
                     }
+                },
+                "23":{
+                    "title":            "The Solemnity of the Most Holy Body and Blood of Christ",
+                    "day_of_week":      "Sunday",
+                    "lectionary_num":   "169",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "GN 14:18-20",
+                        "psalm":            "PS 110:1, 2, 3, 4",
+                        "reading_2":        "1 COR 11:23-26",
+                        "gospel":           "LK 9:11B-17"
+                    }
+                },
+                "24":{
+                    "title":            "Solemnity of the Nativity of Saint John the Baptist",
+                    "day_of_week":      "Monday",
+                    "lectionary_num":   "587",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "IS 49:1-6",
+                        "psalm":            "PS 139:1B-3, 13-14AB, 14C-15",
+                        "reading_2":        "ACTS 13:22-26",
+                        "gospel":           "LK 1:57-66, 80"
+                    }
+                },
+                "25":{
+                    "title":            "Tuesday of the Twelfth Week in Ordinary Time",
+                    "day_of_week":      "Tuesday",
+                    "lectionary_num":   "372",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "GN 13:2, 5-18",
+                        "psalm":            "PS 15:2-3A, 3BC-4AB, 5",
+                        "gospel":           "MT 7:6, 12-14"
+                    }
+                },
+                "26":{
+                    "title":            "Wednesday of the Twelfth Week in Ordinary Time",
+                    "day_of_week":      "Wednesday",
+                    "lectionary_num":   "373",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "GN15:1-12, 17-18",
+                        "psalm":            "PS 105:1-2, 3-4, 6-7, 8-9",
+                        "gospel":           "MT 7:15-20"
+                    }
+                },
+                "27":{
+                    "title":            "Thursday of the Twelfth Week in Ordinary Time",
+                    "day_of_week":      "Thursday",
+                    "lectionary_num":   "374",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "GN 16:1-12, 15-16",
+                        "psalm":            "PS 106:1B-2, 3-4A, 4B-5",
+                        "gospel":           "MT 7:21-29"
+                    }
+                },
+                "28":{
+                    "title":            "Solemnity of Most Sacred Heart of Jesus",
+                    "day_of_week":      "Friday",
+                    "lectionary_num":   "172",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "EZ 34:11-16",
+                        "psalm":            "PS 23:1-3A, 3B-4, 5, 6",
+                        "reading_2":        "ROM 5:5B-11",
+                        "gospel":           "LK 15:3-7"
+                    }
+                },
+                "29":{
+                    "title":            "Solemnity of Saints Peter and Paul, Apostles",
+                    "day_of_week":      "Saturday",
+                    "lectionary_num":   "591",
+                    "lit_season":       "'Ordinary Time'",
+                    "readings": {
+                        "reading_1":        "ACTS 12:1-11",
+                        "psalm":            "PS 34:2-3, 4-5, 6-7, 8-9",
+                        "reading_2":        "2 TM 4:6-8, 17-18",
+                        "gospel":           "MT 16:13-19"
+                    }
                 }
             }
         }
