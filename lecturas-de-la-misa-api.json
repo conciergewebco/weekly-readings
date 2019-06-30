@@ -4266,6 +4266,88 @@
                         "reading_2":        "2 Tm 4, 6-8. 17-18",
                         "gospel":           "Mt 16, 13-19"
                     }
+                },
+                "30":{
+                    "title":            "XIII Domingo Ordinario",
+                    "day_of_week":      "Domingo",
+                    "lectionary_num":   "99",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "1 Reyes 19, 16b. 19-21",
+                        "psalm":            "Salmo 15, 1-2a y 5. 7-8. 9-10. 11",
+                        "reading_2":        "Gal 5, 1. 13-18",
+                        "gospel":           "Lc 9, 51-62"
+                    }
+                }
+            },
+            "07":{
+                "01":{
+                    "title":            "Solemnidad de Natividad de san Juan Bautista",
+                    "day_of_week":      "Lunes",
+                    "lectionary_num":   "587",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Is 49, 1-6",
+                        "psalm":            "Salmo 138, 1-3. 13-14ab. 14c-15",
+                        "reading_2":        "Hch 13, 22-26",
+                        "gospel":           "Lc 1, 57-66. 80"
+                    }
+                },
+                "02":{
+                    "title":            "Martes de la XII semana del Tiempo ordinario",
+                    "day_of_week":      "Martes",
+                    "lectionary_num":   "372",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Gn 13, 2. 5-18",
+                        "psalm":            "almo 14, 2-3ab. 3cd-4ab. 5",
+                        "gospel":           "Mt 7, 6. 12-14"
+                    }
+                },
+                "03":{
+                    "title":            "Miércoles de le XII semana del Tiempo ordinario",
+                    "day_of_week":      "Miércoles",
+                    "lectionary_num":   "373",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Gen 15, 1-12. 17-18",
+                        "psalm":            "Salmo 104, 1-2. 3-4. 6-7. 8-9",
+                        "gospel":           "Mt 7, 15-20"
+                    }
+                },
+                "04":{
+                    "title":            "Jueves de la XII semana del Tiempo ordinario",
+                    "day_of_week":      "pesos",
+                    "lectionary_num":   "374",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Gn 16, 1-12. 15-16",
+                        "psalm":            "Salmo 105,  1-2. 3-4a. 4b-5",
+                        "gospel":           "Mt 7, 21-29"
+                    }
+                },
+                "05":{
+                    "title":            "Solemnidad del Sagrado Corazón de Jesús",
+                    "day_of_week":      "Viernes",
+                    "lectionary_num":   "172",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Ez 34, 11-16",
+                        "psalm":            "Salmo 22, 1-3a. 3b-4. 5. 6",
+                        "gospel":           "Lc 15, 3-7"
+                    }
+                },
+                "06":{
+                    "title":            "Solemnidad de san Pedro y san Pablo, Apóstoles",
+                    "day_of_week":      "Sábado",
+                    "lectionary_num":   "591",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Hch 12, 1-11",
+                        "psalm":            "Salmo 33, 2-3. 4-5. 6-7. 8-9",
+                        "reading_2":        "2 Tm 4, 6-8. 17-18",
+                        "gospel":           "Mt 16, 13-19"
+                    }
                 }
             }
         }
