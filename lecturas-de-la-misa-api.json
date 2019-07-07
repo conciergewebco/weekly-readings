@@ -4348,6 +4348,84 @@
                         "reading_2":        "2 Tm 4, 6-8. 17-18",
                         "gospel":           "Mt 16, 13-19"
                     }
+                },
+                "07":{
+                    "title":            "XIV Domingo Ordinario",
+                    "day_of_week":      "Domingo",
+                    "lectionary_num":   "102",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Is 66, 10-14",
+                        "psalm":            "Salmo 65, 1-3a. 4-5. 6-7a, 16 y 20",
+                        "reading_2":        "Gal 6, 14-18",
+                        "gospel":           "Lc 10, 1-12. 17-20"
+                    }
+                },
+                "08":{
+                    "title":            "Lunes de la XIV semana del Tiempo ordinario",
+                    "day_of_week":      "Lunes",
+                    "lectionary_num":   "383",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Gn 28, 10-22",
+                        "psalm":            "Salmo 90, 1-2. 3-4. 14-15ab",
+                        "gospel":           "Mt 9, 18-26"
+                    }
+                },
+                "09":{
+                    "title":            "Martes de la XIV semana del Tiempo ordinario",
+                    "day_of_week":      "Martes",
+                    "lectionary_num":   "384",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Gn 32, 22-32",
+                        "psalm":            "Salmo 16, 1. 2-3. 6-7. 8b y 15",
+                        "gospel":           "Mt 9, 32-38"
+                    }
+                },
+                "10":{
+                    "title":            "Miércoles de la XIV semana del Tiempo ordinario",
+                    "day_of_week":      "Miércoles",
+                    "lectionary_num":   "385",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Gn 41, 55-57; 42, 5-7. 17-24",
+                        "psalm":            "Salmo 32, 2-3. 10-11. 18-19",
+                        "gospel":           "Mt 10, 1-7"
+                    }
+                },
+                "11":{
+                    "title":            "Memoria de San Benito, abad",
+                    "day_of_week":      "pesos",
+                    "lectionary_num":   "386",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Gn 44, 18-21. 23-29; 45, 1-5",
+                        "psalm":            "Salmo 104, 16-17. 18-19. 20-21",
+                        "gospel":           "Mt 10, 7-15"
+                    }
+                },
+                "12":{
+                    "title":            "Viernes de la XIV semana del Tiempo ordinario",
+                    "day_of_week":      "Viernes",
+                    "lectionary_num":   "387",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Gn 46, 1-7. 28-30",
+                        "psalm":            "Salmo 36, 3-4. 18-19. 27-18. 39-40",
+                        "gospel":           "Mt 10, 16-23"
+                    }
+                },
+                "13":{
+                    "title":            "Sábado de la XIV semana del Tiempo ordinario",
+                    "day_of_week":      "Sábado",
+                    "lectionary_num":   "388",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Gn 49, 29-32; 50, 15-26",
+                        "psalm":            "Salmo 104, 1-2. 3-4. 6-7",
+                        "gospel":           "Mt 10, 24-33"
+                    }
                 }
             }
         }
