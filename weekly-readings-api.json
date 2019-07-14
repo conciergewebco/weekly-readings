@@ -4661,6 +4661,84 @@
                         "psalm":            "PS 105:1-2, 3-4, 6-7",
                         "gospel":           "MT 10:24-33"
                     }
+                },
+                "14":{
+                    "title":            "Fifteenth Sunday in Ordinary Time",
+                    "day_of_week":      "Sunday",
+                    "lectionary_num":   "105",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "DT 30:10-14",
+                        "psalm":            "PS 69:14, 17, 30-31, 33-34, 36, 37",
+                        "reading_2":        "COL1:15-20",
+                        "gospel":           "LK 10:25-37"
+                    }
+                },
+                "15":{
+                    "title":            "Memorial of Saint Bonaventure, Bishop and Doctor of the Church",
+                    "day_of_week":      "Monday",
+                    "lectionary_num":   "389",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "EX 1:8-14, 22",
+                        "psalm":            "PS 124:1B-3, 4-6, 7-8",
+                        "gospel":           "MT 10:34—11:1"
+                    }
+                },
+                "16":{
+                    "title":            "Tuesday of the Fifteenth Week in Ordinary Time",
+                    "day_of_week":      "Tuesday",
+                    "lectionary_num":   "390",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "EX 2:1-15A",
+                        "psalm":            "PS 69:3, 14, 30-31, 33-34",
+                        "gospel":           "MT 11:20-24"
+                    }
+                },
+                "17":{
+                    "title":            "Wednesday of the Fifteenth Week in Ordinary Time",
+                    "day_of_week":      "Wednesday",
+                    "lectionary_num":   "391",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "EX 3:1-6, 9-12",
+                        "psalm":            "PS 103:1B-2, 3-4, 6-7",
+                        "gospel":           "MT 11:25-27"
+                    }
+                },
+                "18":{
+                    "title":            "Thursday of the Fifteenth Week in Ordinary Time",
+                    "day_of_week":      "Thursday",
+                    "lectionary_num":   "392",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "EX 3:13-20",
+                        "psalm":            "PS 105:1 AND 5, 8-9, 24-25, 26-27",
+                        "gospel":           "MT 11:28-30"
+                    }
+                },
+                "19":{
+                    "title":            "Friday of the Fifteenth Week in Ordinary Time",
+                    "day_of_week":      "Friday",
+                    "lectionary_num":   "393",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "EX 11:10—12:14",
+                        "psalm":            "PS 116:12-13, 15 AND 16BC, 17-18",
+                        "gospel":           "MT 12:1-8"
+                    }
+                },
+                "20":{
+                    "title":            "Saturday of the Fifteenth Week in Ordinary Time",
+                    "day_of_week":      "Saturday",
+                    "lectionary_num":   "394",
+                    "lit_season":       "'Ordinary Time'",
+                    "readings": {
+                        "reading_1":        "EX 12:37-42",
+                        "psalm":            "PS 136:1 AND 23-24, 10-12, 13-15",
+                        "gospel":           "MT 12:14-21"
+                    }
                 }
             }
         }
