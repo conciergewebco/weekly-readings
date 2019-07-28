@@ -4817,6 +4817,84 @@
                         "psalm":            "PS 50:1B-2, 5-6, 14-15",
                         "gospel":           "MT 13:24-30"
                     }
+                },
+                "28":{
+                    "title":            "Seventeenth Sunday in Ordinary Time",
+                    "day_of_week":      "Sunday",
+                    "lectionary_num":   "111",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "GN 18:20-32",
+                        "psalm":            "PS 138:1-2, 2-3, 6-7, 7-8",
+                        "reading_2":        "COL 2:12-14",
+                        "gospel":           "LK 11:1-13"
+                    }
+                },
+                "29":{
+                    "title":            "Memorial of Saint Martha",
+                    "day_of_week":      "Monday",
+                    "lectionary_num":   "401/607",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "EX 32:15-24, 30-34",
+                        "psalm":            "PS 106:19-20, 21-22, 23",
+                        "gospel":           "JN 11:19-27"
+                    }
+                },
+                "30":{
+                    "title":            "Tuesday of the Seventeenth Week in Ordinary Time",
+                    "day_of_week":      "Tuesday",
+                    "lectionary_num":   "402",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "EX 33:7-11; 34:5B-9, 28",
+                        "psalm":            "PS 103:6-7, 8-9, 10-11, 12-13",
+                        "gospel":           "MT 13:36-43"
+                    }
+                },
+                "31":{
+                    "title":            "Memorial of Saint Ignatius of Loyola, Priest",
+                    "day_of_week":      "Wednesday",
+                    "lectionary_num":   "403",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "EX 34:29-35",
+                        "psalm":            "PS 99:5, 6, 7, 9",
+                        "gospel":           "MT 13:44-46"
+                    }
+                },
+                "01":{
+                    "title":            "Feast of Saint James, Apostle",
+                    "day_of_week":      "Thursday",
+                    "lectionary_num":   "605",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "2 COR 4:7-15",
+                        "psalm":            "PS 126:1BC-2AB, 2CD-3, 4-5, 6",
+                        "gospel":           "MT 20:20-28"
+                    }
+                },
+                "02":{
+                    "title":            "Memorial of Saints Joachim and Anne, Parents of the Blessed Virgin Mary",
+                    "day_of_week":      "Friday",
+                    "lectionary_num":   "399",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "EX 20:1-17",
+                        "psalm":            "PS 19:8, 9, 10, 11",
+                        "gospel":           "MT 13:18-23"
+                    }
+                },
+                "03":{
+                    "title":            "Saturday of the Sixteenth Week in Ordinary Time",
+                    "day_of_week":      "Saturday",
+                    "lectionary_num":   "400",
+                    "lit_season":       "'Ordinary Time'",
+                    "readings": {
+                        "reading_1":        "EX 24:3-8",
+                        "psalm":            "PS 50:1B-2, 5-6, 14-15",
+                        "gospel":           "MT 13:24-30"
+                    }
                 }
             }
         }
