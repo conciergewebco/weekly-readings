@@ -4862,7 +4862,9 @@
                         "psalm":            "PS 99:5, 6, 7, 9",
                         "gospel":           "MT 13:44-46"
                     }
-                },
+                }
+            },
+            "08":{
                 "01":{
                     "title":            "Feast of Saint James, Apostle",
                     "day_of_week":      "Thursday",
@@ -4894,6 +4896,85 @@
                         "reading_1":        "EX 24:3-8",
                         "psalm":            "PS 50:1B-2, 5-6, 14-15",
                         "gospel":           "MT 13:24-30"
+                    }
+                },
+                "04":{
+                    "title":            "Eighteenth Sunday in Ordinary Time",
+                    "day_of_week":      "Sunday",
+                    "lectionary_num":   "114",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "ECC 1:2; 2:21-23",
+                        "psalm":            "PS 90:3-4, 5-6, 12-13, 14 AND 17",
+                        "reading_2":        "COL 3:1-5, 9-11",
+                        "gospel":           "LK 12:13-21"
+                    }
+                },
+                "05":{
+                    "title":            "Monday of the Eighteenth Week in Ordinary Time",
+                    "day_of_week":      "Monday",
+                    "lectionary_num":   "407",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "NM 11:4B-15",
+                        "psalm":            "PS 81:12-13, 14-15, 16-17",
+                        "gospel":           "MT 14:13-21"
+                    }
+                },
+                "06":{
+                    "title":            "Feast of the Transfiguration of the Lord",
+                    "day_of_week":      "Tuesday",
+                    "lectionary_num":   "614",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "DN 7:9-10, 13-14",
+                        "psalm":            "PS 97:1-2, 5-6, 9",
+                        "reading_2":        "2 PT 1:16-19",
+                        "gospel":           "LK 9:28B-36"
+                    }
+                },
+                "07":{
+                    "title":            "Wednesday of the Eighteenth Week in Ordinary Time",
+                    "day_of_week":      "Wednesday",
+                    "lectionary_num":   "409",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "NM 13:1-2, 25–14:1, 26A-29A, 34-35",
+                        "psalm":            "PS 106:6-7AB, 13-14, 21-22, 23",
+                        "gospel":           "MT 15: 21-28"
+                    }
+                },
+                "08":{
+                    "title":            "Memorial of Saint Dominic, Priest",
+                    "day_of_week":      "Thursday",
+                    "lectionary_num":   "410",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "NM 20:1-13",
+                        "psalm":            "PS 95:1-2, 6-7, 8-9",
+                        "gospel":           "MT16:13-23"
+                    }
+                },
+                "09":{
+                    "title":            "Friday of the Eighteenth Week in Ordinary Time",
+                    "day_of_week":      "Friday",
+                    "lectionary_num":   "411",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "DT 4:32-40",
+                        "psalm":            "PS 77:12-13, 14-15, 16 AND 21",
+                        "gospel":           "MT 16:24-28"
+                    }
+                },
+                "10":{
+                    "title":            "Feast of Saint Lawrence, Deacon and Martyr",
+                    "day_of_week":      "Saturday",
+                    "lectionary_num":   "618",
+                    "lit_season":       "'Ordinary Time'",
+                    "readings": {
+                        "reading_1":        "2 COR 9:6-10",
+                        "psalm":            "PS 112:1-2, 5-6, 7-8, 9",
+                        "gospel":           "JN 12:24-26"
                     }
                 }
             }
