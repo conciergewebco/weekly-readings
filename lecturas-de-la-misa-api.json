@@ -4741,6 +4741,163 @@
                         "psalm":            "Salmo 111, 1-2. 3-4. 5-7a. 7b-8. 9",
                         "gospel":           "Jn 12, 24-26"
                     }
+                },
+                "11":{
+                    "title":            "XVIII Domingo Ordinario",
+                    "day_of_week":      "Domingo",
+                    "lectionary_num":   "114",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Eclesiastés (Cohélet) 1, 2; 2, 21-23",
+                        "psalm":            "Salmo 89, 3-4. 5-6. 12-13. 14 y 17",
+                        "reading_2":        "Col 3, 1-5. 9-11",
+                        "gospel":           "Lc 12, 13-21"
+                    }
+                },
+                "12":{
+                    "title":            "Lunes de la XVIII semana del Tiempo ordinario",
+                    "day_of_week":      "Lunes",
+                    "lectionary_num":   "407",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Num 11, 4-15",
+                        "psalm":            "Salmo 80, 12-13. 14-15. 16-17",
+                        "gospel":           "Mt 14, 13-21"
+                    }
+                },
+                "13":{
+                    "title":            "Fiesta de la Transfiguración del Señor",
+                    "day_of_week":      "Martes",
+                    "lectionary_num":   "614",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Dn 7, 9-10. 13-14",
+                        "psalm":            "Salmo 96, 1-2. 5-6. 9",
+                        "reading_2":        "2 Pedro 1, 16-19",
+                        "gospel":           "Lc 9, 28-36"
+                    }
+                },
+                "14":{
+                    "title":            "Miércoles de la XVIII semana del Tiempo ordinario",
+                    "day_of_week":      "Miércoles",
+                    "lectionary_num":   "409",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Num 13, 1-2. 25–14, 1. 26-29. 34-35",
+                        "psalm":            "Salmo 105, 6-7a. 13-14 21-22. 23",
+                        "gospel":           "Mt 15, 21-28"
+                    }
+                },
+                "15":{
+                    "title":            "Memoria de Santo Domingo, presbítero",
+                    "day_of_week":      "Jueves",
+                    "lectionary_num":   "410",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Nm 20, 1-13",
+                        "psalm":            "Del Salmo 94",
+                        "gospel":           "Mt 16, 13-23"
+                    }
+                },
+                "16":{
+                    "title":            "Viernes de le XVII semana del Tiempo ordinario",
+                    "day_of_week":      "Viernes",
+                    "lectionary_num":   "411",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Dt 4, 32-40",
+                        "psalm":            "Salmo 76, 12-13. 14-15. 16 y 21",
+                        "gospel":           "Mt 16, 24-28"
+                    }
+                },
+                "17":{
+                    "title":            "Fiesta de san Lorenzo, diácono y mártir",
+                    "day_of_week":      "Sábado",
+                    "lectionary_num":   "618",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "2 Co 9, 6-10",
+                        "psalm":            "Salmo 111, 1-2. 3-4. 5-7a. 7b-8. 9",
+                        "gospel":           "Jn 12, 24-26"
+                    }
+                },
+                "18":{
+                    "title":            "XX Domingo Ordinario",
+                    "day_of_week":      "Domingo",
+                    "lectionary_num":   "120",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Jer 38, 4-6. 8-10",
+                        "psalm":            "Salmo 39, 2. 3. 4. 18",
+                        "reading_2":        "Heb 12, 1-4",
+                        "gospel":           "Lc 12, 49-53"
+                    }
+                },
+                "19":{
+                    "title":            "Lunes de la XX semana del Tiempo ordinario",
+                    "day_of_week":      "Lunes",
+                    "lectionary_num":   "419",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Ju 2, 11-19",
+                        "psalm":            "Salmo 105, 34-35. 36-37. 39-40. 43ab y 44",
+                        "gospel":           "Mt 19, 16-22"
+                    }
+                },
+                "20":{
+                    "title":            "Memoria de San Bernardo, abad y doctor de la Iglesia",
+                    "day_of_week":      "Martes",
+                    "lectionary_num":   "420",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Ju 6, 11-24",
+                        "psalm":            "Salmo 84, 9. 11-12. 13-14",
+                        "gospel":           "Mt 19, 23-30"
+                    }
+                },
+                "21":{
+                    "title":            "Memoria de San Pio X, papa",
+                    "day_of_week":      "Miércoles",
+                    "lectionary_num":   "421",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Ju 9, 6-15",
+                        "psalm":            "Salmo 20, 2-3. 4-5. 6-7",
+                        "gospel":           "Mt 20, 1-16"
+                    }
+                },
+                "22":{
+                    "title":            "Memoria de Nuestra Señora María Reina",
+                    "day_of_week":      "Jueves",
+                    "lectionary_num":   "422",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Ju 11, 29-39",
+                        "psalm":            "Salmo 39, 5. 7-8a. 8b-9. 10",
+                        "gospel":           "Mt 22, 1-14"
+                    }
+                },
+                "23":{
+                    "title":            "Viernes de la XX semana del Tiempo ordinario",
+                    "day_of_week":      "Viernes",
+                    "lectionary_num":   "423",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Rut 1, 1. 3-8. 14-16. 22",
+                        "psalm":            "Salmo 145, 5-6. 7. 8-9a. 9bc-10",
+                        "gospel":           "Mt 22, 34-40"
+                    }
+                },
+                "24":{
+                    "title":            "Fiesta de San Bartolomé, Apóstol",
+                    "day_of_week":      "Sábado",
+                    "lectionary_num":   "629",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Apoc 21, 9-14",
+                        "psalm":            "Salmo 144, 10-11. 12-13. 17-18",
+                        "gospel":           "Jn 1, 45-51"
+                    }
                 }
             }
         }
