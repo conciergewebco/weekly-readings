@@ -5133,6 +5133,164 @@
                         "psalm":            "PS 145:10-11, 12-13, 17-18",
                         "gospel":           "JN 1:45-51"
                     }
+                },
+                "25":{
+                    "title":            "Twenty-first Sunday in Ordinary Time",
+                    "day_of_week":      "Sunday",
+                    "lectionary_num":   "123",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "IS 66:18-21",
+                        "psalm":            "PS 117:1, 2",
+                        "reading_2":        "HEB 12:5-7, 11-13",
+                        "gospel":           "LK 13:22-30"
+                    }
+                },
+                "26":{
+                    "title":            "Monday of the Twenty-first Week in Ordinary Time",
+                    "day_of_week":      "Monday",
+                    "lectionary_num":   "425",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "1 THES 1:1-5, 8B-10",
+                        "psalm":            "PS 149:1B-2, 3-4, 5-6A AND 9B",
+                        "gospel":           "MT 23:13-22"
+                    }
+                },
+                "27":{
+                    "title":            "Memorial of Saint Bernard, Abbot and Doctor of the Church",
+                    "day_of_week":      "Tuesday",
+                    "lectionary_num":   "420",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "JGS 6:11-24A",
+                        "psalm":            "PS 85:9, 11-12, 13-14",
+                        "gospel":           "MT 19:23-30"
+                    }
+                },
+                "28":{
+                    "title":            "Memorial of Saint Augustine, Bishop and Doctor of the Church",
+                    "day_of_week":      "Wednesday",
+                    "lectionary_num":   "427",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "1 THES 2:9-13",
+                        "psalm":            "PS 139:7-8, 9-10, 11-12AB",
+                        "gospel":           "MT 23:27-32"
+                    }
+                },
+                "29":{
+                    "title":            "Memorial of the Queenship of the Blessed Virgin Mary",
+                    "day_of_week":      "Thursday",
+                    "lectionary_num":   "422",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "JGS 11:29-39A",
+                        "psalm":            "PS 40:5, 7-8A, 8B-9, 10",
+                        "gospel":           "MT 22:1-14"
+                    }
+                },
+                "30":{
+                    "title":            "Friday of the Twentieth Week in Ordinary Time",
+                    "day_of_week":      "Friday",
+                    "lectionary_num":   "423",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "RU 1:1, 3-6, 14B-16, 22",
+                        "psalm":            "PS 146:5-6AB, 6C-7, 8-9A, 9BC-10",
+                        "gospel":           "MT 22:34-40"
+                    }
+                },
+                "31":{
+                    "title":            "Feast of Saint Bartholomew, Apostle",
+                    "day_of_week":      "Saturday",
+                    "lectionary_num":   "629",
+                    "lit_season":       "'Ordinary Time'",
+                    "readings": {
+                        "reading_1":        "RV 21:9B-14",
+                        "psalm":            "PS 145:10-11, 12-13, 17-18",
+                        "gospel":           "JN 1:45-51"
+                    }
+                }
+            },
+            "09":{
+                "01":{
+                    "title":            "Twenty-second Sunday in Ordinary Time",
+                    "day_of_week":      "Sunday",
+                    "lectionary_num":   "126",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "SIR 3:17-18, 20, 28-29",
+                        "psalm":            "PS 68:4-5, 6-7, 10-11",
+                        "reading_2":        "HEB 12:18-19, 22-24A",
+                        "gospel":           "LK 14:1, 7-14"
+                    }
+                },
+                "02":{
+                    "title":            "Monday of the Twenty-second Week in Ordinary Time",
+                    "day_of_week":      "Monday",
+                    "lectionary_num":   "431",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "1 THES 4:13-18",
+                        "psalm":            "PS 96:1 AND 3, 4-5, 11-12, 13",
+                        "gospel":           "LK 4:16-30"
+                    }
+                },
+                "03":{
+                    "title":            "Memorial of Saint Gregory the Great, Pope and Doctor of the Church",
+                    "day_of_week":      "Tuesday",
+                    "lectionary_num":   "432",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "1 THES 5:1-6, 9-11",
+                        "psalm":            "PS 27:1, 4, 13-14",
+                        "gospel":           "LK 4:31-37"
+                    }
+                },
+                "04":{
+                    "title":            "Wednesday of the Twenty-second Week in Ordinary Time",
+                    "day_of_week":      "Wednesday",
+                    "lectionary_num":   "433",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "COL1:1-8",
+                        "psalm":            "PS 52:10, 11",
+                        "gospel":           "LK 4:38-44"
+                    }
+                },
+                "05":{
+                    "title":            "Thursday of the Twenty-second Week in Ordinary Time",
+                    "day_of_week":      "Thursday",
+                    "lectionary_num":   "434",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "COL 1:9-14",
+                        "psalm":            "PS 98:2-3AB, 3CD-4, 5-6",
+                        "gospel":           "LK 5:1-11"
+                    }
+                },
+                "06":{
+                    "title":            "Friday of the Twenty-second Week in Ordinary Time",
+                    "day_of_week":      "Friday",
+                    "lectionary_num":   "435",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "COL 1:15-20",
+                        "psalm":            "PS 100:1B-2, 3, 4, 5",
+                        "gospel":           "LK 5:33-39"
+                    }
+                },
+                "07":{
+                    "title":            "Saturday of the Twenty-second Week in Ordinary Time",
+                    "day_of_week":      "Saturday",
+                    "lectionary_num":   "436",
+                    "lit_season":       "'Ordinary Time'",
+                    "readings": {
+                        "reading_1":        "COL 1:21-23",
+                        "psalm":            "PS 54:3-4, 6 AND 8",
+                        "gospel":           "LK 6:1-5"
+                    }
                 }
             }
         }

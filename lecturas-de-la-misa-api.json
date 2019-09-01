@@ -4899,6 +4899,86 @@
                         "gospel":           "Jn 1, 45-51"
                     }
                 }
+            },
+            "09":{
+                "01":{
+                    "title":            "XXII Domingo Ordinario",
+                    "day_of_week":      "Domingo",
+                    "lectionary_num":   "126",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Eclesiástico (Sirácide) 3, 17-18. 20. 28-29",
+                        "psalm":            "Salmo 67, 4-5ac. 6-7ab. 10-11",
+                        "reading_2":        "Heb 12, 18-19. 22-24a",
+                        "gospel":           "Lc 14, 1. 7-14"
+                    }
+                },
+                "02":{
+                    "title":            "Lunes de la XXII semana del Tiempo ordinario",
+                    "day_of_week":      "Lunes",
+                    "lectionary_num":   "431",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "1 Tes 4, 13-18",
+                        "psalm":            "Salmo 95, 1 y 3. 4-5. 11-12.1 3",
+                        "gospel":           "Lc 4, 16-30"
+                    }
+                },
+                "03":{
+                    "title":            "Memoria de San Gregorio Magno, papa y doctor de la Iglesia",
+                    "day_of_week":      "Martes",
+                    "lectionary_num":   "432",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "1 Tes 5, 1-6. 9-11",
+                        "psalm":            "Salmo 26, 1. 4. 13-14",
+                        "gospel":           "Lc 4, 31-37"
+                    }
+                },
+                "04":{
+                    "title":            "Miércoles de la XXI semana del Tiempo ordinario",
+                    "day_of_week":      "Miércoles",
+                    "lectionary_num":   "433",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Col 1, 1-8",
+                        "psalm":            "Salmo 51, 10. 11",
+                        "gospel":           "Lc 4, 38-44"
+                    }
+                },
+                "05":{
+                    "title":            "Jueves de la XXII semana del tiempo ordinario",
+                    "day_of_week":      "Jueves",
+                    "lectionary_num":   "434",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Col 1, 9-14",
+                        "psalm":            "Salmo 97, 2-3ab.3cd-4. 5-6",
+                        "gospel":           "Lc 5, 1-11"
+                    }
+                },
+                "06":{
+                    "title":            "Viernes de la XXII semana del Tiempo ordinario",
+                    "day_of_week":      "Viernes",
+                    "lectionary_num":   "435",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Col 1, 15-20",
+                        "psalm":            "Salmo 99, 2. 3. 4. 5",
+                        "gospel":           "Lc 5, 33-39"
+                    }
+                },
+                "07":{
+                    "title":            "Sábado de la XXII semana del Tiempo ordinario",
+                    "day_of_week":      "Sábado",
+                    "lectionary_num":   "436",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Col 1, 21-23",
+                        "psalm":            "Salmo 53, 3-4. 6 y 8",
+                        "gospel":           "Lc 6, 1-5"
+                    }
+                }
             }
         }
     }
