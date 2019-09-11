@@ -4978,6 +4978,85 @@
                         "psalm":            "Salmo 53, 3-4. 6 y 8",
                         "gospel":           "Lc 6, 1-5"
                     }
+                },
+                "08":{
+                    "title":            "XXIII Domingo Ordinario",
+                    "day_of_week":      "Domingo",
+                    "lectionary_num":   "129",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Sab 9, 13-19",
+                        "psalm":            "Salmo 89, 3-4. 5-6. 12-13. 14 y 17",
+                        "reading_2":        "Fmn 9-10. 12-17",
+                        "gospel":           "Lc 14, 25-33"
+                    }
+                },
+                "09":{
+                    "title":            "Memoria de san Pedro Claver, presbítero",
+                    "day_of_week":      "Lunes",
+                    "lectionary_num":   "437",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Col 1, 24–2, 3",
+                        "psalm":            "Salmo 61, 6-7. 9",
+                        "gospel":           "Lc 6, 6-11"
+                    }
+                },
+                "10":{
+                    "title":            "Martes de la XXIII semana del Tiempo ordinario",
+                    "day_of_week":      "Martes",
+                    "lectionary_num":   "438",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Col 2, 6-15",
+                        "psalm":            "Salmo 144, 1-2. 8-9. 10-11",
+                        "gospel":           "Lc 6, 12-19"
+                    }
+                },
+                "11":{
+                    "title":            "Miércoles de la XXIII semana del Tiempo ordinario",
+                    "day_of_week":      "Miércoles",
+                    "lectionary_num":   "439",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Col 3, 1-11",
+                        "psalm":            "Salmo 144, 2-3. 10-11. 12-13ab",
+                        "gospel":           "Lc 6, 20-26"
+                    }
+                },
+                "12":{
+                    "title":            "Jueves de la XXIII semana del Tiempo ordinario",
+                    "day_of_week":      "Jueves",
+                    "lectionary_num":   "440",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Col 3, 12-17",
+                        "psalm":            "Salmo 150, 1-2. 3-4. 5-6",
+                        "gospel":           "Lc 6, 27-38"
+                    }
+                },
+                "13":{
+                    "title":            "Memoria de San Juan Crisóstomo, obispo y doctor de la Iglesia",
+                    "day_of_week":      "Viernes",
+                    "lectionary_num":   "441",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "1 Tm 1, 1-2. 12-14",
+                        "psalm":            "Salmo 15, 1-2a y 5. 7-8. 11",
+                        "gospel":           "Lc 6, 39-42"
+                    }
+                },
+                "14":{
+                    "title":            "Fiesta de la Exaltación de la santa Cruz",
+                    "day_of_week":      "Sábado",
+                    "lectionary_num":   "638",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Num 21, 4-9",
+                        "psalm":            "Salmo 77, 1-2. 34-35. 36-37. 38",
+                        "reading_2":        "Flp 2, 6-11",
+                        "gospel":           "Jn 3, 13-17"
+                    }
                 }
             }
         }
