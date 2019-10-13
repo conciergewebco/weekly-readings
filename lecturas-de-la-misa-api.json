@@ -5135,6 +5135,320 @@
                         "psalm":            "Salmo 18, 2-3. 4-5",
                         "gospel":           "Mt 9, 9-13"
                     }
+                },
+                "22":{
+                    "title":            "XXIV Domingo Ordinario",
+                    "day_of_week":      "Domingo",
+                    "lectionary_num":   "132",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Ex 32, 7-11. 13-14",
+                        "psalm":            "Salmo 50, 3-4. 12-13. 17 y 19",
+                        "reading_2":        "1 Tm 1, 12-17",
+                        "gospel":           "Lc 15, 1-32"
+                    }
+                },
+                "23":{
+                    "title":            "Memoria de San Cornelio, Papa y san Cipriano, obispo, mártires",
+                    "day_of_week":      "Lunes",
+                    "lectionary_num":   "443",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "1 Tm 2, 1-8",
+                        "psalm":            "Salmo 27, 2. 7. 8-9",
+                        "gospel":           "Lc 7, 1-10"
+                    }
+                },
+                "24":{
+                    "title":            "Martes de la XXIV semana del Tiempo ordinario",
+                    "day_of_week":      "Martes",
+                    "lectionary_num":   "444",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "1 Tm 3, 1-13",
+                        "psalm":            "Salmo 100, 1-2ab. 2cd-3ab. 5. 6",
+                        "gospel":           "Lc 7, 11-17"
+                    }
+                },
+                "25":{
+                    "title":            "Miércoles de la XXIV semana del Tiempo ordinario",
+                    "day_of_week":      "Miércoles",
+                    "lectionary_num":   "445",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "1 Tm 3, 14-16",
+                        "psalm":            "Salmo 110, 1-2. 3-4. 5-6",
+                        "gospel":           "Lc 7, 31-35"
+                    }
+                },
+                "26":{
+                    "title":            "Jueves de la XXIV semana del Tiempo ordinario",
+                    "day_of_week":      "Jueves",
+                    "lectionary_num":   "446",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "1 Tm 4, 12-16",
+                        "psalm":            "Salmo 110, 7-8. 9. 10",
+                        "gospel":           "Lc 7, 36-50"
+                    }
+                },
+                "27":{
+                    "title":            "Memoria de San Andrés Kim Taegon, presbítero y San Pablo Chong Hasang y compañeros, mártires",
+                    "day_of_week":      "Viernes",
+                    "lectionary_num":   "447",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "1 Tm 6, 2-12",
+                        "psalm":            "Salmo 48, 6-7. 8-10. 17-18. 19-20",
+                        "gospel":           "Lc 8, 1-3"
+                    }
+                },
+                "28":{
+                    "title":            "Fiesta de san mateo, Apóstol y evangelista",
+                    "day_of_week":      "Sábado",
+                    "lectionary_num":   "643",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Ef 4, 1-7. 11-13",
+                        "psalm":            "Salmo 18, 2-3. 4-5",
+                        "gospel":           "Mt 9, 9-13"
+                    }
+                },
+                "29":{
+                    "title":            "XXIV Domingo Ordinario",
+                    "day_of_week":      "Domingo",
+                    "lectionary_num":   "132",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Ex 32, 7-11. 13-14",
+                        "psalm":            "Salmo 50, 3-4. 12-13. 17 y 19",
+                        "reading_2":        "1 Tm 1, 12-17",
+                        "gospel":           "Lc 15, 1-32"
+                    }
+                },
+                "30":{
+                    "title":            "Memoria de San Cornelio, Papa y san Cipriano, obispo, mártires",
+                    "day_of_week":      "Lunes",
+                    "lectionary_num":   "443",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "1 Tm 2, 1-8",
+                        "psalm":            "Salmo 27, 2. 7. 8-9",
+                        "gospel":           "Lc 7, 1-10"
+                    }
+                }
+            }
+            "10":{
+                "01":{
+                    "title":            "Martes de la XXIV semana del Tiempo ordinario",
+                    "day_of_week":      "Martes",
+                    "lectionary_num":   "444",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "1 Tm 3, 1-13",
+                        "psalm":            "Salmo 100, 1-2ab. 2cd-3ab. 5. 6",
+                        "gospel":           "Lc 7, 11-17"
+                    }
+                },
+                "02":{
+                    "title":            "Miércoles de la XXIV semana del Tiempo ordinario",
+                    "day_of_week":      "Miércoles",
+                    "lectionary_num":   "445",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "1 Tm 3, 14-16",
+                        "psalm":            "Salmo 110, 1-2. 3-4. 5-6",
+                        "gospel":           "Lc 7, 31-35"
+                    }
+                },
+                "03":{
+                    "title":            "Jueves de la XXIV semana del Tiempo ordinario",
+                    "day_of_week":      "Jueves",
+                    "lectionary_num":   "446",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "1 Tm 4, 12-16",
+                        "psalm":            "Salmo 110, 7-8. 9. 10",
+                        "gospel":           "Lc 7, 36-50"
+                    }
+                },
+                "04":{
+                    "title":            "Memoria de San Andrés Kim Taegon, presbítero y San Pablo Chong Hasang y compañeros, mártires",
+                    "day_of_week":      "Viernes",
+                    "lectionary_num":   "447",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "1 Tm 6, 2-12",
+                        "psalm":            "Salmo 48, 6-7. 8-10. 17-18. 19-20",
+                        "gospel":           "Lc 8, 1-3"
+                    }
+                },
+                "05":{
+                    "title":            "Fiesta de san mateo, Apóstol y evangelista",
+                    "day_of_week":      "Sábado",
+                    "lectionary_num":   "643",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Ef 4, 1-7. 11-13",
+                        "psalm":            "Salmo 18, 2-3. 4-5",
+                        "gospel":           "Mt 9, 9-13"
+                    }
+                },
+                "06":{
+                    "title":            "XXIV Domingo Ordinario",
+                    "day_of_week":      "Domingo",
+                    "lectionary_num":   "132",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Ex 32, 7-11. 13-14",
+                        "psalm":            "Salmo 50, 3-4. 12-13. 17 y 19",
+                        "reading_2":        "1 Tm 1, 12-17",
+                        "gospel":           "Lc 15, 1-32"
+                    }
+                },
+                "07":{
+                    "title":            "Memoria de San Cornelio, Papa y san Cipriano, obispo, mártires",
+                    "day_of_week":      "Lunes",
+                    "lectionary_num":   "443",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "1 Tm 2, 1-8",
+                        "psalm":            "Salmo 27, 2. 7. 8-9",
+                        "gospel":           "Lc 7, 1-10"
+                    }
+                },
+                "08":{
+                    "title":            "Martes de la XXIV semana del Tiempo ordinario",
+                    "day_of_week":      "Martes",
+                    "lectionary_num":   "444",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "1 Tm 3, 1-13",
+                        "psalm":            "Salmo 100, 1-2ab. 2cd-3ab. 5. 6",
+                        "gospel":           "Lc 7, 11-17"
+                    }
+                },
+                "09":{
+                    "title":            "Miércoles de la XXIV semana del Tiempo ordinario",
+                    "day_of_week":      "Miércoles",
+                    "lectionary_num":   "445",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "1 Tm 3, 14-16",
+                        "psalm":            "Salmo 110, 1-2. 3-4. 5-6",
+                        "gospel":           "Lc 7, 31-35"
+                    }
+                },
+                "10":{
+                    "title":            "Jueves de la XXIV semana del Tiempo ordinario",
+                    "day_of_week":      "Jueves",
+                    "lectionary_num":   "446",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "1 Tm 4, 12-16",
+                        "psalm":            "Salmo 110, 7-8. 9. 10",
+                        "gospel":           "Lc 7, 36-50"
+                    }
+                },
+                "11":{
+                    "title":            "Memoria de San Andrés Kim Taegon, presbítero y San Pablo Chong Hasang y compañeros, mártires",
+                    "day_of_week":      "Viernes",
+                    "lectionary_num":   "447",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "1 Tm 6, 2-12",
+                        "psalm":            "Salmo 48, 6-7. 8-10. 17-18. 19-20",
+                        "gospel":           "Lc 8, 1-3"
+                    }
+                },
+                "12":{
+                    "title":            "Fiesta de san mateo, Apóstol y evangelista",
+                    "day_of_week":      "Sábado",
+                    "lectionary_num":   "643",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Ef 4, 1-7. 11-13",
+                        "psalm":            "Salmo 18, 2-3. 4-5",
+                        "gospel":           "Mt 9, 9-13"
+                    }
+                },
+                "13":{
+                    "title":            "XXVIII Domingo ordinario",
+                    "day_of_week":      "Domingo",
+                    "lectionary_num":   "144",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "2 Reyes 5, 14-17",
+                        "psalm":            "Salmo 97, 1. 2-3ab. 3cd-4",
+                        "reading_2":        "2 Tm 2, 8-13",
+                        "gospel":           "Lc 17, 11-19"
+                    }
+                },
+                "14":{
+                    "title":            "Lunes de la XXVIII semana del Tiempo ordinario",
+                    "day_of_week":      "Lunes",
+                    "lectionary_num":   "467",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Rom 1, 1-7",
+                        "psalm":            "Salmo 96, 1-2. 5-6. 11-12",
+                        "gospel":           "Lc 11, 29-32"
+                    }
+                },
+                "15":{
+                    "title":            "Memoria de Santa Teresa de Jesús, virgen y doctora de la Iglesia",
+                    "day_of_week":      "Martes",
+                    "lectionary_num":   "468",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Rom 1, 16-25",
+                        "psalm":            "Salmo 18, 2-3. 4-5",
+                        "gospel":           "Lc 11, 37-41"
+                    }
+                },
+                "16":{
+                    "title":            "Miércoles de la XXVIII semana del tiempo ordinario",
+                    "day_of_week":      "Miércoles",
+                    "lectionary_num":   "469",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Rom 2, 1-11",
+                        "psalm":            "Salmo 61, 2-3. 6-7. 9",
+                        "gospel":           "Lc 11, 42-46"
+                    }
+                },
+                "17":{
+                    "title":            "Memoria de San Ignacio, obispo y mártir",
+                    "day_of_week":      "Jueves",
+                    "lectionary_num":   "470",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Rom 3, 21-30",
+                        "psalm":            "Salmo 129, 1-2. 3-4b. 4c-6",
+                        "gospel":           "Lc 11, 47-54"
+                    }
+                },
+                "18":{
+                    "title":            "Fiesta de San Lucas, evangelista",
+                    "day_of_week":      "Viernes",
+                    "lectionary_num":   "661",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "2 Tm 4, 9-17",
+                        "psalm":            "Salmo 144, 10-11. 12-13. 17-18",
+                        "gospel":           "Lc 10, 1-9"
+                    }
+                },
+                "19":{
+                    "title":            "Memoria de Santos Juan de Brébeuf e Isaac Jogues, presbíteros, y compañeros, mártires",
+                    "day_of_week":      "Sábado",
+                    "lectionary_num":   "472",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Rom 4, 13. 16-18",
+                        "psalm":            "Salmo 104, 6-7. 8-9. 42-43",
+                        "gospel":           "Lc 12, 8-12"
+                    }
                 }
             }
         }

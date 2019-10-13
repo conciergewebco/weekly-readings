@@ -5448,6 +5448,320 @@
                         "psalm":            "PS 19:2-3, 4-5",
                         "gospel":           "MT 9:9-13"
                     }
+                },
+                "22":{
+                    "title":            "Twenty-fourth Sunday in Ordinary Time",
+                    "day_of_week":      "Sunday",
+                    "lectionary_num":   "132",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "EX 32:7-11, 13-14",
+                        "psalm":            "PS 51:3-4, 12-13, 17, 19",
+                        "reading_2":        "1 TM 1:12-17",
+                        "gospel":           "LK 15:1-32"
+                    }
+                },
+                "23":{
+                    "title":            "Memorial of Saints Cornelius, Pope, and Cyprian, Bishop, Martyrs",
+                    "day_of_week":      "Monday",
+                    "lectionary_num":   "443",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "1 TM 2:1-8",
+                        "psalm":            "PS 28:2, 7, 8-9",
+                        "gospel":           "LK 7:1-10"
+                    }
+                },
+                "24":{
+                    "title":            "Tuesday of the Twenty-fourth Week in Ordinary Time",
+                    "day_of_week":      "Tuesday",
+                    "lectionary_num":   "444",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "1 TM 3:1-13",
+                        "psalm":            "PS 101:1B-2AB, 2CD-3AB, 5, 6",
+                        "gospel":           "LK 7:11-17"
+                    }
+                },
+                "25":{
+                    "title":            "Wednesday of the Twenty-fourth Week in Ordinary Time",
+                    "day_of_week":      "Wednesday",
+                    "lectionary_num":   "445",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "1 TM 3:14-16",
+                        "psalm":            "PS 111:1-2, 3-4, 5-6",
+                        "gospel":           "LK 7:31-35"
+                    }
+                },
+                "26":{
+                    "title":            "Thursday of the Twenty-fourth Week in Ordinary Time",
+                    "day_of_week":      "Thursday",
+                    "lectionary_num":   "446",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "1 TM 4:12-16",
+                        "psalm":            "PS 111:7-8, 9, 10",
+                        "gospel":           "LK 7:36-50"
+                    }
+                },
+                "27":{
+                    "title":            "Memorial of Saints Andrew Kim Tae-gŏn, Priest, and Paul Chŏng Ha-sang, and Companions, Martyrs",
+                    "day_of_week":      "Friday",
+                    "lectionary_num":   "447",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "1 TM 6:2C-12",
+                        "psalm":            "PS 49:6-7, 8-10, 17-18, 19-20",
+                        "gospel":           "LK 8:1-3"
+                    }
+                },
+                "28":{
+                    "title":            "Feast of Saint Matthew, Apostle and evangelist",
+                    "day_of_week":      "Saturday",
+                    "lectionary_num":   "643",
+                    "lit_season":       "'Ordinary Time'",
+                    "readings": {
+                        "reading_1":        "EPH 4:1-7, 11-13",
+                        "psalm":            "PS 19:2-3, 4-5",
+                        "gospel":           "MT 9:9-13"
+                    }
+                },
+                "29":{
+                    "title":            "Twenty-fourth Sunday in Ordinary Time",
+                    "day_of_week":      "Sunday",
+                    "lectionary_num":   "132",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "EX 32:7-11, 13-14",
+                        "psalm":            "PS 51:3-4, 12-13, 17, 19",
+                        "reading_2":        "1 TM 1:12-17",
+                        "gospel":           "LK 15:1-32"
+                    }
+                },
+                "30":{
+                    "title":            "Memorial of Saints Cornelius, Pope, and Cyprian, Bishop, Martyrs",
+                    "day_of_week":      "Monday",
+                    "lectionary_num":   "443",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "1 TM 2:1-8",
+                        "psalm":            "PS 28:2, 7, 8-9",
+                        "gospel":           "LK 7:1-10"
+                    }
+                }
+            },
+            "10":{
+                "01":{
+                    "title":            "Tuesday of the Twenty-fourth Week in Ordinary Time",
+                    "day_of_week":      "Tuesday",
+                    "lectionary_num":   "444",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "1 TM 3:1-13",
+                        "psalm":            "PS 101:1B-2AB, 2CD-3AB, 5, 6",
+                        "gospel":           "LK 7:11-17"
+                    }
+                },
+                "02":{
+                    "title":            "Wednesday of the Twenty-fourth Week in Ordinary Time",
+                    "day_of_week":      "Wednesday",
+                    "lectionary_num":   "445",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "1 TM 3:14-16",
+                        "psalm":            "PS 111:1-2, 3-4, 5-6",
+                        "gospel":           "LK 7:31-35"
+                    }
+                },
+                "03":{
+                    "title":            "Thursday of the Twenty-fourth Week in Ordinary Time",
+                    "day_of_week":      "Thursday",
+                    "lectionary_num":   "446",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "1 TM 4:12-16",
+                        "psalm":            "PS 111:7-8, 9, 10",
+                        "gospel":           "LK 7:36-50"
+                    }
+                },
+                "04":{
+                    "title":            "Memorial of Saints Andrew Kim Tae-gŏn, Priest, and Paul Chŏng Ha-sang, and Companions, Martyrs",
+                    "day_of_week":      "Friday",
+                    "lectionary_num":   "447",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "1 TM 6:2C-12",
+                        "psalm":            "PS 49:6-7, 8-10, 17-18, 19-20",
+                        "gospel":           "LK 8:1-3"
+                    }
+                },
+                "05":{
+                    "title":            "Feast of Saint Matthew, Apostle and evangelist",
+                    "day_of_week":      "Saturday",
+                    "lectionary_num":   "643",
+                    "lit_season":       "'Ordinary Time'",
+                    "readings": {
+                        "reading_1":        "EPH 4:1-7, 11-13",
+                        "psalm":            "PS 19:2-3, 4-5",
+                        "gospel":           "MT 9:9-13"
+                    }
+                },
+                "06":{
+                    "title":            "Twenty-fourth Sunday in Ordinary Time",
+                    "day_of_week":      "Sunday",
+                    "lectionary_num":   "132",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "EX 32:7-11, 13-14",
+                        "psalm":            "PS 51:3-4, 12-13, 17, 19",
+                        "reading_2":        "1 TM 1:12-17",
+                        "gospel":           "LK 15:1-32"
+                    }
+                },
+                "07":{
+                    "title":            "Memorial of Saints Cornelius, Pope, and Cyprian, Bishop, Martyrs",
+                    "day_of_week":      "Monday",
+                    "lectionary_num":   "443",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "1 TM 2:1-8",
+                        "psalm":            "PS 28:2, 7, 8-9",
+                        "gospel":           "LK 7:1-10"
+                    }
+                },
+                "08":{
+                    "title":            "Tuesday of the Twenty-fourth Week in Ordinary Time",
+                    "day_of_week":      "Tuesday",
+                    "lectionary_num":   "444",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "1 TM 3:1-13",
+                        "psalm":            "PS 101:1B-2AB, 2CD-3AB, 5, 6",
+                        "gospel":           "LK 7:11-17"
+                    }
+                },
+                "09":{
+                    "title":            "Wednesday of the Twenty-fourth Week in Ordinary Time",
+                    "day_of_week":      "Wednesday",
+                    "lectionary_num":   "445",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "1 TM 3:14-16",
+                        "psalm":            "PS 111:1-2, 3-4, 5-6",
+                        "gospel":           "LK 7:31-35"
+                    }
+                },
+                "10":{
+                    "title":            "Thursday of the Twenty-fourth Week in Ordinary Time",
+                    "day_of_week":      "Thursday",
+                    "lectionary_num":   "446",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "1 TM 4:12-16",
+                        "psalm":            "PS 111:7-8, 9, 10",
+                        "gospel":           "LK 7:36-50"
+                    }
+                },
+                "11":{
+                    "title":            "Memorial of Saints Andrew Kim Tae-gŏn, Priest, and Paul Chŏng Ha-sang, and Companions, Martyrs",
+                    "day_of_week":      "Friday",
+                    "lectionary_num":   "447",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "1 TM 6:2C-12",
+                        "psalm":            "PS 49:6-7, 8-10, 17-18, 19-20",
+                        "gospel":           "LK 8:1-3"
+                    }
+                },
+                "12":{
+                    "title":            "Feast of Saint Matthew, Apostle and evangelist",
+                    "day_of_week":      "Saturday",
+                    "lectionary_num":   "643",
+                    "lit_season":       "'Ordinary Time'",
+                    "readings": {
+                        "reading_1":        "EPH 4:1-7, 11-13",
+                        "psalm":            "PS 19:2-3, 4-5",
+                        "gospel":           "MT 9:9-13"
+                    }
+                },
+                "13":{
+                    "title":            "Twenty-eighth Sunday in Ordinary Time",
+                    "day_of_week":      "Sunday",
+                    "lectionary_num":   "144",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "2 KGS 5:14-17",
+                        "psalm":            "PS 98:1, 2-3, 3-4",
+                        "reading_2":        "2 TM 2:8-13",
+                        "gospel":           "LK 17:11-19"
+                    }
+                },
+                "14":{
+                    "title":            "Monday of the Twenty-eighth Week in Ordinary Time",
+                    "day_of_week":      "Monday",
+                    "lectionary_num":   "467",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "ROM 1:1-7",
+                        "psalm":            "PS 98:1BCDE, 2-3AB, 3CD-4",
+                        "gospel":           "LK 11:29-32"
+                    }
+                },
+                "15":{
+                    "title":            "Memorial of Saint Teresa of Jesus, Virgin and Doctor of the Church",
+                    "day_of_week":      "Tuesday",
+                    "lectionary_num":   "468",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "ROM 1:16-25",
+                        "psalm":            "PS 19:2-3, 4-5",
+                        "gospel":           "LK 11:37-41"
+                    }
+                },
+                "16":{
+                    "title":            "Wednesday of the Twenty-eighth Week in Ordinary Time",
+                    "day_of_week":      "Wednesday",
+                    "lectionary_num":   "469",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "ROM 2:1-11",
+                        "psalm":            "PS 62:2-3, 6-7, 9",
+                        "gospel":           "LK 11:42-46"
+                    }
+                },
+                "17":{
+                    "title":            "Memorial of Saint Ignatius of Antioch, Bishop and Martyr",
+                    "day_of_week":      "Thursday",
+                    "lectionary_num":   "470",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "ROM 3:21-30",
+                        "psalm":            "PS 130:1B-2, 3-4, 5-6AB",
+                        "gospel":           "LK 11:47-54"
+                    }
+                },
+                "18":{
+                    "title":            "Feast of Saint Luke, evangelist",
+                    "day_of_week":      "Friday",
+                    "lectionary_num":   "661",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "2 TM 4:10-17B",
+                        "psalm":            "PS 145:10-11, 12-13, 17-18",
+                        "gospel":           "LK 10:1-9"
+                    }
+                },
+                "19":{
+                    "title":            "Memorial of Saints John de Brébeuf and Isaac Jogues, Priests, and Companions, Martyrs",
+                    "day_of_week":      "Saturday",
+                    "lectionary_num":   "472",
+                    "lit_season":       "'Ordinary Time'",
+                    "readings": {
+                        "reading_1":        "ROM 4:13, 16-18",
+                        "psalm":            "PS 105:6-7, 8-9, 42-43",
+                        "gospel":           "LK 12:8-12"
+                    }
                 }
             }
         }
