@@ -5762,6 +5762,166 @@
                         "psalm":            "PS 105:6-7, 8-9, 42-43",
                         "gospel":           "LK 12:8-12"
                     }
+                },
+                "20":{
+                    "title":            "Twenty-eighth Sunday in Ordinary Time",
+                    "day_of_week":      "Sunday",
+                    "lectionary_num":   "144",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "2 KGS 5:14-17",
+                        "psalm":            "PS 98:1, 2-3, 3-4",
+                        "reading_2":        "2 TM 2:8-13",
+                        "gospel":           "LK 17:11-19"
+                    }
+                },
+                "21":{
+                    "title":            "Monday of the Twenty-eighth Week in Ordinary Time",
+                    "day_of_week":      "Monday",
+                    "lectionary_num":   "467",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "ROM 1:1-7",
+                        "psalm":            "PS 98:1BCDE, 2-3AB, 3CD-4",
+                        "gospel":           "LK 11:29-32"
+                    }
+                },
+                "22":{
+                    "title":            "Memorial of Saint Teresa of Jesus, Virgin and Doctor of the Church",
+                    "day_of_week":      "Tuesday",
+                    "lectionary_num":   "468",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "ROM 1:16-25",
+                        "psalm":            "PS 19:2-3, 4-5",
+                        "gospel":           "LK 11:37-41"
+                    }
+                },
+                "23":{
+                    "title":            "Wednesday of the Twenty-eighth Week in Ordinary Time",
+                    "day_of_week":      "Wednesday",
+                    "lectionary_num":   "469",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "ROM 2:1-11",
+                        "psalm":            "PS 62:2-3, 6-7, 9",
+                        "gospel":           "LK 11:42-46"
+                    }
+                },
+                "24":{
+                    "title":            "Memorial of Saint Ignatius of Antioch, Bishop and Martyr",
+                    "day_of_week":      "Thursday",
+                    "lectionary_num":   "470",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "ROM 3:21-30",
+                        "psalm":            "PS 130:1B-2, 3-4, 5-6AB",
+                        "gospel":           "LK 11:47-54"
+                    }
+                },
+                "25":{
+                    "title":            "Feast of Saint Luke, evangelist",
+                    "day_of_week":      "Friday",
+                    "lectionary_num":   "661",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "2 TM 4:10-17B",
+                        "psalm":            "PS 145:10-11, 12-13, 17-18",
+                        "gospel":           "LK 10:1-9"
+                    }
+                },
+                "26":{
+                    "title":            "Memorial of Saints John de Brébeuf and Isaac Jogues, Priests, and Companions, Martyrs",
+                    "day_of_week":      "Saturday",
+                    "lectionary_num":   "472",
+                    "lit_season":       "'Ordinary Time'",
+                    "readings": {
+                        "reading_1":        "ROM 4:13, 16-18",
+                        "psalm":            "PS 105:6-7, 8-9, 42-43",
+                        "gospel":           "LK 12:8-12"
+                    }
+                },
+                "27":{
+                    "title":            "Thirtieth Sunday in Ordinary Time",
+                    "day_of_week":      "Sunday",
+                    "lectionary_num":   "150",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "SIR 35:12-14, 16-18",
+                        "psalm":            "PS 34:2-3, 17-18, 19, 23",
+                        "reading_2":        "2 TM 4:6-8, 16-18",
+                        "gospel":           "LK 18:9-14"
+                    }
+                },
+                "28":{
+                    "title":            "Feast of Saints Simon and Jude, Apostles",
+                    "day_of_week":      "Monday",
+                    "lectionary_num":   "666",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "EPH 2:19-22",
+                        "psalm":            "PS 19:2-3, 4-5",
+                        "gospel":           "LK 6:12-16"
+                    }
+                },
+                "29":{
+                    "title":            "Tuesday of the Thirtieth Week in Ordinary Time",
+                    "day_of_week":      "Tuesday",
+                    "lectionary_num":   "480",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "ROM 8:18-25",
+                        "psalm":            "PS 126:1B-2AB, 2CD-3, 4-5, 6",
+                        "gospel":           "LK 13:18-21"
+                    }
+                },
+                "30":{
+                    "title":            "Wednesday of the Thirtieth Week in Ordinary Time",
+                    "day_of_week":      "Wednesday",
+                    "lectionary_num":   "481",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "ROM 8:26-30",
+                        "psalm":            "PS 13:4-5, 6",
+                        "gospel":           "LK 13:22-30"
+                    }
+                },
+                "31":{
+                    "title":            "Thursday of the Thirtieth Week in Ordinary Time",
+                    "day_of_week":      "Thursday",
+                    "lectionary_num":   "482",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "ROM 8:31B-39",
+                        "psalm":            "PS 109:21-22, 26-27, 30-31",
+                        "gospel":           "LK 13:31-35"
+                    }
+                }
+            },
+            "11": {
+                "01":{
+                    "title":            "Solemnity of All Saints",
+                    "day_of_week":      "Friday",
+                    "lectionary_num":   "667",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "RV 7:2-4, 9-14",
+                        "psalm":            "PS 24:1BC-2, 3-4AB, 5-6",
+                        "reading_2":        "1 JN 3:1-3",
+                        "gospel":           "MT 5:1-12A"
+                    }
+                },
+                "02":{
+                    "title":            "The Commemoration of All the Faithful Departed (All Souls)",
+                    "day_of_week":      "Saturday",
+                    "lectionary_num":   "668",
+                    "lit_season":       "'Ordinary Time'",
+                    "readings": {
+                        "reading_1":        "WIS 3:1-9",
+                        "psalm":            "PS 23:1-3A, 3B-4, 5, 6",
+                        "reading_2":        "ROM 5:5-11",
+                        "gospel":           "JN 6:37-40"
+                    }
                 }
             }
         }
