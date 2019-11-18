@@ -5763,6 +5763,84 @@
                         "psalm":            "Salmo 104, 2-3. 36-37. 42-43",
                         "gospel":           "Lc 18, 1-8"
                     }
+                },
+                "17":{
+                    "title":            "XXXIII Domingo ordinario",
+                    "day_of_week":      "Domingo",
+                    "lectionary_num":   "159",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Mal 3, 19-20",
+                        "psalm":            "Salmo 97, 5-6. 7-9a. 9bc",
+                        "reading_2":        "2 Tes 3, 7-12",
+                        "gospel":           "Lc 21, 5-19"
+                    }
+                },
+                "18":{
+                    "title":            "Lunes de la XXXIII semana del Tiempo ordinario",
+                    "day_of_week":      "Lunes",
+                    "lectionary_num":   "496",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "1 Mc 1, 10-15. 41-43. 54-57. 62-64",
+                        "psalm":            "Salmo 118, 53. 61. 134. 150. 155. 158",
+                        "gospel":           "Lc 18, 35-43"
+                    }
+                },
+                "19":{
+                    "title":            "Martes de la XXXIII semana del Tiempo ordinario",
+                    "day_of_week":      "Martes",
+                    "lectionary_num":   "498",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "2 Mc 6, 18-31",
+                        "psalm":            "Salmo 3, 2-3. 4-5. 6-7",
+                        "gospel":           "Lc 19, 1-10"
+                    }
+                },
+                "20":{
+                    "title":            "Miércoles de la XXXIII semana del Tiempo ordinario",
+                    "day_of_week":      "Miércoles",
+                    "lectionary_num":   "499",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "2 Mc 7, 1. 20-31",
+                        "psalm":            "Salmo 16, 1. 5-6. 8b y 15",
+                        "gospel":           "Lc 19, 11-28"
+                    }
+                },
+                "21":{
+                    "title":            "Memoria de la Presentación de la Santísima Virgen María",
+                    "day_of_week":      "Jueves",
+                    "lectionary_num":   "500",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "1 Mc 2, 15-29",
+                        "psalm":            "Salmo 49, 1-2. 5-6. 14-15",
+                        "gospel":           "Lc 19, 41-44"
+                    }
+                },
+                "22":{
+                    "title":            "Memoria de Santa Cecilia, virgen y mártir",
+                    "day_of_week":      "Viernes",
+                    "lectionary_num":   "501",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "1 Mc 4, 36-37. 52-59",
+                        "psalm":            "1 Crónicas 29, 10. 11abc. 11d-12a. 12bcd",
+                        "gospel":           "Lc 19, 45-48"
+                    }
+                },
+                "23":{
+                    "title":            "Sábado de la XXXIII semana del Tiempo ordinario",
+                    "day_of_week":      "Sábado",
+                    "lectionary_num":   "502",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "1 Mc 6, 1-13",
+                        "psalm":            "Salmo 9, 2-3. 4 y 6. 16b y 19",
+                        "gospel":           "Lc 20, 27-40"
+                    }
                 }
             }
         }

@@ -6080,6 +6080,84 @@
                         "psalm":            "PS 105:2-3, 36-37, 42-43",
                         "gospel":           "LK 18:1-8"
                     }
+                },
+                "17":{
+                    "title":            "Thirty-third Sunday in Ordinary Time",
+                    "day_of_week":      "Sunday",
+                    "lectionary_num":   "159",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "MAL 3:19-20A",
+                        "psalm":            "PS 98:5-6, 7-8, 9",
+                        "reading_2":        "2 THES 3:7-12",
+                        "gospel":           "LK 21:5-19"
+                    }
+                },
+                "18":{
+                    "title":            "Monday of the Thirty-third Week in Ordinary Time",
+                    "day_of_week":      "Monday",
+                    "lectionary_num":   "497",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "1 MC 1:10-15, 41-43, 54-57, 62-63",
+                        "psalm":            "PS 119:53, 61, 134, 150, 155, 158",
+                        "gospel":           "LK 18:35-43"
+                    }
+                },
+                "19":{
+                    "title":            "Tuesday of the Thirty-third Week in Ordinary Time",
+                    "day_of_week":      "Tuesday",
+                    "lectionary_num":   "498",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "2 MC 6:18-31",
+                        "psalm":            "PS 3:2-3, 4-5, 6-7",
+                        "gospel":           "LK 19:1-10"
+                    }
+                },
+                "20":{
+                    "title":            "Wednesday of the Thirty-third Week in Ordinary Time",
+                    "day_of_week":      "Wednesday",
+                    "lectionary_num":   "499",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "2 MC 7:1, 20-31",
+                        "psalm":            "PS 17:1BCD, 5-6, 8B AND 15",
+                        "gospel":           "LK 19:11-28"
+                    }
+                },
+                "21":{
+                    "title":            "Memorial of the Presentation of the Blessed Virgin Mary",
+                    "day_of_week":      "Thursday",
+                    "lectionary_num":   "500",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "1 MC 2:15-29",
+                        "psalm":            "PS 50:1B-2, 5-6, 14-15",
+                        "gospel":           "LK 19:41-44"
+                    }
+                },
+                "22":{
+                    "title":            "Memorial of Saint Cecilia, Virgin and Martyr",
+                    "day_of_week":      "Friday",
+                    "lectionary_num":   "501",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "1 MC 4:36-37, 52-59",
+                        "psalm":            "1 CHR 29:10BCD, 11ABC, 11D-12A, 12BCD",
+                        "gospel":           "LK 19:45-48"
+                    }
+                },
+                "23":{
+                    "title":            "Saturday of the Thirty-third Week in Ordinary Time",
+                    "day_of_week":      "Saturday",
+                    "lectionary_num":   "502",
+                    "lit_season":       "'Ordinary Time'",
+                    "readings": {
+                        "reading_1":        "1 MC 6:1-13",
+                        "psalm":            "PS 9:2-3, 4 AND 6, 16 AND 19",
+                        "gospel":           "LK 20:27-40"
+                    }
                 }
             }
         }
