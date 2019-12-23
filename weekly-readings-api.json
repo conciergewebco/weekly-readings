@@ -159,6 +159,85 @@
                         "psalm":            "PS 80:2AC AND 3B, 15-16, 18-19",
                         "gospel":           "MT 17:9A, 10-13"
                     }
+                },
+                "22":{
+                    "title":            "Fourth Sunday of Advent",
+                    "day_of_week":      "Sunday",
+                    "lectionary_num":   "10",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "IS 7:10-14",
+                        "psalm":            "PS 24:1-2, 3-4, 5-6",
+                        "reading_2":        "ROM 1:1-7",
+                        "gospel":           "MT 1:18-24"
+                    }
+                },
+                "23":{
+                    "title":            "Monday of the Fourth Week of Advent",
+                    "day_of_week":      "Monday",
+                    "lectionary_num":   "199",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "MAL 3:1-4, 23-24",
+                        "psalm":            "PS 25:4-5AB, 8-9, 10 AND 14",
+                        "gospel":           "LK 1:57-66"
+                    }
+                },
+                "24":{
+                    "title":            "Tuesday in the Fourth Week of Advent - Mass in the Morning",
+                    "day_of_week":      "Tuesday",
+                    "lectionary_num":   "200",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "2 SM 7:1-5, 8B-12, 14A, 16",
+                        "psalm":            "PS 89:2-3, 4-5, 27 AND 29",
+                        "gospel":           "LK 1:67-79"
+                    }
+                },
+                "25":{
+                    "title":            "The Nativity of the Lord (Christmas) - Mass During the Day",
+                    "day_of_week":      "Wednesday",
+                    "lectionary_num":   "16",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "IS 52:7-10",
+                        "psalm":            "PS 98:1, 2-3, 3-4, 5-6",
+                        "reading_2":        "HEB 1:1-6",
+                        "gospel":           "JN 1:1-18"
+                    }
+                },
+                "26":{
+                    "title":            "Feast of Saint Stephen, first martyr",
+                    "day_of_week":      "Thursday",
+                    "lectionary_num":   "696",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "ACTS 6:8-10; 7:54-59",
+                        "psalm":            "PS 31:3CD-4, 6 AND 8AB, 16BC AND 17",
+                        "gospel":           "MT 10:17-22"
+                    }
+                },
+                "27":{
+                    "title":            "Feast of Saint John, Apostle and evangelist",
+                    "day_of_week":      "Friday",
+                    "lectionary_num":   "697",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "1 JN 1:1-4",
+                        "psalm":            "PS 97:1-2, 5-6, 11-12",
+                        "gospel":           "JN 20:1A AND 2-8"
+                    }
+                },
+                "28":{
+                    "title":            "Feast of the Holy Innocents, martyrs",
+                    "day_of_week":      "Saturday",
+                    "lectionary_num":   "698",
+                    "lit_season":       "'Ordinary Time'",
+                    "readings": {
+                        "reading_1":        "1 JN 1:5—2:2",
+                        "psalm":            "PS 124:2-3, 4-5, 7CD-8",
+                        "gospel":           "MT 2:13-18"
+                    }
                 }
             }
         }
