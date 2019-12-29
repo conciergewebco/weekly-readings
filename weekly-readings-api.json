@@ -238,6 +238,89 @@
                         "psalm":            "PS 124:2-3, 4-5, 7CD-8",
                         "gospel":           "MT 2:13-18"
                     }
+                },
+                "29":{
+                    "title":            "The Holy Family of Jesus, Mary and Joseph",
+                    "day_of_week":      "Sunday",
+                    "lectionary_num":   "17",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "SIR 3:2-6, 12-14",
+                        "psalm":            "PS 128:1-2, 3, 4-5",
+                        "reading_2":        "COL 3:12-21",
+                        "gospel":           "MT 2:13-15, 19-23"
+                    }
+                },
+                "30":{
+                    "title":            "The Sixth Day in the Octave of Christmas",
+                    "day_of_week":      "Monday",
+                    "lectionary_num":   "203",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "1 JN 2:12-17",
+                        "psalm":            "PS 96:7-8A, 8B-9, 10",
+                        "gospel":           "LK 2:36-40"
+                    }
+                },
+                "31":{
+                    "title":            "The Seventh Day in the Octave of Christmas",
+                    "day_of_week":      "Tuesday",
+                    "lectionary_num":   "204",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "1 JN 2:18-21",
+                        "psalm":            "PS 96:1-2, 11-12, 13",
+                        "gospel":           "JN 1:1-18"
+                    }
+                }
+            }
+        },
+        "2020":{
+            "01":{
+                "01":{
+                    "title":            "The Nativity of the Lord (Christmas) - Mass During the Day",
+                    "day_of_week":      "Wednesday",
+                    "lectionary_num":   "16",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "IS 52:7-10",
+                        "psalm":            "PS 98:1, 2-3, 3-4, 5-6",
+                        "reading_2":        "HEB 1:1-6",
+                        "gospel":           "JN 1:1-18"
+                    }
+                },
+                "02":{
+                    "title":            "Feast of Saint Stephen, first martyr",
+                    "day_of_week":      "Thursday",
+                    "lectionary_num":   "696",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "ACTS 6:8-10; 7:54-59",
+                        "psalm":            "PS 31:3CD-4, 6 AND 8AB, 16BC AND 17",
+                        "gospel":           "MT 10:17-22"
+                    }
+                },
+                "03":{
+                    "title":            "Feast of Saint John, Apostle and evangelist",
+                    "day_of_week":      "Friday",
+                    "lectionary_num":   "697",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "1 JN 1:1-4",
+                        "psalm":            "PS 97:1-2, 5-6, 11-12",
+                        "gospel":           "JN 20:1A AND 2-8"
+                    }
+                },
+                "04":{
+                    "title":            "Feast of the Holy Innocents, martyrs",
+                    "day_of_week":      "Saturday",
+                    "lectionary_num":   "698",
+                    "lit_season":       "'Ordinary Time'",
+                    "readings": {
+                        "reading_1":        "1 JN 1:5—2:2",
+                        "psalm":            "PS 124:2-3, 4-5, 7CD-8",
+                        "gospel":           "MT 2:13-18"
+                    }
                 }
             }
         }

@@ -238,6 +238,89 @@
                         "psalm":            "Salmo 123, 2-3. 4-5. 7b-8",
                         "gospel":           "Mt 2, 13-18"
                     }
+                },
+                "29":{
+                    "title":            "Fiesta de la Sagrada Familia",
+                    "day_of_week":      "Domingo",
+                    "lectionary_num":   "17",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Eclesiástico (Sirácide) 3, 3-7. 14-17a",
+                        "psalm":            "Salmo 127, 1-2. 3. 4-5",
+                        "reading_2":        "Col 3, 12-21",
+                        "gospel":           "Mt 2, 13-15. 19-23"
+                    }
+                },
+                "30":{
+                    "title":            "Sexto día dentro de la octava de Navidad",
+                    "day_of_week":      "Lunes",
+                    "lectionary_num":   "203",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "1 Jn 2, 12-17",
+                        "psalm":            "Sal 95, 7-8a. 8b-9. 10",
+                        "gospel":           "Lc 2, 36-40"
+                    }
+                },
+                "31":{
+                    "title":            "Séptimo día dentro de la octava de Navidad",
+                    "day_of_week":      "Martes",
+                    "lectionary_num":   "204",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "1 Jn 2, 18-21",
+                        "psalm":            "Sal 95, 1-2. 11-12. 13",
+                        "gospel":           "Jn 1, 1-18"
+                    }
+                }
+            }
+        },
+        "2020":{
+            "01":{
+                "01":{
+                    "title":            "La Natividad del Señor (Navidad)",
+                    "day_of_week":      "Miércoles",
+                    "lectionary_num":   "16",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Is 52, 7-10",
+                        "psalm":            "Sal 97, 1. 2-3ab. 3cd-4. 5-6",
+                        "reading_2":        "Hb1, 1-6",
+                        "gospel":           "Jn 1, 1-18 o 1, 1-5. 9-14"
+                    }
+                },
+                "02":{
+                    "title":            "Fiesta de san Esteban, protomártir",
+                    "day_of_week":      "Jueves",
+                    "lectionary_num":   "696",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Hch 6, 8-10; 7, 54-60",
+                        "psalm":            "Sal 30, 3cd-4. 6 y 8ab. 16bc y 17",
+                        "gospel":           "Mt 10, 17-22"
+                    }
+                },
+                "03":{
+                    "title":            "Fiesta de San Juan, Apóstol y evangelista",
+                    "day_of_week":      "Viernes",
+                    "lectionary_num":   "697",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "1 Jn 1, 1-4",
+                        "psalm":            "Salmo 96, 1-2. 5-6. 11-12",
+                        "gospel":           "Jn 20, 2-9"
+                    }
+                },
+                "04":{
+                    "title":            "Fiesta de los Santo Inocentes, mártires",
+                    "day_of_week":      "Sábado",
+                    "lectionary_num":   "698",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "1 Jn 1, 5–2, 2",
+                        "psalm":            "Salmo 123, 2-3. 4-5. 7b-8",
+                        "gospel":           "Mt 2, 13-18"
+                    }
                 }
             }
         }
