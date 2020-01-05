@@ -321,6 +321,84 @@
                         "psalm":            "Salmo 123, 2-3. 4-5. 7b-8",
                         "gospel":           "Mt 2, 13-18"
                     }
+                },
+                "05":{
+                    "title":            "Solemnidad de la Epifanía del Señor",
+                    "day_of_week":      "Domingo",
+                    "lectionary_num":   "20",
+                    "lit_season":       "Navidad",
+                    "readings": {
+                        "reading_1":        "Is 60, 1-6",
+                        "psalm":            "Salmo 71, 1-2. 7-8. 10-11. 12-13",
+                        "reading_2":        "Ef 3, 2-3a. 5-6",
+                        "gospel":           "Mt 2, 1-12"
+                    }
+                },
+                "06":{
+                    "title":            "Lunes después de Epifania",
+                    "day_of_week":      "Lunes",
+                    "lectionary_num":   "212",
+                    "lit_season":       "Navidad",
+                    "readings": {
+                        "reading_1":        "1 Jn 3, 22–4, 6",
+                        "psalm":            "Salmo 2, 7-8. 10-11",
+                        "gospel":           "Mt 4, 12-17. 23-25"
+                    }
+                },
+                "07":{
+                    "title":            "Martes después de Epifianía",
+                    "day_of_week":      "Martes",
+                    "lectionary_num":   "213",
+                    "lit_season":       "Navidad",
+                    "readings": {
+                        "reading_1":        "1 Jn 4, 7-10",
+                        "psalm":            "Salmo 71, 2. 3-4ab. 7-8",
+                        "gospel":           "Mc 6, 34-44"
+                    }
+                },
+                "08":{
+                    "title":            "Miércoles después de Epifanía",
+                    "day_of_week":      "Miércoles",
+                    "lectionary_num":   "214",
+                    "lit_season":       "Navidad",
+                    "readings": {
+                        "reading_1":        "1 Jn 4, 11-18",
+                        "psalm":            "Salmo 71, 2. 10-11. 12-13",
+                        "gospel":           "Mc 6, 45-52"
+                    }
+                },
+                "09":{
+                    "title":            "Jueves después de Epifanía",
+                    "day_of_week":      "Jueves",
+                    "lectionary_num":   "215",
+                    "lit_season":       "Navidad",
+                    "readings": {
+                        "reading_1":        "1 Jn 4, 19–5, 4",
+                        "psalm":            "Salmo 71, 2. 14 y 15bc. 17",
+                        "gospel":           "Lc 4, 14-22"
+                    }
+                },
+                "10":{
+                    "title":            "Viernes después de Epifanía",
+                    "day_of_week":      "Viernes",
+                    "lectionary_num":   "216",
+                    "lit_season":       "Navidad",
+                    "readings": {
+                        "reading_1":        "1 Jn 5, 5-13",
+                        "psalm":            "Salmo 147, 12-13. 14-15. 19-20",
+                        "gospel":           "Lc 5, 12-16"
+                    }
+                },
+                "11":{
+                    "title":            "Sábado después de Epifanía",
+                    "day_of_week":      "Sábado",
+                    "lectionary_num":   "217",
+                    "lit_season":       "Navidad",
+                    "readings": {
+                        "reading_1":        "1 Jn 5, 14-21",
+                        "psalm":            "Salmo 149, 1-2. 3-4. 5 y 6a y 9b",
+                        "gospel":           "Jn 3, 22-30"
+                    }
                 }
             }
         }
