@@ -399,6 +399,84 @@
                         "psalm":            "Salmo 149, 1-2. 3-4. 5 y 6a y 9b",
                         "gospel":           "Jn 3, 22-30"
                     }
+                },
+                "12":{
+                    "title":            "Fiesta del Bautismo del Señor",
+                    "day_of_week":      "Domingo",
+                    "lectionary_num":   "21",
+                    "lit_season":       "Navidad",
+                    "readings": {
+                        "reading_1":        "Is 42, 1-4. 6-7",
+                        "psalm":            "Salmo 28, 1a y 2. 3ac-4.  3b y 9b-10",
+                        "reading_2":        "Hch 10, 34-38",
+                        "gospel":           "Mt 3, 13-17"
+                    }
+                },
+                "13":{
+                    "title":            "Lunes de la I semana del Tiempo ordinario",
+                    "day_of_week":      "Lunes",
+                    "lectionary_num":   "305",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "1 Sm 1, 1-8",
+                        "psalm":            "Salmo 115, 12-13. 14-17. 18-19",
+                        "gospel":           "Mc 1, 14-20"
+                    }
+                },
+                "14":{
+                    "title":            "Martes de la I semana del tiempo ordinario",
+                    "day_of_week":      "Martes",
+                    "lectionary_num":   "306",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "1 Sm 1, 9-20",
+                        "psalm":            "1 Sm 2,  1. 4-5. 6-7. 8abcd",
+                        "gospel":           "Mc 1, 21-28"
+                    }
+                },
+                "15":{
+                    "title":            "Miércoles de la I semana del Tiempo ordinario",
+                    "day_of_week":      "Miércoles",
+                    "lectionary_num":   "307",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "1 Sm 3, 1-10. 19-20",
+                        "psalm":            "Salmo 39, 2 y 4ab. 7-8a. 8b-9. 10",
+                        "gospel":           "Mc 1, 29-39"
+                    }
+                },
+                "16":{
+                    "title":            "Jueves de la I semana del Tiempo ordinario",
+                    "day_of_week":      "Jueves",
+                    "lectionary_num":   "308",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "1 Sm 4, 1-11",
+                        "psalm":            "Salmo 43, 10-11. 14-15. 24-25",
+                        "gospel":           "Mc 1, 40-45"
+                    }
+                },
+                "17":{
+                    "title":            "Memoria de San Antonio, abad",
+                    "day_of_week":      "Viernes",
+                    "lectionary_num":   "309",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "1 Sm 8, 4-7. 10-22",
+                        "psalm":            "Salmo 88, 16-17. 18-19",
+                        "gospel":           "Mc 2, 1-12"
+                    }
+                },
+                "18":{
+                    "title":            "Sábado de la I semana del Tiempo ordinario",
+                    "day_of_week":      "Sábado",
+                    "lectionary_num":   "310",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "1 Sm 9, 1-4. 10. 17-19; 10, 1",
+                        "psalm":            "Salmo 20, 2-3. 4-5. 6-7",
+                        "gospel":           "Mc 2, 13-17"
+                    }
                 }
             }
         }
