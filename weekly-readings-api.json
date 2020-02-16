@@ -791,6 +791,84 @@
                         "psalm":            "PS 106:6-7AB, 19-20, 21-22",
                         "gospel":           "MK 8:1-10"
                     }
+                },
+                "16":{
+                    "title":            "Sixth Sunday in Ordinary Time",
+                    "day_of_week":      "Sunday",
+                    "lectionary_num":   "76",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "SIR 15:15-20",
+                        "psalm":            "PS 119:1-2, 4-5, 17-18, 33-34",
+                        "reading_2":        "1 COR 2:6-10",
+                        "gospel":           "MT 5:17-37 OR 5:20-22A, 27-28, 33-34A, 37"
+                    }
+                },
+                "17":{
+                    "title":            "Monday of the Sixth Week in Ordinary Time",
+                    "day_of_week":      "Monday",
+                    "lectionary_num":   "335",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "JAS 1:1-11",
+                        "psalm":            "PS 119:67, 68, 71, 72, 75, 76",
+                        "gospel":           "MK 8:11-13"
+                    }
+                },
+                "18":{
+                    "title":            "Tuesday of the Sixth Week in Ordinary Time",
+                    "day_of_week":      "Tuesday",
+                    "lectionary_num":   "336",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "JAS 1:12-18",
+                        "psalm":            "PS 94:12-13A, 14-15, 18-19",
+                        "gospel":           "MK 8:14-21"
+                    }
+                },
+                "19":{
+                    "title":            "Wednesday of the Sixth Week in Ordinary Time",
+                    "day_of_week":      "Wednesday",
+                    "lectionary_num":   "337",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "JAS 1:19-27",
+                        "psalm":            "PS 15:2-3A, 3BC-4AB, 5",
+                        "gospel":           "MK 8:22-26"
+                    }
+                },
+                "20":{
+                    "title":            "Thursday of the Sixth Week in Ordinary Time",
+                    "day_of_week":      "Thursday",
+                    "lectionary_num":   "338",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "JAS 2:1-9",
+                        "psalm":            "PS 34:2-3, 4-5, 6-7",
+                        "gospel":           "MK 8:27-33"
+                    }
+                },
+                "21":{
+                    "title":            "Friday of the Sixth Week in Ordinary Time",
+                    "day_of_week":      "Friday",
+                    "lectionary_num":   "339",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "JAS 2:14-24, 26",
+                        "psalm":            "PS 112:1-2, 3-4, 5-6",
+                        "gospel":           "MK 8:34–9:1"
+                    }
+                },
+                "22":{
+                    "title":            "Feast of the Chair of Saint Peter, Apostle",
+                    "day_of_week":      "Saturday",
+                    "lectionary_num":   "535",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "1 PT 5:1-4",
+                        "psalm":            "PS 23:1-3A, 4, 5, 6",
+                        "gospel":           "MT 16:13-19"
+                    }
                 }
             }
         }
