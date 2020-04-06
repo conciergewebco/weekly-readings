@@ -1218,7 +1218,9 @@
                         "psalm":            "Salmo 101, 2-3. 16-18. 19-21",
                         "gospel":           "Jn 8, 21-30"
                     }
-                },
+                }
+            },
+            "04":{
                 "01":{
                     "title":            "Solemnidad de la Anunciación del Señor",
                     "day_of_week":      "Miércoles",
@@ -1262,6 +1264,86 @@
                         "reading_1":        "Jer 11, 18-20",
                         "psalm":            "Salmo 7, 2-3. 9bc-10. 11-12",
                         "gospel":           "Jn 7, 40-53"
+                    }
+                },
+                "05":{
+                    "title":            "Domingo de Ramos De la pasión del Señor",
+                    "day_of_week":      "Domingo",
+                    "lectionary_num":   "37/38",
+                    "lit_season":       "Cuaresma",
+                    "readings": {
+                        "reading_1":        "Is 50, 4-7",
+                        "psalm":            "Salmo 21, 8-9. 17-18a. 19-20. 23-24",
+                        "reading_2":        "Flp 2, 6-11",
+                        "gospel":           "Mt 26, 14–27, 66"
+                    }
+                },
+                "06":{
+                    "title":            "Lunes de la semana santa",
+                    "day_of_week":      "Lunes",
+                    "lectionary_num":   "257",
+                    "lit_season":       "Cuaresma",
+                    "readings": {
+                        "reading_1":        "Is 42, 1-7",
+                        "psalm":            "Salmo 26, 1. 2. 3. 13-14",
+                        "gospel":           "Jn 12, 1-11"
+                    }
+                },
+                "07":{
+                    "title":            "Martes de la semana santa",
+                    "day_of_week":      "Martes",
+                    "lectionary_num":   "258",
+                    "lit_season":       "Cuaresma",
+                    "readings": {
+                        "reading_1":        "Is 49, 1-6",
+                        "psalm":            "Salmo 70, 1-2. 3-4a. 5-6ab. 15 y 17",
+                        "gospel":           "Jn 13, 21-33. 36-38"
+                    }
+                },
+                "08":{
+                    "title":            "Miércoles de la semana santa",
+                    "day_of_week":      "Miércoles",
+                    "lectionary_num":   "259",
+                    "lit_season":       "Cuaresma",
+                    "readings": {
+                        "reading_1":        "Is 50, 4-9",
+                        "psalm":            "Salmo 68, 8-10. 21bcd-22. 31 y 33-34",
+                        "gospel":           "Mt 26, 14-25"
+                    }
+                },
+                "09":{
+                    "title":            "Misa vespertina de la Cena del Señor",
+                    "day_of_week":      "Jueves",
+                    "lectionary_num":   "39",
+                    "lit_season":       "Cuaresma",
+                    "readings": {
+                        "reading_1":        "Ex 12, 1-8. 11-14",
+                        "psalm":            "Salmo 115, 12-13. 15-16bc. 17-18",
+                        "reading_2":        "1 Cor 11, 23-26",
+                        "gospel":           "Jn 13, 1-15"
+                    }
+                },
+                "10":{
+                    "title":            "Viernes Santa de la Pasión del Señor",
+                    "day_of_week":      "Viernes",
+                    "lectionary_num":   "40",
+                    "lit_season":       "Cuaresma",
+                    "readings": {
+                        "reading_1":        "Is 52, 13–53, 12",
+                        "psalm":            "Salmo 30, 2 y 6. 12-13. 15-16. 17 y 25",
+                        "reading_2":        "Heb 4, 14-16; 5, 7-9",
+                        "gospel":           "Jn 18, 1–19, 42"
+                    }
+                },
+                "11":{
+                    "title":            "Vigilia pascual en la noche santa",
+                    "day_of_week":      "Sábado",
+                    "lectionary_num":   "41",
+                    "lit_season":       "Cuaresma",
+                    "readings": {
+                        "reading_1":        "Gn 1, 1–2, 2",
+                        "psalm":            "Salmo 103, 1-2a. 5-6. 10 y 12. 13-14. 24 y 35c",
+                        "gospel":           "Mt 28, 1-10"
                     }
                 }
             }
