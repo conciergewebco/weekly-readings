@@ -1346,6 +1346,84 @@
                         "reading_2":        "GN 22:1-18",
                         "gospel":           "MT 28:1-10"
                     }
+                },
+                "12":{
+                    "title":            "Easter Sunday of the Resurrection of the Lord",
+                    "day_of_week":      "Sunday",
+                    "lectionary_num":   "42",
+                    "lit_season":       "Easter",
+                    "readings": {
+                        "reading_1":        "ACTS 10:34A, 37-43",
+                        "psalm":            "PS 118:1-2, 16-17, 22-23",
+                        "reading_2":        "COL 3:1-4",
+                        "gospel":           "JN 20:1-9"
+                    }
+                },
+                "13":{
+                    "title":            "Monday in the Octave of Easter",
+                    "day_of_week":      "Monday",
+                    "lectionary_num":   "261",
+                    "lit_season":       "Easter",
+                    "readings": {
+                        "reading_1":        "ACTS 2:14, 22-33",
+                        "psalm":            "PS 16:1-2A AND 5, 7-8, 9-10, 11",
+                        "gospel":           "MT 28:8-15"
+                    }
+                },
+                "14":{
+                    "title":            "Tuesday in the Octave of Easter",
+                    "day_of_week":      "Tuesday",
+                    "lectionary_num":   "262",
+                    "lit_season":       "Easter",
+                    "readings": {
+                        "reading_1":        "ACTS 2:36-41",
+                        "psalm":            "PS 33:4-5, 18-19, 20 AND 22",
+                        "gospel":           "JN 20:11-18"
+                    }
+                },
+                "15":{
+                    "title":            "Wednesday in the Octave of Easter",
+                    "day_of_week":      "Wednesday",
+                    "lectionary_num":   "263",
+                    "lit_season":       "Easter",
+                    "readings": {
+                        "reading_1":        "ACTS 3:1-10",
+                        "psalm":            "PS 105:1-2, 3-4, 6-7, 8-9",
+                        "gospel":           "LK 24:13-35"
+                    }
+                },
+                "16":{
+                    "title":            "Thursday in the Octave of Easter",
+                    "day_of_week":      "Thursday",
+                    "lectionary_num":   "264",
+                    "lit_season":       "Easter",
+                    "readings": {
+                        "reading_1":        "ACTS 3:11-26",
+                        "psalm":            "PS 8:2AB AND 5, 6-7, 8-9",
+                        "gospel":           "LK 24:35-48"
+                    }
+                },
+                "17":{
+                    "title":            "Friday in the Octave of Easter",
+                    "day_of_week":      "Friday",
+                    "lectionary_num":   "265",
+                    "lit_season":       "Easter",
+                    "readings": {
+                        "reading_1":        "ACTS 4:1-12",
+                        "psalm":            "PS 118:1-2 AND 4, 22-24, 25-27A",
+                        "gospel":           "JN 21:1-14"
+                    }
+                },
+                "18":{
+                    "title":            "Saturday in the Octave of Easter",
+                    "day_of_week":      "Saturday",
+                    "lectionary_num":   "266",
+                    "lit_season":       "Easter",
+                    "readings": {
+                        "reading_1":        "ACTS 4:13-21",
+                        "psalm":            "PS 118:1 AND 14-15AB, 16-18, 19-21",
+                        "gospel":           "MK 16:9-15"
+                    }
                 }
             }
         }
