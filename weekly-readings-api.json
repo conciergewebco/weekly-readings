@@ -1424,6 +1424,84 @@
                         "psalm":            "PS 118:1 AND 14-15AB, 16-18, 19-21",
                         "gospel":           "MK 16:9-15"
                     }
+                },
+                "19":{
+                    "title":            "Second Sunday of Easter (or Sunday of Divine Mercy)",
+                    "day_of_week":      "Sunday",
+                    "lectionary_num":   "43",
+                    "lit_season":       "Easter",
+                    "readings": {
+                        "reading_1":        "ACTS 2:42-47",
+                        "psalm":            "PS 118:2-4, 13-15, 22-24",
+                        "reading_2":        "1 PT 1:3-9",
+                        "gospel":           "JN 20:19-31"
+                    }
+                },
+                "20":{
+                    "title":            "Monday of the Second Week of Easter",
+                    "day_of_week":      "Monday",
+                    "lectionary_num":   "267",
+                    "lit_season":       "Easter",
+                    "readings": {
+                        "reading_1":        "ACTS 4:23-31",
+                        "psalm":            "PS 2:1-3, 4-7A, 7B-9",
+                        "gospel":           "JN 3:1-8"
+                    }
+                },
+                "21":{
+                    "title":            "Tuesday of the Second Week of Easter",
+                    "day_of_week":      "Tuesday",
+                    "lectionary_num":   "268",
+                    "lit_season":       "Easter",
+                    "readings": {
+                        "reading_1":        "ACTS 4:32-37",
+                        "psalm":            "PS 93:1AB, 1CD-2, 5",
+                        "gospel":           "JN 3:7B-15"
+                    }
+                },
+                "22":{
+                    "title":            "Wednesday of the Second Week of Easter",
+                    "day_of_week":      "Wednesday",
+                    "lectionary_num":   "269",
+                    "lit_season":       "Easter",
+                    "readings": {
+                        "reading_1":        "ACTS 5:17-26",
+                        "psalm":            "PS 34:2-3, 4-5, 6-7, 8-9",
+                        "gospel":           "JN 3:16-21"
+                    }
+                },
+                "23":{
+                    "title":            "Thursday of the Second Week of Easter",
+                    "day_of_week":      "Thursday",
+                    "lectionary_num":   "270",
+                    "lit_season":       "Easter",
+                    "readings": {
+                        "reading_1":        "ACTS 5:27-33",
+                        "psalm":            "PS 34:2 AND 9, 17-18, 19-20",
+                        "gospel":           "JN 3:31-36"
+                    }
+                },
+                "24":{
+                    "title":            "Friday of the Second Week of Easter",
+                    "day_of_week":      "Friday",
+                    "lectionary_num":   "271",
+                    "lit_season":       "Easter",
+                    "readings": {
+                        "reading_1":        "ACTS 5:34-42",
+                        "psalm":            "PS 27:1, 4, 13-14",
+                        "gospel":           "MT 4:4B"
+                    }
+                },
+                "25":{
+                    "title":            "Feast of Saint Mark, evangelist",
+                    "day_of_week":      "Saturday",
+                    "lectionary_num":   "555",
+                    "lit_season":       "Easter",
+                    "readings": {
+                        "reading_1":        "1 PT 5:5B-14",
+                        "psalm":            "PS 89:2-3, 6-7, 16-17",
+                        "gospel":           "MK 16:15-20"
+                    }
                 }
             }
         }
