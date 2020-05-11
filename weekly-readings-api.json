@@ -1582,6 +1582,84 @@
                         "psalm":            "PS 98:1, 2-3AB, 3CD-4",
                         "gospel":           "JN 14:7-14"
                     }
+                },
+                "10":{
+                    "title":            "Fifth Sunday of Easter",
+                    "day_of_week":      "Sunday",
+                    "lectionary_num":   "52",
+                    "lit_season":       "Easter",
+                    "readings": {
+                        "reading_1":        "ACTS 6:1-7",
+                        "psalm":            "PS 33:1-2, 4-5, 18-19",
+                        "reading_2":        "1 PT 2:4-9",
+                        "gospel":           "JN 14:1-12"
+                    }
+                },
+                "11":{
+                    "title":            "Monday of the Fifth Week of Easter",
+                    "day_of_week":      "Monday",
+                    "lectionary_num":   "285",
+                    "lit_season":       "Easter",
+                    "readings": {
+                        "reading_1":        "ACTS 14:5-18",
+                        "psalm":            "PS 115:1-2, 3-4, 15-16",
+                        "gospel":           "JN 14:21-26"
+                    }
+                },
+                "12":{
+                    "title":            "Tuesday of Fifth Week of Easter",
+                    "day_of_week":      "Tuesday",
+                    "lectionary_num":   "286",
+                    "lit_season":       "Easter",
+                    "readings": {
+                        "reading_1":        "ACTS 14:19-28",
+                        "psalm":            "PS 145:10-11, 12-13AB, 21",
+                        "gospel":           "JN 14:27-31A"
+                    }
+                },
+                "13":{
+                    "title":            "Wednesday of the Fifth Week of Easter",
+                    "day_of_week":      "Wednesday",
+                    "lectionary_num":   "287",
+                    "lit_season":       "Easter",
+                    "readings": {
+                        "reading_1":        "ACTS 15:1-6",
+                        "psalm":            "PS 122:1-2, 3-4AB, 4CD-5",
+                        "gospel":           "JN 15:1-8"
+                    }
+                },
+                "14":{
+                    "title":            "Feast of Saint Matthias, Apostle",
+                    "day_of_week":      "Thursday",
+                    "lectionary_num":   "564",
+                    "lit_season":       "Easter",
+                    "readings": {
+                        "reading_1":        "ACTS 1:15-17, 20-26",
+                        "psalm":            "PS 113:1-2, 3-4, 5-6, 7-8",
+                        "gospel":           "JN 15:9-17"
+                    }
+                },
+                "15":{
+                    "title":            "Friday of the Fifth Week of Easter",
+                    "day_of_week":      "Friday",
+                    "lectionary_num":   "289",
+                    "lit_season":       "Easter",
+                    "readings": {
+                        "reading_1":        "ACTS 15:22-31",
+                        "psalm":            "PS 57:8-9, 10 AND 12",
+                        "gospel":           "JN 15:12-17"
+                    }
+                },
+                "16":{
+                    "title":            "Saturday of the Fifth Week of Easter",
+                    "day_of_week":      "Saturday",
+                    "lectionary_num":   "290",
+                    "lit_season":       "Easter",
+                    "readings": {
+                        "reading_1":        "ACTS 16:1-10",
+                        "psalm":            "PS 100:1B-2, 3, 5",
+                        "gospel":           "JN 15:18-21"
+                    }
                 }
             }
         }

@@ -1581,6 +1581,84 @@
                         "psalm":            "Salmo 97, 1. 2-3ab. 3cd-4",
                         "gospel":           "Jn 14, 7-14"
                     }
+                },
+                "10":{
+                    "title":            "V Domingo de Pascua",
+                    "day_of_week":      "Domingo",
+                    "lectionary_num":   "52",
+                    "lit_season":       "Pascua",
+                    "readings": {
+                        "reading_1":        "Hch 6, 1-7",
+                        "psalm":            "Salmo 32, 1-2. 4-5. 18-19",
+                        "reading_2":        "1 Ped 2, 4-9",
+                        "gospel":           "Jn 14, 1-12"
+                    }
+                },
+                "11":{
+                    "title":            "Lunes de la V semana de Pascua",
+                    "day_of_week":      "Lunes",
+                    "lectionary_num":   "285",
+                    "lit_season":       "Pascua",
+                    "readings": {
+                        "reading_1":        "Hch 14, 5-18",
+                        "psalm":            "Salmo 113 B, 1-2. 3-4. 15-16",
+                        "gospel":           "Jn 14, 21-26"
+                    }
+                },
+                "12":{
+                    "title":            "Martes de la V semana de Pascua",
+                    "day_of_week":      "Martes",
+                    "lectionary_num":   "286",
+                    "lit_season":       "Pascua",
+                    "readings": {
+                        "reading_1":        "Hch 14, 19-28",
+                        "psalm":            "Salmo 144, 10-11. 12-13ab. 21",
+                        "gospel":           "Jn 14, 27-31"
+                    }
+                },
+                "13":{
+                    "title":            "Miércoles de la V semana de Pascua",
+                    "day_of_week":      "Miércoles",
+                    "lectionary_num":   "287",
+                    "lit_season":       "Pascua",
+                    "readings": {
+                        "reading_1":        "Hch 15, 1-6",
+                        "psalm":            "Salmo 121, 1-2. 3-4a. 4b-5",
+                        "gospel":           "Jn 15, 1-8"
+                    }
+                },
+                "14":{
+                    "title":            "Fiesta de san Matías, Apóstol",
+                    "day_of_week":      "Jueves",
+                    "lectionary_num":   "564",
+                    "lit_season":       "Pascua",
+                    "readings": {
+                        "reading_1":        "Hch 1, 15-17. 20-26",
+                        "psalm":            "Salmo 112, 1-2. 3-4. 5-6. 7-8",
+                        "gospel":           "Jn 15, 9-17"
+                    }
+                },
+                "15":{
+                    "title":            "Viernes de la V semana de Pascua",
+                    "day_of_week":      "Viernes",
+                    "lectionary_num":   "289",
+                    "lit_season":       "Pascua",
+                    "readings": {
+                        "reading_1":        "Hch 15, 22-31",
+                        "psalm":            "Salmo 56, 8-9 10-12",
+                        "gospel":           "Jn 15, 12-17"
+                    }
+                },
+                "16":{
+                    "title":            "Sábado de la V semana de Pascua",
+                    "day_of_week":      "Sábado",
+                    "lectionary_num":   "290",
+                    "lit_season":       "Pascua",
+                    "readings": {
+                        "reading_1":        "Hch 16, 1-10",
+                        "psalm":            "Salmo 99, 2. 3. 5",
+                        "gospel":           "Jn 15, 18-21"
+                    }
                 }
             }
         }
