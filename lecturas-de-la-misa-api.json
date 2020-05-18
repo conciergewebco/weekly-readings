@@ -1659,6 +1659,85 @@
                         "psalm":            "Salmo 99, 2. 3. 5",
                         "gospel":           "Jn 15, 18-21"
                     }
+                },
+                "17":{
+                    "title":            "VI Domingo de Pascua",
+                    "day_of_week":      "Domingo",
+                    "lectionary_num":   "55",
+                    "lit_season":       "Pascua",
+                    "readings": {
+                        "reading_1":        "Hch 8, 5-8. 14-17",
+                        "psalm":            "Salmo 65, 1-3a. 4-5. 6-7a. 16 y 20",
+                        "reading_2":        "1 Ped 3, 15-18",
+                        "gospel":           "Jn 14, 15-21"
+                    }
+                },
+                "18":{
+                    "title":            "Lunes de la VI semana de Pascua",
+                    "day_of_week":      "Lunes",
+                    "lectionary_num":   "291",
+                    "lit_season":       "Pascua",
+                    "readings": {
+                        "reading_1":        "Hch 16, 11-15",
+                        "psalm":            "Salmo 149, 1-2. 3-4. 5-6a y 9b",
+                        "gospel":           "Jn 15, 26–16, 4"
+                    }
+                },
+                "19":{
+                    "title":            "Martes de la VI semana de Pascua",
+                    "day_of_week":      "Martes",
+                    "lectionary_num":   "292",
+                    "lit_season":       "Pascua",
+                    "readings": {
+                        "reading_1":        "Hch 16, 22-34",
+                        "psalm":            "Salmo 137, 1-2a. 2bc-3. 7c-8",
+                        "gospel":           "Jn 16, 5-11"
+                    }
+                },
+                "20":{
+                    "title":            "Miércoles de la VI semana de Pascua",
+                    "day_of_week":      "Miércoles",
+                    "lectionary_num":   "293",
+                    "lit_season":       "Pascua",
+                    "readings": {
+                        "reading_1":        "Hch 17, 15-16. 22–18, 1",
+                        "psalm":            "Salmo 148, 1-2. 11-12ab. 12c-14a. 14bcd",
+                        "gospel":           "Jn 16, 12-15"
+                    }
+                },
+                "21":{
+                    "title":            "Solemnidad de la Ascensión del Señor",
+                    "day_of_week":      "Jueves",
+                    "lectionary_num":   "58",
+                    "lit_season":       "Pascua",
+                    "readings": {
+                        "reading_1":        "Hch 1, 1-11",
+                        "psalm":            "Salmo 46, 2 y 4ab. 7-8a. 8b-9. 10",
+                        "reading_2":        "Ef 1, 17-23",
+                        "gospel":           "Mt 28, 16-20"
+                    }
+                },
+                "22":{
+                    "title":            "Viernes de la VI semana de Pascua",
+                    "day_of_week":      "Viernes",
+                    "lectionary_num":   "295",
+                    "lit_season":       "Pascua",
+                    "readings": {
+                        "reading_1":        "Hch 18, 9-18",
+                        "psalm":            "Salmo 46, 2-3. 4-5, 6-7",
+                        "gospel":           "Jn 16, 20-23"
+                    }
+                },
+                "23":{
+                    "title":            "Sábado de la VI semana de Pascua",
+                    "day_of_week":      "Sábado",
+                    "lectionary_num":   "296",
+                    "lit_season":       "Pascua",
+                    "readings": {
+                        "reading_1":        "Hch 18, 23-28",
+                        "psalm":            "Salmo 46, 2-3. 8-9. 10",
+                        "gospel":           "Jn 16, 23-28"
+                    }
                 }
             }
         }
