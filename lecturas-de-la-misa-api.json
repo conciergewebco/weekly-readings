@@ -1816,6 +1816,86 @@
                         "psalm":            "Salmo 10, 4. 5 y 7",
                         "gospel":           "Jn 21, 20-25"
                     }
+                },
+                "31":{
+                    "title":            "Pentecostés",
+                    "day_of_week":      "Domingo",
+                    "lectionary_num":   "63",
+                    "lit_season":       "Pascua",
+                    "readings": {
+                        "reading_1":        "Hch 2, 1-11",
+                        "psalm":            "Salmo 103, 1ab y 24ac. 29bc-30. 31 y 34",
+                        "reading_2":        "1 Cor 12, 3b-7. 12-13",
+                        "gospel":           "Jn 20, 19-23"
+                    }
+                }
+            },
+            "06":{
+                "01":{
+                    "title":            "Lunes de la VII semana de Pascua",
+                    "day_of_week":      "Lunes",
+                    "lectionary_num":   "297",
+                    "lit_season":       "Pascua",
+                    "readings": {
+                        "reading_1":        "Hch 19, 1-8",
+                        "psalm":            "Salmo 67, 2-3ab. 4-5acd. 6-7ab",
+                        "gospel":           "Jn 16, 29-33"
+                    }
+                },
+                "02":{
+                    "title":            "Memoria de San Filipo Neri, presbítero",
+                    "day_of_week":      "Martes",
+                    "lectionary_num":   "298",
+                    "lit_season":       "Pascua",
+                    "readings": {
+                        "reading_1":        "Hch 20, 17-27",
+                        "psalm":            "Salmo 67, 10-11. 20-21",
+                        "gospel":           "Jn 17, 1-11"
+                    }
+                },
+                "03":{
+                    "title":            "Miércoles de la VII semana de Pascua",
+                    "day_of_week":      "Miércoles",
+                    "lectionary_num":   "299",
+                    "lit_season":       "Pascua",
+                    "readings": {
+                        "reading_1":        "Hch 20, 28-38",
+                        "psalm":            "Salmo 67, 29-30. 33-35a. 35bc-36ab",
+                        "gospel":           "Jn 17, 11-19"
+                    }
+                },
+                "04":{
+                    "title":            "Jueves de la VII semana de Pascua",
+                    "day_of_week":      "Jueves",
+                    "lectionary_num":   "300",
+                    "lit_season":       "Pascua",
+                    "readings": {
+                        "reading_1":        "Hch 22, 30; 23, 6-11",
+                        "psalm":            "Salmo 15, 1-2a y 5. 7-8. 9-10. 11",
+                        "gospel":           "Jn 17, 20-26"
+                    }
+                },
+                "05":{
+                    "title":            "Viernes de la VII semana de Pascua",
+                    "day_of_week":      "Viernes",
+                    "lectionary_num":   "301",
+                    "lit_season":       "Pascua",
+                    "readings": {
+                        "reading_1":        "Hch 25, 13-21",
+                        "psalm":            "Salmo 102, 1-2. 11-12. 19-20ab",
+                        "gospel":           "Jn 21, 15-19"
+                    }
+                },
+                "06":{
+                    "title":            "Sábado de la VII semana de Pascua ",
+                    "day_of_week":      "Sábado",
+                    "lectionary_num":   "302",
+                    "lit_season":       "Pascua",
+                    "readings": {
+                        "reading_1":        "Hch 28, 16-20. 30-31",
+                        "psalm":            "Salmo 10, 4. 5 y 7",
+                        "gospel":           "Jn 21, 20-25"
+                    }
                 }
             }
         }
