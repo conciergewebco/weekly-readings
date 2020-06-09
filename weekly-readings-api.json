@@ -1896,6 +1896,84 @@
                         "psalm":            "PS 11:4, 5 AND 7",
                         "gospel":           "JN 21:20-25"
                     }
+                },
+                "07":{
+                    "title":            "The Solemnity of the Most Holy Trinity",
+                    "day_of_week":      "Sunday",
+                    "lectionary_num":   "164",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "EX 34:4B-6, 8-9",
+                        "psalm":            "DN 3:52, 53, 54, 55, 56",
+                        "reading_2":        "2 COR 13:11-13",
+                        "gospel":           "JN 3:16-18"
+                    }
+                },
+                "08":{
+                    "title":            "Monday of the Tenth Week in Ordinary Time",
+                    "day_of_week":      "Monday",
+                    "lectionary_num":   "359",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "1 KGS 17:1-6",
+                        "psalm":            "PS 121:1BC-2, 3-4, 5-6, 7-8",
+                        "gospel":           "MT 5:1-12"
+                    }
+                },
+                "09":{
+                    "title":            "Tuesday of the Tenth Week in Ordinary Time",
+                    "day_of_week":      "Tuesday",
+                    "lectionary_num":   "360",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "1 KGS 17:7-16",
+                        "psalm":            "PS 4:2-3, 4-5, 7B-8",
+                        "gospel":           "MT 5:13-16"
+                    }
+                },
+                "10":{
+                    "title":            "Wednesday of the Tenth Week in Ordinary Time",
+                    "day_of_week":      "Wednesday",
+                    "lectionary_num":   "361",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "1 KGS 18:20-39",
+                        "psalm":            "PS 16:1B-2AB, 4, 5AB AND 8, 11",
+                        "gospel":           "MT 5:17-19"
+                    }
+                },
+                "11":{
+                    "title":            "Memorial of Saint Barnabas, Apostle",
+                    "day_of_week":      "Thursday",
+                    "lectionary_num":   "580/362",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "ACTS 11:21B-26; 13:1-3",
+                        "psalm":            "PS 98:1, 2-3AB, 3CD-4, 5-6",
+                        "gospel":           "MT 5:20-26"
+                    }
+                },
+                "12":{
+                    "title":            "Friday of the Tenth Week in Ordinary Time",
+                    "day_of_week":      "Friday",
+                    "lectionary_num":   "363",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "1 KGS 19:9A, 11-16",
+                        "psalm":            "PS 27:7-8A, 8B-9ABC, 13-14",
+                        "gospel":           "MT 5:27-32"
+                    }
+                },
+                "13":{
+                    "title":            "Memorial of Saint Anthony of Padua, Priest and Doctor of the Church",
+                    "day_of_week":      "Saturday",
+                    "lectionary_num":   "364",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "1 KGS 19:19-21",
+                        "psalm":            "PS 16:1B-2A AND 5, 7-8, 9-10",
+                        "gospel":           "MT 5:33-37"
+                    }
                 }
             }
         }
