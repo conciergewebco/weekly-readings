@@ -1974,6 +1974,85 @@
                         "psalm":            "Salmo 15, 1-2a y 5. 7-8. 9-10",
                         "gospel":           "Mt 5, 33-37"
                     }
+                },
+                "14":{
+                    "title":            "Solemnidad del Cuerpo y la Sangre de Cristo (Corpus Christi)",
+                    "day_of_week":      "Domingo",
+                    "lectionary_num":   "167",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Deut 8, 2-3. 14-16",
+                        "psalm":            "Salmo 147, 12-13. 14-15. 19-20",
+                        "reading_2":        "1 Co 10, 16-17",
+                        "gospel":           "Jn 6, 51-58"
+                    }
+                },
+                "15":{
+                    "title":            "Lunes de la XI semana del Tiempo ordinario",
+                    "day_of_week":      "Lunes",
+                    "lectionary_num":   "365",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "1 Reyes 21, 1-16",
+                        "psalm":            "Salmo 5, 2-3. 5-6. 7",
+                        "gospel":           "Mt 5, 38-42"
+                    }
+                },
+                "16":{
+                    "title":            "Martes de la XI semana del Tiempo ordinario",
+                    "day_of_week":      "Martes",
+                    "lectionary_num":   "366",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "1 Reyes 21, 17-29",
+                        "psalm":            "Salmo 50, 3-4. 5-6a.11 y 16",
+                        "gospel":           "Mt 5, 43-48"
+                    }
+                },
+                "17":{
+                    "title":            "Miércoles de la XI semana del Tiempo ordinario",
+                    "day_of_week":      "Miércoles",
+                    "lectionary_num":   "367",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "2 Reyes 2, 1. 6-14",
+                        "psalm":            "Salmo 30, 20. 21.22. 23. 24",
+                        "gospel":           "Mt 6, 1-6. 16-18"
+                    }
+                },
+                "18":{
+                    "title":            "Jueves de la XI semana del Tiempo ordinario",
+                    "day_of_week":      "Jueves",
+                    "lectionary_num":   "368",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Ecles (Sir) 48, 1-15",
+                        "psalm":            "Salmo 96, 1-2. 3-4. 5-6. 7",
+                        "gospel":           "Mt 6, 7-15"
+                    }
+                },
+                "19":{
+                    "title":            "Solemnidad del Sagrado Corazón de Jesús",
+                    "day_of_week":      "Viernes",
+                    "lectionary_num":   "170",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Deut 7, 6-11",
+                        "psalm":            "Salmo 102, 1-2. 3-4. 6-7. 8 y 10",
+                        "reading_2":        "1 Jn 4, 7-16",
+                        "gospel":           "Mt 11, 25-30"
+                    }
+                },
+                "20":{
+                    "title":            "Memoria de San Antonio de Padua, presbítero y doctor de la Iglesia",
+                    "day_of_week":      "Sábado",
+                    "lectionary_num":   "364",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "1 Reyes 9, 19-21",
+                        "psalm":            "Salmo 15, 1-2a y 5. 7-8. 9-10",
+                        "gospel":           "Mt 5, 33-37"
+                    }
                 }
             }
         }

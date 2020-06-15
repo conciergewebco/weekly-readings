@@ -1974,6 +1974,85 @@
                         "psalm":            "PS 16:1B-2A AND 5, 7-8, 9-10",
                         "gospel":           "MT 5:33-37"
                     }
+                },
+                "14":{
+                    "title":            "The Solemnity of the Body and Blood of Christ",
+                    "day_of_week":      "Sunday",
+                    "lectionary_num":   "167",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "DT 8:2-3, 14B-16A",
+                        "psalm":            "PS 147:12-13, 14-15, 19-20",
+                        "reading_2":        "1 COR 10:16-17",
+                        "gospel":           "JN 6:51-58"
+                    }
+                },
+                "15":{
+                    "title":            "Monday of the Eleventh Week in Ordinary Time",
+                    "day_of_week":      "Monday",
+                    "lectionary_num":   "365",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "1 KGS 21:1-16",
+                        "psalm":            "PS 5:2-3AB, 4B-6A, 6B-7",
+                        "gospel":           "MT 5:38-42"
+                    }
+                },
+                "16":{
+                    "title":            "Tuesday of the Eleventh Week in Ordinary Time",
+                    "day_of_week":      "Tuesday",
+                    "lectionary_num":   "366",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "1 KGS 21:17-29",
+                        "psalm":            "PS 51:3-4, 5-6AB, 11 AND 16",
+                        "gospel":           "MT 5:43-48"
+                    }
+                },
+                "17":{
+                    "title":            "Wednesday of the Eleventh Week in Ordinary Time",
+                    "day_of_week":      "Wednesday",
+                    "lectionary_num":   "367",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "2 KGS 2:1, 6-14",
+                        "psalm":            "PS 31:20, 21, 24",
+                        "gospel":           "MT 6:1-6, 16-18"
+                    }
+                },
+                "18":{
+                    "title":            "Thursday of the Eleventh Week in Ordinary Time",
+                    "day_of_week":      "Thursday",
+                    "lectionary_num":   "368",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "SIR 48:1-14",
+                        "psalm":            "PS 97:1-2, 3-4, 5-6, 7",
+                        "gospel":           "MT 6:7-15"
+                    }
+                },
+                "19":{
+                    "title":            "Solemnity of Most Sacred Heart of Jesus",
+                    "day_of_week":      "Friday",
+                    "lectionary_num":   "170",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "DT 7:6-11",
+                        "psalm":            "PS 103:1-2, 3-4, 6-7, 8, 10",
+                        "reading_2":        "1 JN 4:7-16",
+                        "gospel":           "MT 11:25-30"
+                    }
+                },
+                "20":{
+                    "title":            "Memorial of the Immaculate Heart of the Blessed Virgin Mary",
+                    "day_of_week":      "Saturday",
+                    "lectionary_num":   "370/573",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "2 CHR 24:17-25",
+                        "psalm":            "PS 89:4-5, 29-30, 31-32, 33-34",
+                        "gospel":           "LK 2:41-51"
+                    }
                 }
             }
         }
