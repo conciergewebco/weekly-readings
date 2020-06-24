@@ -2053,6 +2053,85 @@
                         "psalm":            "PS 89:4-5, 29-30, 31-32, 33-34",
                         "gospel":           "LK 2:41-51"
                     }
+                },
+                "21":{
+                    "title":            "Twelfth Sunday in Ordinary Time",
+                    "day_of_week":      "Sunday",
+                    "lectionary_num":   "94",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "JER 20:10-13",
+                        "psalm":            "PS 69:8-10, 14, 17, 33-35",
+                        "reading_2":        "ROM 5:12-15",
+                        "gospel":           "MT 10:26-33"
+                    }
+                },
+                "22":{
+                    "title":            "Monday of the Twelfth Week in Ordinary Time",
+                    "day_of_week":      "Monday",
+                    "lectionary_num":   "371",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "2 KGS 17:5-8, 13-15A, 18",
+                        "psalm":            "PS 60:3, 4-5, 12-13",
+                        "gospel":           "MT 7:1-5"
+                    }
+                },
+                "23":{
+                    "title":            "Tuesday of the Twelfth Week in Ordinary Time",
+                    "day_of_week":      "Tuesday",
+                    "lectionary_num":   "372",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "2 KGS 19:9B-11, 14-21, 31-35A, 36",
+                        "psalm":            "PS 48:2-3AB, 3CD-4, 10-11",
+                        "gospel":           "MT 7:6, 12-14"
+                    }
+                },
+                "24":{
+                    "title":            "Solemnity of the Nativity of Saint John the Baptist",
+                    "day_of_week":      "Wednesday",
+                    "lectionary_num":   "587",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "IS 49:1-6",
+                        "psalm":            "PS 139:1B-3, 13-14AB, 14C-15",
+                        "reading_2":        "ACTS 13:22-26",
+                        "gospel":           "LK 1:57-66, 80"
+                    }
+                },
+                "25":{
+                    "title":            "Thursday of the Twelfth Week in Ordinary Time",
+                    "day_of_week":      "Thursday",
+                    "lectionary_num":   "374",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "2 KGS 24:8-17",
+                        "psalm":            "PS 79:1B-2, 3-5, 8, 9",
+                        "gospel":           "MT 7:21-29"
+                    }
+                },
+                "26":{
+                    "title":            "Friday of the Twelfth Week in Ordinary Time",
+                    "day_of_week":      "Friday",
+                    "lectionary_num":   "375",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "2 KGS 25:1-12",
+                        "psalm":            "PS 137:1-2, 3, 4-5, 6",
+                        "gospel":           "MT 8:1-4"
+                    }
+                },
+                "27":{
+                    "title":            "Saturday of the Twelfth Week in Ordinary Time",
+                    "day_of_week":      "Saturday",
+                    "lectionary_num":   "376",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "LAM 2:2, 10-14, 18-19",
+                        "psalm":            "PS 74:1B-2, 3-5, 6-7, 20-21",
+                        "gospel":           "MT 8:5-17"
+                    }
                 }
             }
         }
