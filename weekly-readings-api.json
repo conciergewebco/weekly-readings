@@ -2132,6 +2132,88 @@
                         "psalm":            "PS 74:1B-2, 3-5, 6-7, 20-21",
                         "gospel":           "MT 8:5-17"
                     }
+                },
+                "28":{
+                    "title":            "Thirteenth Sunday in Ordinary Time",
+                    "day_of_week":      "Sunday",
+                    "lectionary_num":   "97",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "2 KGS 4:8-11, 14-16A",
+                        "psalm":            "PS 89:2-3, 16-17, 18-19",
+                        "reading_2":        "ROM 6:3-4, 8-11",
+                        "gospel":           "MT 10:37-42"
+                    }
+                },
+                "29":{
+                    "title":            "Solemnity of Saints Peter and Paul, Apostles",
+                    "day_of_week":      "Monday",
+                    "lectionary_num":   "591",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "ACTS 12:1-11",
+                        "psalm":            "PS 34:2-3, 4-5, 6-7, 8-9",
+                        "reading_2":        "2 TM 4:6-8, 17-18",
+                        "gospel":           "MT 16:13-19"
+                    }
+                },
+                "30":{
+                    "title":            "Tuesday of the Thirteenth Week in Ordinary Time",
+                    "day_of_week":      "Tuesday",
+                    "lectionary_num":   "378",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "AM 3:1-8; 4:11-12",
+                        "psalm":            "PS 5:4B-6A, 6B-7, 8",
+                        "gospel":           "MT 8:23-27"
+                    }
+                }
+            },
+            "07":{
+                "01":{
+                    "title":            "Solemnity of the Nativity of Saint John the Baptist",
+                    "day_of_week":      "Wednesday",
+                    "lectionary_num":   "587",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "IS 49:1-6",
+                        "psalm":            "PS 139:1B-3, 13-14AB, 14C-15",
+                        "reading_2":        "ACTS 13:22-26",
+                        "gospel":           "LK 1:57-66, 80"
+                    }
+                },
+                "02":{
+                    "title":            "Thursday of the Twelfth Week in Ordinary Time",
+                    "day_of_week":      "Thursday",
+                    "lectionary_num":   "374",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "2 KGS 24:8-17",
+                        "psalm":            "PS 79:1B-2, 3-5, 8, 9",
+                        "gospel":           "MT 7:21-29"
+                    }
+                },
+                "03":{
+                    "title":            "Friday of the Twelfth Week in Ordinary Time",
+                    "day_of_week":      "Friday",
+                    "lectionary_num":   "375",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "2 KGS 25:1-12",
+                        "psalm":            "PS 137:1-2, 3, 4-5, 6",
+                        "gospel":           "MT 8:1-4"
+                    }
+                },
+                "04":{
+                    "title":            "Saturday of the Twelfth Week in Ordinary Time",
+                    "day_of_week":      "Saturday",
+                    "lectionary_num":   "376",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "LAM 2:2, 10-14, 18-19",
+                        "psalm":            "PS 74:1B-2, 3-5, 6-7, 20-21",
+                        "gospel":           "MT 8:5-17"
+                    }
                 }
             }
         }
