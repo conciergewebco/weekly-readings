@@ -2448,6 +2448,86 @@
                         "psalm":            "Salmo 125, 1-2ab. 2cd-3. 4-5. 6",
                         "gospel":           "Mt 20, 20-28"
                     }
+                },
+                "26":{
+                    "title":            "XVII Domingo Ordinario",
+                    "day_of_week":      "Domingo",
+                    "lectionary_num":   "109",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "1 Reyes 3, 5. 7-12",
+                        "psalm":            "Salmo 118, 57 y 72. 76-77. 127-128. 129-130",
+                        "reading_2":        "Rom 8, 28-30",
+                        "gospel":           "Mt 13, 44-52"
+                    }
+                },
+                "27":{
+                    "title":            "Lunes de la XVII semana del Tiempo ordinario",
+                    "day_of_week":      "Lunes",
+                    "lectionary_num":   "401",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Jer 13, 1-11",
+                        "psalm":            "Dt 32, 18.-19. 20. 21",
+                        "gospel":           "Mt 13, 31-35"
+                    }
+                },
+                "28":{
+                    "title":            "Martes de la XVII semana del Tiempo ordinario",
+                    "day_of_week":      "Martes",
+                    "lectionary_num":   "402",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Jer 14, 17-22",
+                        "psalm":            "Salmo 78, 8. 9. 11 y 13",
+                        "gospel":           "Mt 13, 36-43"
+                    }
+                },
+                "29":{
+                    "title":            "Memoria de Santa Marta",
+                    "day_of_week":      "Miércoles",
+                    "lectionary_num":   "403/607",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Jer 15, 10. 16-21",
+                        "psalm":            "Salmo 58, 2-3. 4-5a. 10-11. 17. 18",
+                        "gospel":           "Jn 11, 19-27"
+                    }
+                },
+                "30":{
+                    "title":            "Jueves de la XVII semana del Tiempo ordinario",
+                    "day_of_week":      "Jueves",
+                    "lectionary_num":   "404",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Jer 18, 1-6",
+                        "psalm":            "Salmo 145, 2abc. 2d-4. 5-6",
+                        "gospel":           "Mt 13, 47-53"
+                    }
+                },
+                "31":{
+                    "title":            "Memoria de San Ignacio de Loyola, presbítero",
+                    "day_of_week":      "Viernes",
+                    "lectionary_num":   "405",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Jer 26, 1-9",
+                        "psalm":            "Salmo 68, 35. 8-10.  14",
+                        "gospel":           "Mt 13, 54-58"
+                    }
+                }
+            },
+            "08":{
+                "01":{
+                    "title":            "Fiesta de Santiago, Apóstol",
+                    "day_of_week":      "Sábado",
+                    "lectionary_num":   "605",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "2 Cor 4, 7-15",
+                        "psalm":            "Salmo 125, 1-2ab. 2cd-3. 4-5. 6",
+                        "gospel":           "Mt 20, 20-28"
+                    }
                 }
             }
         }
