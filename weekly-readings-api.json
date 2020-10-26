@@ -3157,6 +3157,86 @@
                         "gospel":           "LK 9:43B-45"
                     }
                 }
+            },
+            "10":{
+                "25":{
+                    "title":            "Thirtieth Sunday in Ordinary Time",
+                    "day_of_week":      "Sunday",
+                    "lectionary_num":   "148",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "EX 22:20-26",
+                        "psalm":            "PS 18:2-3, 3-4, 47, 51",
+                        "reading_2":        "1 THES 1:5C-10",
+                        "gospel":           "MT 22:34-40"
+                    }
+                },
+                "26":{
+                    "title":            "Monday of the Thirtieth Week in Ordinary Time",
+                    "day_of_week":      "Monday",
+                    "lectionary_num":   "479",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "EPH 4:32–5:8",
+                        "psalm":            "PS 1:1-2, 3, 4 AND 6",
+                        "gospel":           "LK 13:10-17"
+                    }
+                },
+                "27":{
+                    "title":            "Tuesday of the Thirtieth Week in Ordinary Time",
+                    "day_of_week":      "Tuesday",
+                    "lectionary_num":   "480",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "EPH 5:21-33",
+                        "psalm":            "PS 128:1-2, 3, 4-5",
+                        "gospel":           "LK 13:18-21"
+                    }
+                },
+                "28":{
+                    "title":            "Feast of Saints Simon and Jude, Apostles",
+                    "day_of_week":      "Wednesday",
+                    "lectionary_num":   "666",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "EPH 2:19-22",
+                        "psalm":            "PS 19:2-3, 4-5",
+                        "gospel":           "LK 6:12-16"
+                    }
+                },
+                "29":{
+                    "title":            "Thursday of the Thirtieth Week in Ordinary Time",
+                    "day_of_week":      "Thursday",
+                    "lectionary_num":   "482",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "EPH 6:10-20",
+                        "psalm":            "PS 144:1B, 2, 9-10",
+                        "gospel":           "LK 13:31-35"
+                    }
+                },
+                "30":{
+                    "title":            "Friday of the Thirtieth Week in Ordinary Time",
+                    "day_of_week":      "Friday",
+                    "lectionary_num":   "483",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "PHIL 1:1-11",
+                        "psalm":            "PS 111:1-2, 3-4, 5-6",
+                        "gospel":           "LK 14:1-6"
+                    }
+                },
+                "31":{
+                    "title":            "Saturday of the Thirtieth Week in Ordinary Time",
+                    "day_of_week":      "Saturday",
+                    "lectionary_num":   "484",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "PHIL 1:18B-26",
+                        "psalm":            "PS 42:2, 3, 5CDEF",
+                        "gospel":           "LK 14:1, 7-11"
+                    }
+                }
             }
         }
     }

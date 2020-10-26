@@ -3157,6 +3157,86 @@
                         "gospel":           "Lc 9, 43-45"
                     }
                 }
+            },
+            "10":{
+                "25":{
+                    "title":            "XXX Domingo ordinario",
+                    "day_of_week":      "Domingo",
+                    "lectionary_num":   "148",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Ex 22, 20-26",
+                        "psalm":            "Salmo 17, 2-3a. 3bc-4. 47 y 51ab",
+                        "reading_2":        "1 Tes 1, 5-10",
+                        "gospel":           "Mt 22, 34-40"
+                    }
+                },
+                "26":{
+                    "title":            "Lunes de la XXX semana del Tiempo ordinario",
+                    "day_of_week":      "Lunes",
+                    "lectionary_num":   "479",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Ef 4, 32–5, 8",
+                        "psalm":            "Salmo 1, 1-2. 3. 4 y 6",
+                        "gospel":           "Lc 13, 10-17"
+                    }
+                },
+                "27":{
+                    "title":            "Martes de la XXX semana del Tiempo ordinario",
+                    "day_of_week":      "Martes",
+                    "lectionary_num":   "480",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Ef 5, 21-33",
+                        "psalm":            "Salmo 127, 1-2. 3. 4-5",
+                        "gospel":           "Lc 13, 18-21"
+                    }
+                },
+                "28":{
+                    "title":            "Fiesta de los Santos Simón y Judas, Apóstoles",
+                    "day_of_week":      "Miércoles",
+                    "lectionary_num":   "666",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Ef 2, 19-22",
+                        "psalm":            "Salmo 18, 2-3. 4-5",
+                        "gospel":           "Lc 6, 12-19"
+                    }
+                },
+                "29":{
+                    "title":            "Jueves de la XXX semana del Tiempo ordinario",
+                    "day_of_week":      "Jueves",
+                    "lectionary_num":   "482",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Ef 6, 10-20",
+                        "psalm":            "Salmo 143, 1. 2. 9-10",
+                        "gospel":           "Lc 13, 31-35"
+                    }
+                },
+                "30":{
+                    "title":            "Viernes de la XXX semana del Tiempo ordinario",
+                    "day_of_week":      "Viernes",
+                    "lectionary_num":   "483",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Flp 1, 1-11",
+                        "psalm":            "Salmo 110, 1-2. 3-4. 5-6",
+                        "gospel":           "Lc 14, 1-6"
+                    }
+                },
+                "31":{
+                    "title":            "Sábado de la XXX semana del Tiempo ordinario",
+                    "day_of_week":      "Sábado",
+                    "lectionary_num":   "484",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Flp 1, 18-26",
+                        "psalm":            "Salmo 41, 2. 3. 5bcd",
+                        "gospel":           "Lc 14, 1. 7-11"
+                    }
+                }
             }
         }
     }
