@@ -3237,6 +3237,165 @@
                         "gospel":           "Lc 14, 1. 7-11"
                     }
                 }
+            },
+            "11":{
+                "01":{
+                    "title":            "XXX Domingo ordinario",
+                    "day_of_week":      "Domingo",
+                    "lectionary_num":   "148",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Ex 22, 20-26",
+                        "psalm":            "Salmo 17, 2-3a. 3bc-4. 47 y 51ab",
+                        "reading_2":        "1 Tes 1, 5-10",
+                        "gospel":           "Mt 22, 34-40"
+                    }
+                },
+                "02":{
+                    "title":            "Lunes de la XXX semana del Tiempo ordinario",
+                    "day_of_week":      "Lunes",
+                    "lectionary_num":   "479",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Ef 4, 32–5, 8",
+                        "psalm":            "Salmo 1, 1-2. 3. 4 y 6",
+                        "gospel":           "Lc 13, 10-17"
+                    }
+                },
+                "03":{
+                    "title":            "Martes de la XXX semana del Tiempo ordinario",
+                    "day_of_week":      "Martes",
+                    "lectionary_num":   "480",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Ef 5, 21-33",
+                        "psalm":            "Salmo 127, 1-2. 3. 4-5",
+                        "gospel":           "Lc 13, 18-21"
+                    }
+                },
+                "04":{
+                    "title":            "Fiesta de los Santos Simón y Judas, Apóstoles",
+                    "day_of_week":      "Miércoles",
+                    "lectionary_num":   "666",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Ef 2, 19-22",
+                        "psalm":            "Salmo 18, 2-3. 4-5",
+                        "gospel":           "Lc 6, 12-19"
+                    }
+                },
+                "05":{
+                    "title":            "Jueves de la XXX semana del Tiempo ordinario",
+                    "day_of_week":      "Jueves",
+                    "lectionary_num":   "482",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Ef 6, 10-20",
+                        "psalm":            "Salmo 143, 1. 2. 9-10",
+                        "gospel":           "Lc 13, 31-35"
+                    }
+                },
+                "06":{
+                    "title":            "Viernes de la XXX semana del Tiempo ordinario",
+                    "day_of_week":      "Viernes",
+                    "lectionary_num":   "483",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Flp 1, 1-11",
+                        "psalm":            "Salmo 110, 1-2. 3-4. 5-6",
+                        "gospel":           "Lc 14, 1-6"
+                    }
+                },
+                "07":{
+                    "title":            "Sábado de la XXX semana del Tiempo ordinario",
+                    "day_of_week":      "Sábado",
+                    "lectionary_num":   "484",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Flp 1, 18-26",
+                        "psalm":            "Salmo 41, 2. 3. 5bcd",
+                        "gospel":           "Lc 14, 1. 7-11"
+                    }
+                },
+                "08":{
+                    "title":            "XXXII Domingo ordinario",
+                    "day_of_week":      "Domingo",
+                    "lectionary_num":   "154",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Sab 6, 12-16",
+                        "psalm":            "Salmo 62",
+                        "reading_2":        "1 Tes 4, 13-18",
+                        "gospel":           "Mt 25, 1-13"
+                    }
+                },
+                "09":{
+                    "title":            "Fiesta de la Dedicación de la Basílica de Letrán",
+                    "day_of_week":      "Lunes",
+                    "lectionary_num":   "671",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Ez 47, 1-2. 8-9. 12",
+                        "psalm":            "Salmo 45, 2-3. 5-6. 8-9",
+                        "reading_2":        "1 Cor 3, 9-11. 16-17",
+                        "gospel":           "Jn 2, 13-22"
+                    }
+                },
+                "10":{
+                    "title":            "Memoria de San León Magno, Papa y doctor de la Iglesia",
+                    "day_of_week":      "Martes",
+                    "lectionary_num":   "492",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Ti 2, 1-8. 11-14",
+                        "psalm":            "Salmo 36, 3-4. 18 y 23. 27 y 29",
+                        "gospel":           "Lc 17, 7-10"
+                    }
+                },
+                "11":{
+                    "title":            "Memoria de San Martín de Tours, obispo",
+                    "day_of_week":      "Miércoles",
+                    "lectionary_num":   "493",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Ti 3, 1.7",
+                        "psalm":            "Salmo 22, 1-3a. 3b-4. 5. 6",
+                        "gospel":           "Lc 17, 11-19"
+                    }
+                },
+                "12":{
+                    "title":            "Memoria de San Josafat, obispo y mártir",
+                    "day_of_week":      "Jueves",
+                    "lectionary_num":   "494",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Fmn 7-20",
+                        "psalm":            "Salmo 145, 7. 8-9a. 9bc-10",
+                        "gospel":           "Lc 17, 20-25"
+                    }
+                },
+                "13":{
+                    "title":            "Memoria de Santa Francisca Javier Cabrini, virgen",
+                    "day_of_week":      "Viernes",
+                    "lectionary_num":   "495",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "2 Jn 4-9",
+                        "psalm":            "Salmo 118, 1. 2.10. 11. 17. 18",
+                        "gospel":           "Lc 17, 26-37"
+                    }
+                },
+                "14":{
+                    "title":            "Sábado del XXXII semana del Tiempo ordinario",
+                    "day_of_week":      "Sábado",
+                    "lectionary_num":   "496",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "3 Jn 5-8",
+                        "psalm":            "Salmo 111, 1-2. 3-4. 5-6",
+                        "gospel":           "Lc 18, 1-8"
+                    }
+                }
             }
         }
     }
