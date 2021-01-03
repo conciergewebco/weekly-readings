@@ -59,6 +59,88 @@
                     }
                 }
             }
+        },
+        "2021":{
+            "01":{
+                "03":{
+                    "title":            "The Epiphany of the Lord",
+                    "day_of_week":      "Sunday",
+                    "lectionary_num":   "20",
+                    "lit_season":       "Christmas",
+                    "readings": {
+                        "reading_1":        "Is 60:1-6",
+                        "psalm":            "Ps 72:1-2, 7-8, 10-11, 12-13",
+                        "reading_2":        "Eph 3:2-3a, 5-6",
+                        "gospel":           "Mt 2:1-12"
+                    }
+                },
+                "04":{
+                    "title":            "Memorial of Saint Elizabeth Ann Seton, religious",
+                    "day_of_week":      "Monday",
+                    "lectionary_num":   "212",
+                    "lit_season":       "Christmas",
+                    "readings": {
+                        "reading_1":        "1 Jn 3:22–4:6",
+                        "psalm":            "PS 2:7bc-8, 10-12a",
+                        "gospel":           "Mt 4:12-17, 23-25"
+                    }
+                },
+                "05":{
+                    "title":            "Memorial of Saint John Neumann, Bishop",
+                    "day_of_week":      "Tuesday",
+                    "lectionary_num":   "213",
+                    "lit_season":       "Christmas",
+                    "readings": {
+                        "reading_1":        "1 Jn 4:7-10",
+                        "psalm":            "PS 72:1-2, 3-4, 7-8",
+                        "gospel":           "Mk 6:34-44"
+                    }
+                },
+                "06":{
+                    "title":            "Wednesday after Epiphany",
+                    "day_of_week":      "Wednesday",
+                    "lectionary_num":   "214",
+                    "lit_season":       "Christmas",
+                    "readings": {
+                        "reading_1":        "1 Jn 4:11-18",
+                        "psalm":            "PS 72:1-2, 10, 12-13",
+                        "gospel":           "Mk 6:45-52"
+                    }
+                },
+                "07":{
+                    "title":            "Thursday after Epiphany",
+                    "day_of_week":      "Thursday",
+                    "lectionary_num":   "215",
+                    "lit_season":       "Christmas",
+                    "readings": {
+                        "reading_1":        "1 Jn 4:19–5:4",
+                        "psalm":            "PS 72:1-2, 14 and 15bc, 17",
+                        "gospel":           "Lk 4:14-22"
+                    }
+                },
+                "08":{
+                    "title":            "Friday after Epiphany",
+                    "day_of_week":      "Friday",
+                    "lectionary_num":   "216",
+                    "lit_season":       "Christmas",
+                    "readings": {
+                        "reading_1":        "1 Jn 5:5-13",
+                        "psalm":            "PS 147:12-13, 14-15, 19-20",
+                        "gospel":           "Lk 5:12-16"
+                    }
+                },
+                "09":{
+                    "title":            "Saturday after Epiphany",
+                    "day_of_week":      "Saturday",
+                    "lectionary_num":   "217",
+                    "lit_season":       "Christmas",
+                    "readings": {
+                        "reading_1":        "1 Jn 5:14-21",
+                        "psalm":            "PS 149:1-2, 3-4, 5-6a and 9b",
+                        "gospel":           "Jn 3:22-30"
+                    }
+                }
+            }
         }
     }
 }
