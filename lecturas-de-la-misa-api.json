@@ -139,6 +139,84 @@
                         "psalm":            "Sal 149, 1-2. 3-4. 5 y 6a y 9b",
                         "gospel":           "Jn 3, 22-30"
                     }
+                },
+                "10":{
+                    "title":            "Fiesta del Bautismo del Señor",
+                    "day_of_week":      "Domingo",
+                    "lectionary_num":   "21",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Is 42, 1-4. 6-7",
+                        "psalm":            "Sal 28, 1a y 2. 3ac-4. 3b y 9b-10",
+                        "reading_2":        "Hch 10, 34-38",
+                        "gospel":           "Mc 1, 7-11"
+                    }
+                },
+                "11":{
+                    "title":            "Lunes de la I semana del tiempo ordinario",
+                    "day_of_week":      "Lunes",
+                    "lectionary_num":   "305",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Heb 1, 1-6",
+                        "psalm":            "Salmo 96, 1 y 2b. 6 y 7c. 9",
+                        "gospel":           "Mc 1, 14-20"
+                    }
+                },
+                "12":{
+                    "title":            "Martes de la I semana del tiempo ordinario",
+                    "day_of_week":      "Martes",
+                    "lectionary_num":   "306",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Heb 2, 5-12",
+                        "psalm":            "Sal 8, 2ab y 5. 6-7. 8-9",
+                        "gospel":           "Mc 1, 21-28"
+                    }
+                },
+                "13":{
+                    "title":            "Miércoles de la I semana del tiempo ordinario",
+                    "day_of_week":      "Miércoles",
+                    "lectionary_num":   "307",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Heb 2, 14-18",
+                        "psalm":            "Sal 104, 1-2. 3-4. 6-7. 8-9",
+                        "gospel":           "Mc 1, 29-39"
+                    }
+                },
+                "14":{
+                    "title":            "Jueves de la I semana del tiempo ordinario",
+                    "day_of_week":      "Jueves",
+                    "lectionary_num":   "308",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Heb 3, 7-14",
+                        "psalm":            "Sal 94, 6-7c. 8-9. 10-11",
+                        "gospel":           "Mc 1, 40-45"
+                    }
+                },
+                "15":{
+                    "title":            "Viernes de la I semana del tiempo ordinario",
+                    "day_of_week":      "Viernes",
+                    "lectionary_num":   "309",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Heb 4, 1-5. 11",
+                        "psalm":            "Sal 77, 3 y 4bc. 6c-7. 8",
+                        "gospel":           "Mc 2, 1-12"
+                    }
+                },
+                "16":{
+                    "title":            "Sábado de la I semana del Tiempo ordinario",
+                    "day_of_week":      "Sábado",
+                    "lectionary_num":   "310",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Heb 4, 12-16",
+                        "psalm":            "Sal 18, 8. 9. 10. 15",
+                        "gospel":           "Mc 2, 13-17"
+                    }
                 }
             }
         }

@@ -139,6 +139,84 @@
                         "psalm":            "PS 149:1-2, 3-4, 5-6a and 9b",
                         "gospel":           "Jn 3:22-30"
                     }
+                },
+                "10":{
+                    "title":            "The Baptism of the Lord",
+                    "day_of_week":      "Sunday",
+                    "lectionary_num":   "21",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "Is 42:1-4, 6-7",
+                        "psalm":            "Ps 29:1-2, 3-4, 3, 9-10",
+                        "reading_2":        "Acts 10:34-38",
+                        "gospel":           "Mk 1:7-11"
+                    }
+                },
+                "11":{
+                    "title":            "Monday of the First Week in Ordinary Time",
+                    "day_of_week":      "Monday",
+                    "lectionary_num":   "305",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "Heb 1:1-6",
+                        "psalm":            "Ps 97:1 and 2b, 6 and 7c, 9",
+                        "gospel":           "Mk 1:14-20"
+                    }
+                },
+                "12":{
+                    "title":            "Tuesday of the First Week in Ordinary Time",
+                    "day_of_week":      "Tuesday",
+                    "lectionary_num":   "306",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "Heb 2:5-12",
+                        "psalm":            "Ps 8:2ab and 5, 6-7, 8-9",
+                        "gospel":           "Mk 1:21-28"
+                    }
+                },
+                "13":{
+                    "title":            "Wednesday of the First Week in Ordinary Time",
+                    "day_of_week":      "Wednesday",
+                    "lectionary_num":   "307",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "Heb 2:14-18",
+                        "psalm":            "Ps 105:1-2, 3-4, 6-7, 8-9",
+                        "gospel":           "Mk 1:29-39"
+                    }
+                },
+                "14":{
+                    "title":            "Thursday of the First Week of Ordinary Time",
+                    "day_of_week":      "Ordinary Time",
+                    "lectionary_num":   "308",
+                    "lit_season":       "Christmas",
+                    "readings": {
+                        "reading_1":        "Heb 3:7-14",
+                        "psalm":            "Ps 95:6-7c, 8-9, 10-11",
+                        "gospel":           "Mk 1:40-45"
+                    }
+                },
+                "15":{
+                    "title":            "Friday of the First Week in Ordinary Time",
+                    "day_of_week":      "Friday",
+                    "lectionary_num":   "309",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "Heb 4:1-5, 11",
+                        "psalm":            "Ps 78:3 and 4bc, 6c-7, 8",
+                        "gospel":           "Mk 2:1-12"
+                    }
+                },
+                "16":{
+                    "title":            "Saturday of the First Week in Ordinary Time",
+                    "day_of_week":      "Saturday",
+                    "lectionary_num":   "310",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "Heb 4:12-16",
+                        "psalm":            "Ps 19:8, 9, 10, 15",
+                        "gospel":           "Mk 2:13-17"
+                    }
                 }
             }
         }
