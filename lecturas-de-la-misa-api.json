@@ -295,6 +295,84 @@
                         "psalm":            "Sal 46, 2-3. 6-7. 8-9",
                         "gospel":           "Mc 3, 20-21"
                     }
+                },
+                "24":{
+                    "title":            "III Domingo Ordinario",
+                    "day_of_week":      "Domingo",
+                    "lectionary_num":   "68",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Jon 3, 1-5. 10",
+                        "psalm":            "Sal 24, 4-5ab. 6-7bc. 8-9",
+                        "reading_2":        "1 Cor 7, 29-31",
+                        "gospel":           "Mc 1, 14-20"
+                    }
+                },
+                "25":{
+                    "title":            "Fiesta de la Conversión de San Pablo, Apóstol",
+                    "day_of_week":      "Lunes",
+                    "lectionary_num":   "519",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Hch 22, 3-16",
+                        "psalm":            "Salmo 116, 1bc. 2",
+                        "gospel":           "Mc 16, 15-18"
+                    }
+                },
+                "26":{
+                    "title":            "Memoria de Santos Timoteo y Tito, obispos",
+                    "day_of_week":      "Martes",
+                    "lectionary_num":   "520/318",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "2 Tm 1, 1-8",
+                        "psalm":            "Sal 95, 1-2a. 2b-3. 7-8a. 10",
+                        "gospel":           "Mc 3, 31-35"
+                    }
+                },
+                "27":{
+                    "title":            "Miércoles de la III Semana del Tiempo ordinario",
+                    "day_of_week":      "Miércoles",
+                    "lectionary_num":   "319",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Heb 10, 11-18",
+                        "psalm":            "Sal 109, 1.2. 3. 4",
+                        "gospel":           "Mc 4, 1-20"
+                    }
+                },
+                "28":{
+                    "title":            "Memoria de Santo Tomás de Aquino, presbítero y doctor de la Iglesia",
+                    "day_of_week":      "Jueves",
+                    "lectionary_num":   "320",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Heb 10, 19-25",
+                        "psalm":            "Sal 23, 1-2. 3-4ab. 5-6",
+                        "gospel":           "Mc 4, 21-25"
+                    }
+                },
+                "29":{
+                    "title":            "Viernes de la III semana del tiempo ordinario",
+                    "day_of_week":      "Viernes",
+                    "lectionary_num":   "321",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Heb 10, 32-39",
+                        "psalm":            "Sal 36, 3-4. 5-6. 23-24. 39-40",
+                        "gospel":           "Mc 4, 26-34"
+                    }
+                },
+                "30":{
+                    "title":            "Sábado de la III semana del Tiempo ordinario",
+                    "day_of_week":      "Sábado",
+                    "lectionary_num":   "322",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Heb 11, 1-2, 8-19",
+                        "psalm":            "Lc 1, 69-70. 71-71. 73-75",
+                        "gospel":           "Mc 4, 35-41"
+                    }
                 }
             }
         }

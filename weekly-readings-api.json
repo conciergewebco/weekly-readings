@@ -267,7 +267,7 @@
                     "title":            "Memorial of Saint Agnes, Virgin and Martyr",
                     "day_of_week":      "Ordinary Time",
                     "lectionary_num":   "314",
-                    "lit_season":       "Christmas",
+                    "lit_season":       "Ordinary Time",
                     "readings": {
                         "reading_1":        "Heb 7:25—8:6",
                         "psalm":            "Ps 40:7-8a, 8b-9, 10, 17",
@@ -294,6 +294,84 @@
                         "reading_1":        "Heb 9:2-3, 11-14",
                         "psalm":            "Ps 47:2-3, 6-7, 8-9",
                         "gospel":           "Mk 3:20-21"
+                    }
+                },
+                "24":{
+                    "title":            "Third Sunday in Ordinary Time",
+                    "day_of_week":      "Sunday",
+                    "lectionary_num":   "68",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "Jon 3:1-5, 10",
+                        "psalm":            "Ps 25:4-5, 6-7, 8-9",
+                        "reading_2":        "1 Cor 7:29-31",
+                        "gospel":           "Mk 1:14-20"
+                    }
+                },
+                "25":{
+                    "title":            "Feast of the Conversion of Saint Paul, Apostle",
+                    "day_of_week":      "Monday",
+                    "lectionary_num":   "519",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "Acts 22:3-16",
+                        "psalm":            "Ps 117:1bc, 2",
+                        "gospel":           "Mk 16:15-18"
+                    }
+                },
+                "26":{
+                    "title":            "Memorial of Saints Timothy and Titus, bishops",
+                    "day_of_week":      "Tuesday",
+                    "lectionary_num":   "520/318",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "2 Tm 1:1-8",
+                        "psalm":            "Ps 96:1-2a, 2b-3, 7-8a, 10",
+                        "gospel":           "Mk 3:31-35"
+                    }
+                },
+                "27":{
+                    "title":            "Wednesday of the Third Week in Ordinary Time",
+                    "day_of_week":      "Wednesday",
+                    "lectionary_num":   "319",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "Heb 10:11-18",
+                        "psalm":            "Ps 110:1, 2, 3, 4",
+                        "gospel":           "Mk 4:1-20"
+                    }
+                },
+                "28":{
+                    "title":            "Memorial of Saint Thomas Aquinas, Priest and Doctor of the Church",
+                    "day_of_week":      "Ordinary Time",
+                    "lectionary_num":   "320",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "Heb 10:19-25",
+                        "psalm":            "Ps 24:1-2, 3-4ab, 5-6",
+                        "gospel":           "Mk 4:21-25"
+                    }
+                },
+                "29":{
+                    "title":            "Friday of the Third Week in Ordinary Time",
+                    "day_of_week":      "Friday",
+                    "lectionary_num":   "321",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "Heb 10:32-39",
+                        "psalm":            "Ps 37:3-4, 5-6, 23-24, 39-40",
+                        "gospel":           "Mk 4:26-34"
+                    }
+                },
+                "30":{
+                    "title":            "Saturday of the Third Week in Ordinary Time",
+                    "day_of_week":      "Saturday",
+                    "lectionary_num":   "322",
+                    "lit_season":       "Ordinary Time",
+                    "readings": {
+                        "reading_1":        "Heb 11:1-2, 8-19",
+                        "psalm":            "Lk 1:69-70, 71-72, 73-75",
+                        "gospel":           "Mk 4:35-41"
                     }
                 }
             }
