@@ -612,6 +612,84 @@
                         "psalm":            "Salmo 85, 1-2. 3-4. 5-6",
                         "gospel":           "Lc 5, 27-32"
                     }
+                },
+                "21":{
+                    "title":            "I Domingo de Cuaresma",
+                    "day_of_week":      "Cuaresma",
+                    "lectionary_num":   "23",
+                    "lit_season":       "Tiempo Ordinario",
+                    "readings": {
+                        "reading_1":        "Gn 9, 8-15",
+                        "psalm":            "Salmo 24, 4bc-5ab. 6-7bc. 8-9",
+                        "reading_2":        "1 Pt 3, 18-22",
+                        "gospel":           "Mc 1, 12-15"
+                    }
+                },
+                "22":{
+                    "title":            "Fiesta de la Cátedra de San Pedro, Apóstol",
+                    "day_of_week":      "Lunes",
+                    "lectionary_num":   "535",
+                    "lit_season":       "Cuaresma",
+                    "readings": {
+                        "reading_1":        "1 Pt 5, 1-4",
+                        "psalm":            "Salmo 22, 1-3a. 3b-4. 5. 6",
+                        "gospel":           "Mt 16, 13-19"
+                    }
+                },
+                "23":{
+                    "title":            "Martes de la I semana de Cuaresma",
+                    "day_of_week":      "Martes",
+                    "lectionary_num":   "225",
+                    "lit_season":       "Cuaresma",
+                    "readings": {
+                        "reading_1":        "Is 55, 10-11",
+                        "psalm":            "Salmo 33, 4-5. 6-7. 16-17. 18-19",
+                        "gospel":           "Mt 6, 7-15"
+                    }
+                },
+                "24":{
+                    "title":            "Miércoles de la I semana de Cuaresma",
+                    "day_of_week":      "Miércoles",
+                    "lectionary_num":   "226",
+                    "lit_season":       "Cuaresma",
+                    "readings": {
+                        "reading_1":        "Jn 3, 1-10",
+                        "psalm":            "Salmo 50, 3-4. 12-13. 18-19",
+                        "gospel":           "Lc 11, 29-32"
+                    }
+                },
+                "25":{
+                    "title":            "Jueves de la I semana de Cuaresma",
+                    "day_of_week":      "Jueves",
+                    "lectionary_num":   "227",
+                    "lit_season":       "Cuaresma",
+                    "readings": {
+                        "reading_1":        "Es 4, 17n. p-r. aa-bb. gg-hh",
+                        "psalm":            "Salmo 137, 1-2a. 2bc-3. 7c-8",
+                        "gospel":           "Mt 7, 7-12"
+                    }
+                },
+                "26":{
+                    "title":            "Viernes de la I semana de Cuaresma",
+                    "day_of_week":      "Viernes",
+                    "lectionary_num":   "228",
+                    "lit_season":       "Cuaresma",
+                    "readings": {
+                        "reading_1":        "Ez 18, 21-28",
+                        "psalm":            "Salmo 129, 1-2. 3-4ab. 4c-6. 7-8",
+                        "gospel":           "Mt 5, 20-26"
+                    }
+                },
+                "27":{
+                    "title":            "Sábado de la I semana de Cuaresma",
+                    "day_of_week":      "Sábado",
+                    "lectionary_num":   "229",
+                    "lit_season":       "Cuaresma",
+                    "readings": {
+                        "reading_1":        "Dt 26, 16-19",
+                        "psalm":            "Salmo 118, 1-2. 4-5. 7-8",
+                        "gospel":           "Mt 5, 43-48"
+                    }
                 }
             }
         }
