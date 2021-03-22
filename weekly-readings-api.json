@@ -691,6 +691,87 @@
                         "gospel":           "Mt 5:43-48"
                     }
                 }
+            },
+            "03":{
+                "21":{
+                    "title":            "Fifth Sunday of Lent",
+                    "day_of_week":      "Sunday",
+                    "lectionary_num":   "34",
+                    "lit_season":       "Lent",
+                    "readings": {
+                        "reading_1":        "Ez 37:12-14",
+                        "psalm":            "Ps 130:1-2, 3-4, 5-6, 7-8",
+                        "reading_2":        "Rom 8:8-11",
+                        "gospel":           "Jn 11:1-45"
+                    }
+                },
+                "22":{
+                    "title":            "Monday of the Fifth Week of Lent",
+                    "day_of_week":      "Monday",
+                    "lectionary_num":   "251",
+                    "lit_season":       "Lent",
+                    "readings": {
+                        "reading_1":        "Dn 13:1-9, 15-17, 19-30, 33-62 or 13:41c-62",
+                        "psalm":            "Ps 23:1-3a, 3b-4, 5, 6",
+                        "gospel":           "Jn 8:1-11"
+                    }
+                },
+                "23":{
+                    "title":            "Tuesday of the Fifth Week of Lent",
+                    "day_of_week":      "Tuesday",
+                    "lectionary_num":   "252",
+                    "lit_season":       "Lent",
+                    "readings": {
+                        "reading_1":        "Nm 21:4-9",
+                        "psalm":            "Ps 102:2-3, 16-18, 19-21",
+                        "gospel":           "Jn 8:21-30"
+                    }
+                },
+                "24":{
+                    "title":            "Wednesday of the Fifth Week of Lent",
+                    "day_of_week":      "Wednesday",
+                    "lectionary_num":   "253",
+                    "lit_season":       "Lent",
+                    "readings": {
+                        "reading_1":        "Dn 3:14-20, 91-92, 95",
+                        "psalm":            "Dn 3:52, 53, 54, 55, 56",
+                        "gospel":           "Jn 8:31-42"
+                    }
+                },
+                "25":{
+                    "title":            "Solemnity of the Annunciation of the Lord",
+                    "day_of_week":      "Thursday",
+                    "lectionary_num":   "545",
+                    "lit_season":       "Lent",
+                    "readings": {
+                        "reading_1":        "Is 7:10-14; 8:10",
+                        "psalm":            "Ps 40:7-8a, 8b-9, 10, 11",
+                        "reading_2":        "Heb 10:4-10",
+                        "gospel":           "Lk 1:26-38"
+                    }
+                },
+                "26":{
+                    "title":            "Friday of the Fifth Week of Lent",
+                    "day_of_week":      "Friday",
+                    "lectionary_num":   "255",
+                    "lit_season":       "Lent",
+                    "readings": {
+                        "reading_1":        "Jer 20:10-13",
+                        "psalm":            "Ps 18:2-3a, 3bc-4, 5-6, 7",
+                        "gospel":           "Jn 10:31-42"
+                    }
+                },
+                "27":{
+                    "title":            "Saturday of the Fifth Week of Lent",
+                    "day_of_week":      "Saturday",
+                    "lectionary_num":   "256",
+                    "lit_season":       "Lent",
+                    "readings": {
+                        "reading_1":        "Ez 37:21-28",
+                        "psalm":            "Jer 31:10, 11-12abcd, 13",
+                        "gospel":           "Jn 11:45-56"
+                    }
+                }
             }
         }
     }
