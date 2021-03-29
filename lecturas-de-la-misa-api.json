@@ -771,6 +771,87 @@
                         "psalm":            "Jer 31, 10. 11-12ab. 13",
                         "gospel":           "Jn 11, 45-56"
                     }
+                },
+                "28":{
+                    "title":            "Domingo de Ramos “De la pasión del Señor”",
+                    "day_of_week":      "Cuaresma",
+                    "lectionary_num":   "37/38",
+                    "lit_season":       "Cuaresma",
+                    "readings": {
+                        "reading_1":        "Is 50, 4-7",
+                        "psalm":            "Salmo 21, 8-9. 17-18a. 19-20. 23-24",
+                        "reading_2":        "Flp 2, 6-11",
+                        "gospel":           "Mc 14, 1–15, 47"
+                    }
+                },
+                "29":{
+                    "title":            "Lunes de la semana santa",
+                    "day_of_week":      "Lunes",
+                    "lectionary_num":   "257",
+                    "lit_season":       "Cuaresma",
+                    "readings": {
+                        "reading_1":        "Is 42, 1-7",
+                        "psalm":            "Salmo 26, 1. 2. 3. 13-14",
+                        "gospel":           "Jn 12, 1-11"
+                    }
+                },
+                "30":{
+                    "title":            "Martes de la semana santa",
+                    "day_of_week":      "Martes",
+                    "lectionary_num":   "258",
+                    "lit_season":       "Cuaresma",
+                    "readings": {
+                        "reading_1":        "Is 49, 1-6",
+                        "psalm":            "Salmo 70, 1-2. 3-4a. 5-6ab. 15 y 17",
+                        "gospel":           "Jn 13, 21-33. 36-38"
+                    }
+                },
+                "31":{
+                    "title":            "Miércoles de la semana santa",
+                    "day_of_week":      "Miércoles",
+                    "lectionary_num":   "259",
+                    "lit_season":       "Cuaresma",
+                    "readings": {
+                        "reading_1":        "Is 50, 4-9a",
+                        "psalm":            "Salmo 68, 8-10. 21bcd-22. 31 y 33-34",
+                        "gospel":           "Mt 26, 14-25"
+                    }
+                }
+            },
+            "04":{
+                "01":{
+                    "title":            "Solemnidad de la Anunciación del Señor",
+                    "day_of_week":      "Jueves",
+                    "lectionary_num":   "545",
+                    "lit_season":       "Cuaresma",
+                    "readings": {
+                        "reading_1":        "Is 7, 10-14",
+                        "psalm":            "Salmo 39, 7-8a. 8b-9. 10. 11",
+                        "reading_2":        "Heb 10, 4-10",
+                        "gospel":           "Lc 1, 26-38"
+                    }
+                },
+                "02":{
+                    "title":            "Viernes de la V semana de Cuaresma",
+                    "day_of_week":      "Viernes",
+                    "lectionary_num":   "255",
+                    "lit_season":       "Cuaresma",
+                    "readings": {
+                        "reading_1":        "Jer 20, 10-13",
+                        "psalm":            "Salmo 17, 2-3a. 3bc-4. 5-6. 7",
+                        "gospel":           "Jn 10, 31-42"
+                    }
+                },
+                "03":{
+                    "title":            "Sábado de la V semana de Cuaresma",
+                    "day_of_week":      "Sábado",
+                    "lectionary_num":   "256",
+                    "lit_season":       "Cuaresma",
+                    "readings": {
+                        "reading_1":        "Ez 37, 21-28",
+                        "psalm":            "Jer 31, 10. 11-12ab. 13",
+                        "gospel":           "Jn 11, 45-56"
+                    }
                 }
             }
         }
