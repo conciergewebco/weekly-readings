@@ -930,6 +930,164 @@
                         "psalm":            "Ps 118:1 and 14-15ab, 16-18, 19-21",
                         "gospel":           "Mk 16:9-15"
                     }
+                },
+                "11":{
+                    "title":            "Easter Sunday The Resurrection of the Lord The Mass of Easter Day",
+                    "day_of_week":      "Sunday",
+                    "lectionary_num":   "42",
+                    "lit_season":       "Easter",
+                    "readings": {
+                        "reading_1":        "Acts 10:34a, 37-43",
+                        "psalm":            "Ps 118:1-2, 16-17, 22-23",
+                        "reading_2":        "Col 3:1-4",
+                        "gospel":           "Jn 20:1-9"
+                    }
+                },
+                "12":{
+                    "title":            "Monday in the Octave of Easter",
+                    "day_of_week":      "Monday",
+                    "lectionary_num":   "261",
+                    "lit_season":       "Easter",
+                    "readings": {
+                        "reading_1":        "Acts 2:14, 22-33",
+                        "psalm":            "Ps 16:1-2a and 5, 7-8, 9-10, 11",
+                        "gospel":           "Mt 28:8-15"
+                    }
+                },
+                "13":{
+                    "title":            "Tuesday in the Octave of Easter",
+                    "day_of_week":      "Tuesday",
+                    "lectionary_num":   "262",
+                    "lit_season":       "Easter",
+                    "readings": {
+                        "reading_1":        "Acts 2:36-41",
+                        "psalm":            "Ps 33:4-5, 18-19, 20 and 22",
+                        "gospel":           "Jn 20:11-18"
+                    }
+                },
+                "14":{
+                    "title":            "Wednesday in the Octave of Easter",
+                    "day_of_week":      "Wednesday",
+                    "lectionary_num":   "263",
+                    "lit_season":       "Easter",
+                    "readings": {
+                        "reading_1":        "Acts 3:1-10",
+                        "psalm":            "Ps 105:1-2, 3-4, 6-7, 8-9",
+                        "gospel":           "Lk 24:13-35"
+                    }
+                },
+                "15":{
+                    "title":            "Thursday in the Octave of Easter",
+                    "day_of_week":      "Thursday",
+                    "lectionary_num":   "264",
+                    "lit_season":       "Easter",
+                    "readings": {
+                        "reading_1":        "Acts 3:11-26",
+                        "psalm":            "Ps 8:2ab and 5, 6-7, 8-9",
+                        "gospel":           "Lk 24:35-48"
+                    }
+                },
+                "16":{
+                    "title":            "Friday in the Octave of Easter",
+                    "day_of_week":      "Friday",
+                    "lectionary_num":   "265",
+                    "lit_season":       "Easter",
+                    "readings": {
+                        "reading_1":        "Acts 4:1-12",
+                        "psalm":            "Ps 118:1-2 and 4, 22-24, 25-27a",
+                        "gospel":           "Jn 21:1-14"
+                    }
+                },
+                "17":{
+                    "title":            "Saturday in the Octave of Easter",
+                    "day_of_week":      "Saturday",
+                    "lectionary_num":   "266",
+                    "lit_season":       "Easter",
+                    "readings": {
+                        "reading_1":        "Acts 4:13-21",
+                        "psalm":            "Ps 118:1 and 14-15ab, 16-18, 19-21",
+                        "gospel":           "Mk 16:9-15"
+                    }
+                },
+                "25":{
+                    "title":            "Fourth Sunday of Easter",
+                    "day_of_week":      "Sunday",
+                    "lectionary_num":   "50",
+                    "lit_season":       "Easter",
+                    "readings": {
+                        "reading_1":        "Acts 4:8-12",
+                        "psalm":            "Ps 118:1, 8-9, 21-23, 26, 28, 29",
+                        "reading_2":        "1 Jn 3:1-2",
+                        "gospel":           "Jn 10:11-18"
+                    }
+                },
+                "26":{
+                    "title":            "Monday of the Fourth Week of Easter",
+                    "day_of_week":      "Monday",
+                    "lectionary_num":   "279",
+                    "lit_season":       "Easter",
+                    "readings": {
+                        "reading_1":        "Acts 11:1-18",
+                        "psalm":            "Ps 42:2-3; 43:3, 4",
+                        "gospel":           "Jn 10:1-10"
+                    }
+                },
+                "27":{
+                    "title":            "Tuesday of the Fourth Week of Easter",
+                    "day_of_week":      "Tuesday",
+                    "lectionary_num":   "280",
+                    "lit_season":       "Easter",
+                    "readings": {
+                        "reading_1":        "Acts 11:19-26",
+                        "psalm":            "Ps 87:1b-3, 4-5, 6-7",
+                        "gospel":           "Jn 10:22-30"
+                    }
+                },
+                "28":{
+                    "title":            "Wednesday of the Fourth Week of Easter",
+                    "day_of_week":      "Wednesday",
+                    "lectionary_num":   "281",
+                    "lit_season":       "Easter",
+                    "readings": {
+                        "reading_1":        "Acts 12:24—13:5a",
+                        "psalm":            "Ps 67:2-3, 5, 6 and 8",
+                        "gospel":           "Jn 12:44-50"
+                    }
+                },
+                "29":{
+                    "title":            "Memorial of Saint Catherine of Siena, Virgin and Doctor of the Church",
+                    "day_of_week":      "Thursday",
+                    "lectionary_num":   "282",
+                    "lit_season":       "Easter",
+                    "readings": {
+                        "reading_1":        "Acts 13:13-25",
+                        "psalm":            "Ps 89:2-3, 21-22, 25 and 27",
+                        "gospel":           "Jn 13:16-20"
+                    }
+                },
+                "30":{
+                    "title":            "Friday of the Fourth Week of Easter",
+                    "day_of_week":      "Friday",
+                    "lectionary_num":   "283",
+                    "lit_season":       "Easter",
+                    "readings": {
+                        "reading_1":        "Acts 13:26-33",
+                        "psalm":            "Ps 2:6-7, 8-9, 10-11ab",
+                        "gospel":           "Jn 14:1-6"
+                    }
+                }
+            },
+            "05":{
+                "01":{
+                    "title":            "Saturday of the Fourth Week of Easter",
+                    "day_of_week":      "Saturday",
+                    "lectionary_num":   "284",
+                    "lit_season":       "Easter",
+                    "readings": {
+                        "reading_1":        "Acts 13:44-52",
+                        "psalm":            "Ps 98:1, 2-3ab, 3cd-4",
+                        "gospel":           "Jn 14:7-14"
+                    }
                 }
             }
         }
